@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am477">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 477</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am477</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of a coping-stone.
+	      </origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">ca. 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 46 (No. 447 of 1913)</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1269</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>. He writes: “This inscription is engraved in peculiar characters. The vertical lines of the n's is a little bent, and the lower part of m in mita is compressed.”</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    <gap reason="lost" extent="unknown" unit="character"/><unclear>sa</unclear>ṇajanāna
+	    sanātimitabadhavānaṃ dānaṃ vetikāya cha hathā
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>(This) rail, six cubits long, is the gift of  ...
+	   with their grandsons, friends, and relatives.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

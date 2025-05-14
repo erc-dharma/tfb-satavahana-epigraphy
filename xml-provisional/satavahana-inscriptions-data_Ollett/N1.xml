@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 1 (of Vāsiṣṭhīputra Śrī Puḷumāvi, year 6)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the back wall of the veranda of Cave No. 2.
+	      </origPlace>
+	      <origDate when-custom="0090" precision="low" datingMethod="cal:gregorian">ca. 90 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl type="secondary">
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>1122</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:N"/>
+	    <citedRange>no. 1</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Mirashi1981"/>
+	    <citedRange>no. 16</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>
+	    <citedRange>Nasi.1</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905–1906</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  si<app><lem>dha</lem><rdg source="#AS">dhaṃ</rdg></app>
+	  raño
+	  <persName key="pers:VpŚrīPuḷumāvi">
+	    vā<app><lem>si</lem><rdg source="#G #AS">sa</rdg></app>ṭhiputasa
+	    siripuḷumayisa
+	  </persName>
+	  <app><lem>saṃ</lem><rdg source="#G #AS">sa</rdg></app>vachare
+	  <date when-custom="6" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">chaṭe 6</date>
+	  gi<app><lem>mha</lem><rdg source="#AS">ma</rdg></app>pakhe
+	  pacame 5 divase
+	  <app><lem><gap reason="lost" quantity="5" unit="character"/></lem>
+	  <rdg source="#AS">
+	    1<gap reason="lost" quantity="1" unit="character"/>
+	    po<gap reason="lost" quantity="1" unit="character"/>
+	    hi<gap reason="lost" quantity="1" unit="character"/>
+	    ti<gap reason="lost" quantity="1" unit="character"/>
+	    ā
+	  </rdg>
+	  </app>
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>Success! On the . . . . . day of the fifth—5th—fortnight of
+	summer in the sixth—6th—year of king 
+	<persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	Śrī Puḷumāvi</persName>. . . . . </p>
+      </div>
+    </body>
+  </text>
+</TEI>

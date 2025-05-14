@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaA4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati A4 (of Agniśarman)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaA4</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+	      </origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="transferred" notAfter="1968">Transferred to the State Museum at <placeName key="pl:Gulbarga">Gulbarga</placeName>. This is its current location as of 2014.</provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaA4-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:ARIE1968">ARIE 1968–1969</ptr>
+	  <citedRange>no. 97</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>A4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>. They have, however, incorrectly classified this inscription as an “Epigraph of a Sātavāhana Ruler.” The translation is mine (AO).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+
+	<ab>
+	  <lb n="1"/>
+	  <app><lem source="#ARIE1968">ṇ<unclear>hā</unclear></lem><rdg source="#Sarma1993">nhā</rdg></app>sa 
+	  bhāradāyasa <app><lem source="#Sarma1993">kuṭu</lem><rdg source="#ARIE1968">kūtu</rdg></app>bi<app><lem source="#Sarma1993">na mahā</lem><rdg source="#ARIE1968">nam aha</rdg></app>tarakasa 
+	  mahāsāthavāhanasa <persName key="pers:Sa-Agniśarman"><app><lem resp="#AO">agnisa</lem><rdg source="#Sarma1993">agnisa</rdg><rdg source="#ARIE1968">agiṣa</rdg></app>ma<supplied reason="lost">sa</supplied></persName>
+	</ab>
+      </div>
+      <div type="translation">
+	<p>
+	  Of the Mahattaraka and caravan-merchant 
+	  <persName key="pers:Sa-Agniśarman">Agniśarman</persName>,
+	  who belongs to the Bharadvāja clan...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

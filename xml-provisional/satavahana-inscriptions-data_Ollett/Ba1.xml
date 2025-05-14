@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ba1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Banavāsi inscription of Vāsiṣṭhīputra Śivaśrī Puḷumāvi</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ba1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	        <supportDesc>
+		<support>
+		  <p>Inscribed on a basalt slab in front of the
+		  Madhukeśvara temple in Banavāsi.</p>
+	          <dimensions unit="feet">
+		    <height>1.1</height>
+		    <width>4.8</width>
+		    <depth>0.5</depth>
+		  </dimensions>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Vaijayantī">Banavāsi</placeName>,
+		in front of the Madhukeśvara temple.
+	      </origPlace>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">later 2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stone</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/Ba1-narasimha_murthy_and_bhat_plate.jpg">
+      <desc>Photograph from <ref target="bibl:NarasimhaMurty1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:NarasimhaMurthy1975">Narasimha Murthy and Raghunatha Bhat 1975</ref>. I (AO) have lightly reedited it on the basis of the supplied plate.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <app><lem>sidha</lem><rdg source="bibl:NarasimhaMurthy1975">sidhaṃ</rdg></app>
+	  raño 
+	  <persName key="pers:VpŚivaśrīPuḷumāvi">
+	    vāsiṭhīputasa sivasiri<lb n="2" break="no"/>puḷumāvisa
+	  </persName>
+	  mahādeviya <app><lem>chaa</lem><rdg source="bibl:NarasimhaMurthy1975">chaā</rdg></app>patharo
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Success! This is the memorial stone of the Queen of 
+	  the king
+	  <persName key="pers:VpŚivaśrīPuḷumāvi">Vāsiṣṭhīputra
+	    Śivaśrī Puḷumāvi</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

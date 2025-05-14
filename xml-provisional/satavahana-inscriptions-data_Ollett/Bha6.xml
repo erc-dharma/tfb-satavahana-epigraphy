@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha6">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Bhājā No. 6 (gift of Viṣṇudatta)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Record created and maintained by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Bha6</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the <objectType>wall</objectType> of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>,
+	      over two wells in recess, west from the last</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">c. 2nd c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/Bha6-CTI.jpg">
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Stevenson1854"/>:
+	    <citedRange>No. 1, p.159f (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>:
+	    <citedRange>No. 2, p. 24 (Plate)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:ASWI4"/>:
+	    <citedRange>No. 7, p. 83 (Plate XLIV)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>No. 1079</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>:
+	    <citedRange>No. 6, p. 330</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Bhājā6</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on Andrew Ollett’s reading of the inscription <hi rend="italic">in situ</hi> in February 2017 and photographs taken at that time.</p>
+	<p>Note that the looping long <hi rend="italic">ī</hi> is clearly distinguishable from short <hi rend="italic">i</hi>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <g ref="#Bhajasymbol"/>
+	  mahāraṭhisa kosikīputasa
+	  <lb n="2"/>
+	  <persName key="pers:Bha-Viṣṇudatta">viṇhudatasa</persName>
+	  deyadhamaṃ poḍhi
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The religious donation of a cistern of
+	  the Mahāraṭṭhi 
+	  Kauśikīputra
+	  <persName key="pers:Bha-Viṣṇudatta">Viṣṇudatta</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

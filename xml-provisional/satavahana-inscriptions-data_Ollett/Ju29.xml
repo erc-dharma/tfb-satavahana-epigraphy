@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ju29">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 29</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju29</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		on the Leṇādri hill,
+		on the back wall of a verandah (20' by 3')
+		to a flat-rooted chaitya (22' by 12') with a stūpa.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 29</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    <persName key="pers:Kapila">kapila</persName>upāsakasa natuno
+	    <persName key="pers:Tāpasa">tāpasa</persName>upāsakasa
+	  <lb n="2"/>
+	    putasa 
+	    <persName key="pers:Ānanda3">ānadasa</persName> deyadhaṃmaṃ
+	    cetiyagharo niyuto
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The meritorious gift of Caitya Hall by
+	  <persName key="pers:Ānanda3">Ānanda</persName>,
+	  son of
+	  <persName key="pers:Tāpasa">Tāpasa</persName> the Upāsaka, and
+	  grandson of 
+	  <persName key="pers:Kapila">Kapila</persName> the Upāsaka.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

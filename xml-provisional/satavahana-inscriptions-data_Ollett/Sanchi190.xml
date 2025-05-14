@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="San190">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sanchi No. 190 (of Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>San190</idno><!-- ID follows Cunninham !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Sāñcī">Sanchi</placeName>,
+		on the bas-relief of a stupa in the middle of the upper
+		architrave of the south gateway.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0075" precision="medium" datingMethod="cal:gregorian">early 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:BT"/>
+	  <citedRange>264–265</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>346</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 2</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Sanc.384</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:BT">Cunningham 1854</ref>, pp. 264–265.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  rajño 
+	  <persName key="pers:ŚrīSātakarṇi">
+	    siri sātakanisa
+	  </persName>
+	  <lb n="2"/>avesanisa
+	  vāsithi-putasa
+	  <lb n="3"/>
+	  <persName key="pers:Ānanda">anandasa</persName>
+	  dānaṃ
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  Gift of Vāsiṣṭhīputra 
+	  <persName key="pers:Ānanda">Ānanda</persName>,
+	  the chief architect of 
+	  the king 
+	  <persName key="pers:ŚrīSātakarṇi">Śrī Sātakarṇi</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

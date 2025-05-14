@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Koḍa1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Koḍavali 1 (time of Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi, year 11)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+	<respStmt>
+	  <resp>Creation of record by</resp>
+	  <name key="staff:Ollett">Andrew Ollett</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Koḍa1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>
+		<p>On the wall of an excavated <objectType>well</objectType>.</p>
+	      </support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Koḍavali">Koḍavali</placeName>, on the wall of one of the rock-cut wells near the mound locally known as <hi rend="italic">dhanam ḍibbā</hi>.
+	      </origPlace>
+	      <origDate when-custom="0206" precision="low" datingMethod="cal:gregorian">c. 206 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:KrishnaSastri19251926"/>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>
+	    <citedRange>no. 1341</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Konow1908"/>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>Based on <bibl><ptr target="bibl:KrishnaSastri19251926"/></bibl>, with the reservations of Sten Konow (supplied by the editor of EI) taken into account.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  sidhaṃ rañ<unclear>o</unclear> <persName key="pers:VpŚrīcaṇḍaSātakarṇi">vāsiṭhī<lb n="2" break="no"/>putasa sāmisiri<lb n="3" break="no"/>caṃḍasāt<unclear>isa</unclear></persName> <date when-custom="18" datingPoint="pers:VpŚrīcaṇḍaSātakarṇi" datingMethod="cal:regnal"><app><lem source="bibl:Konow1908"><unclear>sa</unclear></lem><rdg source="bibl:KrishnaSastri19251926"><unclear>raji</unclear></rdg></app>vachare 2
+	  <lb n="4"/>
+	  10 1 he pa 2 d<unclear>i</unclear> 1</date> <gap reason="illegible" quantity="4" unit="character"/>
+	  <lb n="5"/>
+	  amacasa <unclear>bhū</unclear>mi<unclear>khaga</unclear> dhama
+	  <lb n="6"/>
+	  ṭhāpita 
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>Success! On the first day of the second fortnight of winter in the eleventh year of the rule of <persName key="pers:VpŚrīcaṇḍaSātakarṇi">Vāsiṣṭhīputra Śrīcaṇḍa Sātakarṇi</persName>, ... was erected ... of the minister ... .</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

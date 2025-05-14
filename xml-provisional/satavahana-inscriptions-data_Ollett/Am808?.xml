@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am808">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 808</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am808</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on one of the four coping slabs (uṣṇīṣa) belonging
+		to the railing of the stūpa. 
+	      </origPlace>
+	      <origDate notBefore-custom="0150" notAfter-custom="0200" precision="medium" datingMethod="cal:gregorian">Later half of the 2nd century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Sarma1980"/>
+	  <citedRange>no. 88 (808?)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:Sarma1980">Sarma 1980</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    purimamahāvinaseliyāna aṃtevāsinīya
+	    <persName key="pers:Siddhārthā">sidhathāya</persName>
+	    dāna vetikāya tīni hathi
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  Gift of three elephants for the
+	  rail by <persName key="pers:Siddhārthā">Siddhārthā</persName>,
+	  a female discipline of the 
+	  Pūrvamahāvinaśaila school.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

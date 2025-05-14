@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaD10">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati D10</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaD10</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+            <objectDesc>
+	      <supportDesc>
+		<support>A fragmentary slab.</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>233</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:NagarajaRao1985"/>
+	  <citedRange>12</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D10</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>ghariṇī<gap reason="lost" extent="unknown" unit="character"/>
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>(No translation offered.)</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

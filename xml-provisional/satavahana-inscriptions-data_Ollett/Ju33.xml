@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ju33">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 33</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju33</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		in the south scarp of Sivaneri hill, in an open 
+		chamber, 19' by 14.5' and 8' high, with a seat around the
+		three inner sides, on the left side wall.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 33</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    yavaṇasa
+	  <lb n="2"/>
+	    <persName key="pers:Ciṭa">ciṭasa</persName> gatānaṃ
+	  <lb n="3"/>
+	    bhojaṇamaṭapo
+	  <lb n="4"/>
+	    deyadhama saghe
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The meritorious gift of a refectory 
+	  by the Yavana <persName key="pers:Ciṭa">Ciṭa</persName> Gatānaṃ
+	  for the Saṃgha.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

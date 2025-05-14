@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Pi2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pitalkhorā No. 2 (of the sons of Saṃghaka)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pi2</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Pitalkhorā">Pitalkhorā</placeName>,
+		in the caitya cave.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Pitalkhorā No. 2</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Pratiṣṭhāna">patiṭhānā</placeName>
+	  <persName key="pers:Saṃghaka">saghakasa</persName>
+	  pu<lb n="2" break="no"/>tana ṭhabo dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  A pillar, the gift of the sons of 
+	  <persName key="pers:Saṃghaka">Saṃghaka</persName>, from
+	  <placeName key="pl:Pratiṣṭhāna">Pratiṣṭhāna</placeName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 3 (of Vāsiṣṭhīputra Śrī Puḷumāvi, year 22)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N3</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		<placeName key="pl:Nasik-3">cave no. 3</placeName>,
+		engraved in continuation of No. 2, from which it is
+		separated only by a Svastika followed by another
+		symbol.
+	      </origPlace>
+	      <origDate when-custom="0106" precision="low" datingMethod="cal:gregorian">ca. 106 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1124</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>no. 3</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 87</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasi.5</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="11"/>
+	  si<app><lem>ddha</lem><rdg source="#AS">ddhaṃ</rdg></app>
+	  navanarasvāmī
+	  <persName key="pers:VpŚrīPuḷumāvi">
+	    vāsiṭhīputo 
+	    si<app><lem>ri</lem><rdg source="#G">rī</rdg></app>puḷumāvi
+	  </persName>
+	  ānapayati 
+	  <placeName key="pl:Govardhana">govadhane</placeName>
+	  <roleName key="role:Amātya"><app><lem>ā</lem><rdg source="#G #AS">a</rdg></app>maca</roleName>
+	  <lb n="12"/>
+	  <persName key="pers:Śivaskandila">sivakhadila</persName>
+	  <app><lem>ya amhehi</lem>
+	       <rdg source="#G">na sumepa</rdg>
+	       <rdg source="#AS">ya amhepa</rdg>
+	  </app>
+	  <date when-custom="19" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">sava 19</date>
+	  gi pa 2 diva 13
+	  <app><lem>benākaṭa</lem>
+	      <rdg source="#G">dhanaṃkaṭa</rdg>
+	      <rdg source="#N">dhanakaṭa</rdg>
+	      <note xml:lang="eng" resp="#AO"><p>
+		Senart adopted the reading
+		<foreign xml:lang="pra-Latn">dhanakaṭa</foreign>
+		in his edition, but in his notes proposed the
+		reading <foreign xml:lang="pra-Latn">benākaṭa</foreign>,
+		which is adopted here (and in the translation).</p></note>
+	  </app>amanehi
+	  ya etha <app><lem>pavate</lem><rdg source="#G">pa<unclear>va</unclear>te</rdg></app>
+	  tira<app><lem><gap reason="lost" quantity="11" unit="character"/></lem>
+	     <rdg source="#G #AS"><supplied reason="lost">ṇhumi</supplied>
+	                       <gap reason="lost" quantity="9" unit="character"/></rdg>
+	  </app>na <app><lem>na dhavasetusa</lem>
+	     <rdg source="#G">na etasatasa</rdg>
+	     <rdg source="#AS">dhavāsetisa</rdg>
+	     <note xml:lang="eng"><p>I have no doubt that the 
+	       text really have <foreign xml:lang="pra-Latn">dhama-</foreign>.</p></note>
+	  </app> leṇasa <app><lem>paṭisatharaṇe</lem>
+	     <note xml:lang="eng"><p>AS notes no lacuna between
+	       <foreign xml:lang="pra-Latn">-ṇe</foreign> and 
+	       <foreign xml:lang="pra-Latn">a-</foreign>, and G.
+	       only points out an undetermined one. I admit not only
+	       that there remains room for one character, but that
+	       the back of the estampage seems to retain
+	       some traces of it, which might be mistaken for
+	       <foreign xml:lang="pra-Latn">na</foreign>. As, however,
+	       in the repetition which will follow, and the phraseology
+	       of which is the exact counterpart of this first formula,
+	       the reading <foreign xml:lang="pra-Latn">-tharaṇe</foreign>
+	       is certain and perfectly complete, it seems hardly
+	       possible that the text should have been different here.</p></note>
+	  </app><gap reason="lost" quantity="1" unit="character"/> akhaya
+	  <app><lem><gap reason="lost" quantity="2" unit="character"/></lem>
+	     <rdg source="#G #AS"><supplied reason="lost">nīvī</supplied></rdg>
+	  </app> hetu etha
+	  <placeName key="pl:Govardhana">govadhanāhāre</placeName>
+	  dakhiṇamage gāmo
+	  <placeName key="pl:Sudarśana">
+	  <app><lem>sudisaṇā</lem>
+	     <rdg source="#G"><gap reason="lost" quantity="1" unit="character"/>sudisaṇa</rdg>
+	     <rdg source="#AS">sadasanā</rdg>
+	  </app></placeName>
+	  bhikhuhi devileṇavāsehi nikāyena
+	  bhadāya<app><lem>niyehi</lem><rdg source="#AS">niyena</rdg></app>
+	  pa<app><lem>tigaya</lem>
+	     <rdg source="#G">tikhaya</rdg> 
+	     <rdg source="#AS">ṭikhaya</rdg>
+	  </app> da<app><lem>to</lem><rdg source="#AS">tā</rdg></app>
+	  etasa dānagāmasa 
+	  <placeName key="pl:Sudarśana">sudasanāna</placeName>
+	  parivaṭake etha
+	  <placeName key="pl:Govardhana">govadha<app><lem>nahare</lem>
+	     <rdg source="#AS">nāhāre</rdg></app></placeName>
+	  puva<app><lem>mage</lem><rdg source="#G">sime</rdg></app>
+	  <lb n="13"/>
+	  gā<app><lem>ma</lem><rdg source="#G #AS">mo</rdg></app>
+	  <placeName key="pl:Sāmalipada">samalipada</placeName>
+	  da<app><lem>dā</lem><rdg source="#G #AS">di</rdg></app>ma 
+	  etata 
+	  ma<app><lem>ha</lem><rdg source="#G">ā</rdg></app>aïra<app><lem>ke</lem><rdg source="#G #AS">ka</rdg></app>na
+	  o<app><lem>de</lem><rdg source="#G">dā</rdg></app>na
+	  dhamasetusa leṇasa
+	  paṭi<app><lem>sa</lem><rdg source="#G">saṃ</rdg></app>tharaṇe
+	  akhayanivihe<app><lem>tu</lem><rdg source="#AS">ta</rdg></app>
+	  gāma 
+	  <placeName key="pl:Sāmalipada">sāmalipa<app><lem>da</lem><rdg source="#G">daṃ</rdg></app></placeName>
+	  bhi<supplied reason="lost">khu</supplied>hi
+	  de<app><lem>vi</lem><rdg source="#G">vī</rdg></app>leṇa
+	  <app><lem><gap reason="lost" quantity="5" unit="character"/>ye</lem>
+	       <rdg source="#G">vā<supplied reason="lost">sehi nikā</supplied>ye</rdg>
+	       <rdg source="#AS"><supplied reason="lost">vāsehi nikā</supplied>y<supplied reason="lost">e</supplied></rdg>
+	  </app>na 
+	  bhadā<app><lem>yanayehi</lem>
+	      <rdg source="#G">yaniyehi</rdg>
+	      <rdg source="#AS">yanayahi</rdg>
+	  </app> 
+	  pati<app><lem>gayha</lem>
+	      <rdg source="#G">gahya</rdg>
+	      <rdg source="#AS">khaya</rdg>
+	  </app> 
+	  <app><lem>oyapapehi</lem>
+	      <rdg source="#G">uyapa<gap reason="lost" extent="unknown" unit="character"/>ehi</rdg>
+	      <rdg source="#AS">uyapaya ehi</rdg>
+	  </app>
+	  etasa ca gāmasa <placeName key="pl:Sāmalipada"><app><lem>sā</lem><rdg source="#AS">sa</rdg></app>malipadasa</placeName>
+	  bhikhuhalaparihā<app><lem>ra</lem><rdg source="#G">raṃ</rdg></app>
+	  <lb n="14"/>
+	  vitarāma apālasa a<app><lem>no</lem><rdg source="#G">ṇa</rdg></app>masa 
+	  aloṇakhādaka araṭhasavinaka savajātaparihārika ca
+	  etehi na pari<app><lem>hā</lem><rdg source="#AS">ha</rdg></app>rehi
+	  pariha<app><lem>re</lem><rdg source="#AS">rī</rdg></app>hi 
+	  <app><lem>eta</lem><rdg source="#G">dataṃ</rdg></app> ca gāma 
+	  <placeName key="pl:Sāmalipada">sama<app><lem>lipada</lem>
+	      <rdg source="#G">lipadaṃ</rdg>
+	      <rdg source="#AS">lapada</rdg></app></placeName>
+	  pani<app><lem>hāre ca</lem>
+	      <rdg source="#G">hārānaṃ</rdg>
+	      <rdg source="#AS">hāre ṇa</rdg>
+	  </app> <app><lem>etha</lem><rdg source="#AS">eṭha</rdg></app>
+	  ni<app><lem>badhāpehi 
+	        <placeName key="pl:Sudarśana">sud<supplied reason="lost">dasa</supplied>na</placeName>
+	      </lem>
+	      <rdg source="#G">baṃdhāpanaṃ<gap reason="lost" quantity="5" unit="character"/></rdg>
+	      <rdg source="#AS">badhala<gap reason="lost" quantity="3" unit="character"/>mi<gap reason="lost" quantity="1" unit="character"/></rdg>
+	  </app> gāmasa
+          ca <placeName key="pl:Sudarśana">sudasanāna</placeName>
+	  viniba<app><lem>dha</lem><rdg source="#AS"/></app>kārehi 
+	  <app><lem>aṇatā</lem><rdg source="#G">ānato</rdg></app>
+	  mahāse<app><lem>nā</lem><rdg source="#AS">na</rdg></app>patinā
+	  <persName key="pers:Medhuna">medhunena</persName>
+	  <app><lem><gap reason="lost" quantity="4" unit="character"/></lem>
+	       <rdg source="#G">sātakani</rdg>
+	  </app>nā chato <app><lem>baṭikā <gap reason="lost" quantity="1" unit="character"/>v<gap reason="lost" quantity="2" unit="character"/>kehi</lem>
+	      <rdg source="#G">binikaṭavāsakahi</rdg>
+	      <rdg source="#AS">paṭikā<gap reason="lost" quantity="1" unit="character"/>vāsakehi</rdg>
+	  </app> ha<app><lem>tha<gap reason="lost" quantity="1" unit="character"/>to</lem>
+	       <rdg source="#G">thachatā</rdg><rdg source="#AS">thichatā</rdg>
+	  </app>
+	  datā <app><lem>paṭikā</lem>
+	       <rdg source="#AS">hiṇa</rdg>
+	     </app> <date when-custom="22" datingPoint="pers:GpŚrīSātakarṇi" datingMethod="cal:regnal">sava 22</date>
+	  gi <app><lem>pakhe</lem>
+	     <rdg source="#G #AS">pa<gap reason="lost" quantity="2" unit="character"/></rdg>
+	  </app> <gap reason="lost" quantity="1" unit="character"/> diva 7
+	  <app><lem><supplied reason="lost">sā</supplied>takaṇinā</lem>
+	     <rdg source="#G">sātakaṇinā</rdg>
+	     <rdg source="#AS">sā<supplied reason="lost">ta</supplied>kanena</rdg>
+	  </app> 
+	  kaṭā <placeName key="pl:Govardhana">govadhana</placeName><app><lem>vā</lem><rdg source="#AS">va</rdg></app>thavāna 
+	  <app><lem>phā<gap reason="lost" quantity="1" unit="character"/>yo</lem>
+	       <rdg source="#G">phāsukāyam</rdg>
+	       <rdg source="#AS">phesakaye</rdg>
+	  </app> <persName key="pers:Viṣṇupāla"><app><lem>viṇhu</lem>
+	      <rdg source="#AS">viṇhu</rdg>
+	      <rdg source="#G">veṇhu</rdg>
+	  </app>pālena</persName>
+	  <app><lem>svāmivaṇaṇaṇata</lem>
+	       <rdg source="#G">sāmivaṇanāṇata</rdg>
+	       <rdg source="#AS">sāmivananānata</rdg>
+	  </app> na<app><lem>ma</lem><rdg source="#G">mo</rdg></app>
+	  <app><lem>bhaga</lem>
+	       <rdg source="#G">bhaga<supplied reason="omitted">va</supplied></rdg></app>tasapatipa<app><lem>ta</lem><rdg source="#G">ti</rdg></app>pasa
+	  jinavarasa budhasa
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  Success! The lord of Navanara, 
+	  <persName key="pers:VpŚrīPuḷumāvi">Vāsiṣṭhīputra
+	  Śrī Puḷumāvi</persName>, commands
+	  <persName key="pers:Śivaskandila">Śivaskandila</persName>,
+	  officer at <placeName key="pl:Govardhana">Govardhana</placeName>:</p>
+	<p>
+	  The village of 
+	  <placeName key="pl:Sudarśana">Sudarśana</placeName> here in the
+	  <placeName key="pl:Govardhana">Govardhana</placeName> district
+	  on the Southern Road, which by us, in the 
+	  19th year, on the 13th day of the 2nd fortnight of summer . . . . .
+	  by the śramaṇas of 
+	  <placeName key="pl:Benākaṭa">Benākaṭa</placeName>
+	  who [dwell] here on mount
+	  <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName> . . . .,
+	  has been given to be owned by the bhikṣus of that fraternity,
+	  the Bhadāyaniyas dwelling in the Queen’s Cave, to produce a 
+	  perpetual rent for the care of the cave meritoriously 
+	  excavated, — in exchange for this gift, — the village of
+	  <placeName key="pl:Sudarśana">Sudarśana</placeName>, —
+	  we give the village of 
+	  <placeName key="pl:Sāmalipada">Sāmalipada</placeName>, 
+	  here in the
+	  <placeName key="pl:Govardhana">Govardhana</placeName>
+	  district on the Eastern road; and this village of
+	  <placeName key="pl:Sāmalipada">Sāmalipada</placeName>, . . . . .
+	  by the Mahā-Āryaka, you must deliver to be owned by the
+	  bhikṣus of the school of the Bhadāyaniyas dwellings in 
+	  the Queen’s Cave, to produce a perpetual rent for the 
+	  care of the cave meritoriously excavated; and to this
+	  village of <placeName key="pl:Sāmalipada">Sāmalipada</placeName>
+	  we grant the immunity belonging to monk’s land,
+	  (making it) not to be entered (by royal officers),
+	  not to be touched (by any of them), not to be dug for salt,
+	  not to be interfered with by the district police,
+	  (in short) to enjoy all kinds of immunities. With all these
+	  immunities you must invest it; and this donation of the village
+	  of <placeName key="pl:Sāmalipada">Sāmalipada</placeName> and
+	  the immunities take care to have registered here at
+	  <placeName key="pl:Sudarśana">Sudarśana</placeName>. And
+	  by the (officers) entrusted with the abrogation of the
+	  (previous) donation of the 
+	  <placeName key="pl:Sudarśana">Sudarśana</placeName> village
+	  it has been ordered. Written by the 
+	  <persName key="pers:Medhuna">
+	    <roleName key="role:Mahāsenāpati">Mahāsenāpati</roleName>
+	    Medhuna</persName> . . . . . 
+	  kept (?) by the . . . . . of deeds (?). The deed was delivered
+	  in the <date when-custom="22" datingPoint="pers:VpŚrīPuḷumāvi" datingMethod="cal:regnal">year 22</date>,
+	  the 7th day of the . . fortnight of 
+	  summer; executed by . . . . . (?). With a view for the
+	  well-being of the inhabitants at 
+	  <placeName key="pl:Govardhana">Govardhana</placeName>,
+	  <persName key="pers:Viṣṇupāla">Viṣṇupāla</persName> proclaims
+	  the praise of the Lord: Obeisance to the Being exalted in
+	  perfection and majesty, the excellent Jina, the Buddha.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

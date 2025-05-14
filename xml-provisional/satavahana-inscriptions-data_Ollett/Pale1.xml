@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Pale1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pale 1 (gift of Indrarakṣita)</title>
+        <editor role="general" key="staff:Ollett">Andrew Ollett</editor>
+        <respStmt>
+          <resp>With contributions by</resp>
+          <name key="staff:Smith">Caley Smith</name>
+        </respStmt>	
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pale1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the <objectType>wall</objectType> of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pāle">Pāle</placeName>,
+		in an east-facing cave at a height of about 70m.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">c. 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:Sankalia1969"/>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Sankalia1969"/></bibl>.</p>
+	<p>This is evidently the only Jain record from the Western Deccan of the early centuries CE.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  namo arahaṃtānam kātuna<unclear>ṃ</unclear>
+	  <lb n="2"/>
+	  <unclear>bha</unclear>bhadaṃta <persName key="pers:Pale-Indrarakṣita">idarakhitena</persName> lena<unclear>ṃ</unclear>
+	  <lb n="3"/>
+	  kārāpita<unclear>ṃ</unclear> poḍhi ca sāh<unclear>ā</unclear> kāhi<lb n="4" break="no"/>saha
+	</ab>
+      </div>
+      <div type="apparatus" xml:lang="eng">
+	<appList>
+	  <app loc="2">
+	    <lem><unclear>bha</unclear></lem>
+	    <note>“The letter seems to have been chipped off at the time of engraving and so the engraver had to incise bha a second time” (<bibl><ptr target="bibl:Sankalia1969"/></bibl>).</note>
+	  </app>
+	</appList>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>With reverence to the Arahants,
+	   the revered <persName key="pers:Pale-Indrarakṣita">Indrarakṣita</persName>
+	   caused this cave to be constructed, as well
+	   as a cistern.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

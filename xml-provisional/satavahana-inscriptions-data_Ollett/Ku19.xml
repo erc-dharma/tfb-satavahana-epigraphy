@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku19">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 19 (of Vijayanikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku19</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		<placeName type="modern" key="pl:Kuḍā-13">Cave No. 13</placeName>, 
+		on the back wall of the verandah, over the window.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 17</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1054</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  mahābhoyasa
+	  <persName key="pers:Ku-Sudarśana">sāḍakarasa
+	  sudaṃsaṇasa</persName> duhutuya
+	  <persName key="pers:Ku-Vijayanikā">vijayanikāya</persName>
+	  deyadhaṃmaṃ lena
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  The meritorious gift of a cave by
+	  <persName key="pers:Ku-Vijayanikā">Vijayanikā</persName>
+	  daughter of Mahābhoja  
+	  <persName key="pers:Ku-Sudarśana">Sāḍakara Sudarśana</persName>
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

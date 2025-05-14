@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K8">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 8 (of Svātimitra)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K8</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave, on the fifth pillar; left row.
+	      </origPlace>
+	      <origDate notBefore-custom="-0050" notAfter-custom="0050" precision="medium" datingMethod="cal:gregorian">late 1st c. BCE or early 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 8</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. The inscription is closely connected with <ref target="in:K9">K9</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    <placeName key="pl:Śūrpāraka">sopārakā</placeName>
+	    bhaya<app><lem source="#K">tānaṃ</lem>
+	              <rdg source="#AS #CTI">tāna</rdg>
+		  </app>
+	    dhamu<app><lem source="#K">tari</lem>
+	              <rdg source="#AS #CTI">tara</rdg>
+		 </app><lb n="2" break="no"/>yāna 
+	    sa<app><lem source="#K"><gap reason="lost" quantity="1" unit="character"/></lem>
+	           <rdg source="#AS #CTI">mā</rdg>
+	      </app>nathasa therasa<app><lem source="#K"><gap reason="lost" quantity="1" unit="character"/></lem>
+	      <rdg source="#CTI">ma</rdg><rdg source="#AS">a</rdg></app>
+	  <lb n="3"/>
+	    bha<app><lem source="#K"><gap reason="lost" quantity="2" unit="character"/>
+	            </lem>
+		    <rdg source="#AS #CTI">tula</rdg></app>sa
+	    aṃtevāsisa bhāna<lb n="4" break="no"/>kasa
+	    na<app><lem source="#K"><gap reason="lost" quantity="1" unit="character"/>pat<gap reason="lost" quantity="1" unit="character"/>sa</lem>
+		   <rdg source="#AS">dipatisa</rdg>
+		   <rdg source="#CTI">dāputisa</rdg>
+	      </app> 
+	      <persName key="pers:Svātimitra">sātimitasa</persName>
+	  <lb n="5"/>
+	    saha <app><lem source="#K"><gap reason="lost" quantity="3" unit="character"/>t<unclear>i</unclear>hi</lem>
+	               <rdg source="#CTI"><supplied reason="lost">matapi</supplied>tuya</rdg>
+		       <rdg source="#CTI"><gap reason="lost" quantity="3" unit="character"/>tiga</rdg>
+		       <note xml:lang="eng"><p>Senart suggests the reading
+		         <foreign xml:lang="pra-Latn"><supplied reason="lost">matapi</supplied>tihi</foreign>.</p></note>
+		 </app> <supplied reason="lost">tha</supplied>bho
+	  dānamu<app><lem source="#K">kha</lem>
+	             <rdg source="#CTI">la</rdg>
+		     <rdg source="#AS"><gap reason="lost" unit="character" quantity="1"/></rdg>
+		</app>
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) pillar (is) the gift of the preacher 
+	  <persName key="pers:Svātimitra">Svātimitra</persName>,
+	  the son of Nanda (?) (and) the discipline of the sthavira ...
+	  of the venerable Dhammutariyas from 
+	  <placeName key="pl:Śūrpāraka">Śūrpāraka</placeName>,
+	  together with [his father and mother?].
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

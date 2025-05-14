@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB4-A-13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B4-A-13 (of Rāmaṇikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB4-A-13</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>“On an upright of the railing” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB4-13.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.4.A.13</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>plate CXXX.3 (p. 450, no. 3)</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Mahāgrāma">mahāgāmilasa</placeName>
+	  <persName key="pers:Kan-Nāgaṇaka">nāgaṇakasa</persName>
+	  <lb n="2"/>
+	  koḍubiniya <persName key="pers:Kan-Rāmaṇikā">rāma<unclear>ṇ</unclear>ikāya</persName> dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>The gift of <persName key="pers:Kan-Rāmaṇikā">Rāmaṇikā</persName>, wife (of a rich man) <persName key="pers:Kan-Nāgaṇaka">Nāgaṇaka</persName> from <placeName key="pl:Mahāgrāma">Mahāgrāma</placeName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

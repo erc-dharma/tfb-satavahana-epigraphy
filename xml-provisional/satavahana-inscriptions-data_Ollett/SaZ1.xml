@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaZ1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati Z.1 (Stele of Gautamīputra Śrī Sātakarṇi)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaZ1</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physicalDesc>
+	    <supportDesc>
+	      <support>The inscription is on a limestone stele
+	      that also depicts a procession of elephants which,
+	      according to J. Varaprasada Rao, signifies
+	      the final journey of the dead.</support>
+	    </supportDesc>
+	  </physicalDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>, 
+		discovered by J. Varaprasada Rao near the find-spot
+		of <ref target="in:SaA1">SaA1</ref> (the 
+		praśasti stele of Gautamīputra Śrī Sātakarṇi)
+	      </origPlace>
+	      <origDate notBefore-custom="0084" notAfter-custom="0100" precision="low" datingMethod="cal:gregorian">late 1st c. CE (?)</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaZ1.png">
+      <desc>Photograph from <ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:VaraprasadRao1995"/>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on
+	<ref target="bibl:VaraprasadaRao1995">Varaprasada Rao 1995</ref>.
+	Andrew Ollett, Oskar von Hinüber, and Arlo Griffiths 
+	contributed to the reading and interpretation.</p>
+	<p>We have a portion of a <hi rend="italic">vasantatilaka</hi> verse.</p>
+	<p>The inscription is notable for being among the earliest
+	inscriptions in Sanskrit, and the earliest inscriptions in
+	verse.</p>
+      </div>
+      <div type="edition" xml:lang="san-Latn">
+	<lg met="vasantatilaka">
+	  <l><lb n="1"/>yas sva<supplied reason="omitted">r</supplied>ggatas samavasṛjya narendralakṣmīṃ<caesura/> 
+	  puttrottame suta-sahasra-samāna-sāre</l>
+	  <l>rā<app><lem resp="#AG">jñāṅ ku</lem><rdg source="#VPR">ja-kuśa</rdg></app>la-kṣaya-kar<app><lem resp="#OVH">ax ku</lem>
+	     <rdg resp="#VPR">aṃ ku</rdg>
+	  </app>la<seg met="+-++"><gap reason="lost" extent="unknown" unit="character"/></seg></l>
+	</lg>
+      </div>
+      <div type="translation">
+	<p>.... who died after transferring his Royal Majesty
+	     to the best of his sons,
+	     equal in essence to a thousand sons,
+	     the one who destroyed the families of kings
+	     ... families ...</p>
+      </div>
+    </body>
+  </text>
+</TEI>

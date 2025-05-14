@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ju5">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Junnar No. 5</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ju5</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Junnar">Junnar</placeName>,
+		at the extreme end of the row of caves.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Junnar No. 5</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    yavanasa
+	    <persName key="pers:Irala">iralasa</persName>
+	    gatāna deyadhama be poḍhiyo
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The meritorious gift of two cisterns by the Yavana
+	  <persName key="pers:Irala">Irala</persName> Gatāna (?).
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

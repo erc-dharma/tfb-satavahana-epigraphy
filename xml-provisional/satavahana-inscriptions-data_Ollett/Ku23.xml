@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku23">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 23 (of Rāmadatta)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku23</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		<placeName type="modern" key="pl:Kuḍā-15">Cave No. 15</placeName>, 
+		in a long line on the left end and left of
+		back walls near the roof.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Jacobi1878"/>
+	  <citedRange>No. 8</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 20</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 23</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1058</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    mahābhoje maṃdave kochipute
+	    <persName key="pers:Velīdatta">velīdate</persName>
+	    <persName key="pers:Ahila">ahilasa</persName> putasa
+	    adhagachakasa
+	    <persName key="pers:Rāmadatta">rāmadatasa</persName>
+	    deyadhama cetiyagharo uparako
+	    ca bhayāva sa
+	    <persName key="pers:Velīdattā">velīdatāva</persName>
+	    deyadhaṃmaṃ uyarako
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  The meritorious gift of a caityagṛha and cell by
+	  <persName key="pers:Rāmadatta">Rāmadatta</persName>
+	  the Adhagacchaka, the son of
+	  <persName key="pers:Ahila">Ahila</persName>,
+	  when Kautsīputra 
+	  <persName key="pers:Velīdatta">Velīdatta</persName>
+	  was Mahābhoja Mandava, and by his wife
+	  <persName key="pers:Velīdattā">Velīdattā</persName>
+	  the meritorious gift of a cell.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

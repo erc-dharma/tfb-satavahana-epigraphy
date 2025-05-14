@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K16">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 16 (of Bhadrasama)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K16</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		Chaitya cave. On the inner side of the right hand screen
+		of the verandah; above a pair of figures.
+	      </origPlace>
+	      <origDate notBefore-custom="0050" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">late 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 16</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart notes that it was “to all appearances” written by the same person as the preceding inscription (<ref target="in:K15">K15</ref>).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Bhadrasama">bhadasamasa</persName>
+	  bhikhusa 
+	  deyadha<app><lem source="#K">maṃ</lem><rdg source="#AS #CTI">ma</rdg></app>
+	  mithū<app><lem source="#K">naṃ</lem><rdg source="#AS #CTI">na</rdg></app>
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) pair (is) the pious gift of the Bhikṣu <persName key="pers:Bhadrasama">Bhadrasama</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

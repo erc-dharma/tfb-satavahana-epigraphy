@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Kr1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karāḍh No. 1 (gift of Saṅghamitra)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Kr1</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="ancient" key="pl:Karahākaṭaka">Karāḍh</placeName></origPlace>
+	      <origDate datingMethod="cal:gregorian"><!-- I don't have a date for these. !-->
+	      </origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+	<textClass>
+	  <keywords>
+	    <term>Donative</term>
+	  </keywords>
+	</textClass>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<p>First published by Bühler/Burgess in <bibl><ptr target="bibl:ASWI4"/>: <citedRange>Mahāḍ, Kol, and Karāḍh, No. 6</citedRange></bibl>, on which the current edition is based.</p>
+	<listBibl type="secondary-bibliography">
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>1184</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Nagaraju1981"/>:
+	    <citedRange>no. 1 (p. 336)</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Tsu"/>:
+	    <citedRange>Karāḍh 1 (p. 454)</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:ASWI4"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Kr-Gopāla">g<unclear>o</unclear>p<unclear>ā</unclear>laputasa</persName> 
+	  <persName key="pers:Kr-Saṅghamitra">saṃgha<lb n="2" break="no"/>m<unclear>i</unclear>tarasa</persName>
+	  leṇa deyadhama		  
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  (This) cave (is) the religious gift of
+	  <persName key="pers:Kr-Saṅghamitra">Saṅghamitra</persName>,
+	  the son of <persName key="pers:Kr-Gopāla">Gopāla</persName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N19">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 19 (Hakusiri inscription)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N19</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		in Cave No. 18, on the fifth and sixth pillars
+		of the right-hand row.
+	      </origPlace>
+	      <origDate notBefore-custom="-0025" notAfter-custom="0025" precision="medium" datingMethod="cal:gregorian">ca. 25 BCE to 25 CE</origDate>
+	      <!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1141</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>no. 19</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 10</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasu.20</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  rāyāmaca-<persName key="pers:Arahalaya">arahalayasa</persName>
+	  <placeName key="pl:Calisīlaṇa">ca<app><lem source="#N">lisī</lem>
+	     <rdg source="#G">līsi</rdg>
+	     <rdg source="#AS">lisā</rdg>
+	    </app>laṇakasa</placeName> duhutuya 
+	  <persName key="pers:Hakusiri">mahāhakusi<lb n="2" break="no"/><app><lem source="#N">r<gap reason="lost" quantity="2" unit="character"/>ya</lem>
+	     <rdg source="#G">rirāya</rdg>
+	     <rdg source="#AS">ri<supplied reason="lost">yā</supplied>yaya</rdg>
+	  </app></persName>
+	  <persName key="pers:Bhaṭṭapālikā">bhaṭapālikāya</persName>
+	  rāyāmacasa <persName key="pers:Agiyataṇaka">agiyataṇakasa</persName>
+	  bhaṃḍākārika<lb n="3" break="no"/>yasa bhāriyāya
+	  <persName key="pers:Kapaṇaṇaka">kapaṇaṇaka</persName>mātuya 
+	  cetyagharaṃ pavate 
+	  <lb n="4"/>
+	  <placeName key="pl:Tiraṇhu">tiraṇhumi</placeName> 
+	  niṭhapāpita
+	</ab> 
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>By <persName key="pers:Bhaṭṭapālikā">Bhaṭṭapālikā</persName>, [grand-daughter] of <persName key="pers:Hakusiri">Mahāhakusiri</persName> and daughter of the royal officer <persName key="pers:Arahalaya">Arahalaya</persName> from <placeName key="pl:Calisīlaṇa">Calisīlaṇa</placeName>, wife of the royal officer <persName key="pers:Agiyataṇaka">Agiyataṇaka</persName>, of the treasure office, mother of <persName key="pers:Kapaṇaṇaka">Kapaṇaṇaka</persName>, this <foreign xml:lang="san-Latn">caityagṛha</foreign> has been caused to be perfected on this mount <placeName key="pl:Tiraṇhu">Tiraṇhu</placeName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="K10">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Karle No. 10 (of Dharma)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>K10</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Valūraka">Karle</placeName>,
+		chaitya cave,
+		on the fourth pillar; left row.
+	      </origPlace>
+	      <origDate notBefore-custom="-0050" notAfter-custom="0050" precision="medium" datingMethod="cal:gregorian">late 1st c. BCE or early 1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:K"/>
+	  <citedRange>no. 10</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:K">Senart 1902-1903</ref>. Senart has misgivings about the reading, which he reproduces from AS and CTI.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    <placeName key="pl:Dhenukākaṭa">dhenukākaṭā</placeName>
+	  <lb n="2"/>
+	    <persName key="pers:Dharma">dhaṃma</persName>yavanasa
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  <persName key="pers:Dharma">Dharma</persName>,
+	  <placeName key="pl:Dhenukākaṭa">Dhenukākaṭa</placeName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

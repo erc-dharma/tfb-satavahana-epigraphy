@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="Ju2.xml" uri="../../../../../desktop/amaravati-sandbox/schemas/tei-epidoc.rnc"/>
+</locatingRules>

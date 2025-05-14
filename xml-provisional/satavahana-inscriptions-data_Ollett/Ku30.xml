@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku30">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 30 (of Śivadattā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku30</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		Cave No. 23, over the left window.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 27</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 30</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1065</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    sathavāhasa
+	    <persName key="pers:Ku-Vehamita">vehamitasa</persName>
+	    bitiyikaya
+	    <persName key="pers:Ku-Śivadattā-2">sivadatāya</persName>
+	    <persName key="pers:Ku-Puṣyaṇaka">pu<lb n="2" break="no"/>saṇaka</persName>mātuya deyadhamaṃ leṇaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  The meritorious gift of a cave by
+	  <persName key="pers:Ku-Śivadattā-2">Śivadattā</persName>, the
+	  mother of <persName key="pers:Ku-Puṣyaṇaka">Pusaṇaka</persName>,
+	  and second (wife or daughter?) of the trader
+	  <persName key="pers:Ku-Vehamita">Vehamitra</persName>.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

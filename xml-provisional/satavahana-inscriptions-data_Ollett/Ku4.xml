@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 4</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku4</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		<placeName type="modern" key="pl:Kuḍā-5">Cave No. 5</placeName>, 
+		on the right-hand wall.
+	      </origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 4</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1040</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  sidhaṃ therā<unclear>ṇaṃ bhadaṃta</unclear><persName key="pers:Ku-Śivadatta">sivada<lb n="2" break="no"/>taṇa</persName>
+	  aṃ<unclear>tevāsino</unclear> 
+	  pava<supplied reason="lost">i</supplied>ta<lb n="3" break="no"/>sa
+	  goa<gap reason="lost" unit="character" quantity="5"/><supplied reason="lost">i</supplied>ma
+	  leṇaṃ
+	  <lb n="4"/>
+	  <gap reason="lost" unit="character" quantity="7"/>sātimita<lb n="5" break="no"/>ya
+	  <gap reason="lost" unit="character" quantity="9"/>yiya
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>Success! The mendicant Goa..., a disciple of 
+	   the revered elder 
+	   <persName key="pers:Ku-Śivadatta">Śivadatta</persName>,
+	   and <persName key="pers:Ku-Sātimitrā">Sātimitrā</persName>...
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

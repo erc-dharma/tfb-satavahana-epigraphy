@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bha1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Bhājā No. 1 (of Naḍasava)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Bha1</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>On the wall of an excavated <objectType>cave</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName type="modern" key="pl:Bhājā">Bhājā</placeName>, cave 17, over the cell door</origPlace>
+	      <origDate notBefore-custom="-0200" notAfter-custom="-0100" precision="medium" datingMethod="cal:gregorian" evidence="lettering">2nd c. BCE? (lettering)</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/Bha1-CTI.jpg">
+      <desc>Photograph of estampage from <ptr target="bibl:CTI"/>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<listBibl>
+	  <bibl>
+	    <ptr target="bibl:CTI"/>:
+	    <citedRange>Bhājā No. 1</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:LL"/>:
+	    <citedRange>no. 1078</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:CTI"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Naḍasava">naḍasavasa</persName>
+	  nāyasa
+	  <lb n="2"/>
+	  <placeName key="pl:Bhogavatī">bhogavatasa</placeName>
+	  gābho dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  The gift of a cell from
+	  <persName key="pers:Naḍasava">Naḍasava</persName>,
+	  a Nāya of 
+	  <placeName key="pl:Bhogavatī">Bhogavatī</placeName>.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaD8b">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati D8b</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaD8b</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+            <objectDesc>
+	      <supportDesc>
+	      <support>A sculptured stela.</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
+	      <origDate notBefore-custom="0100" notAfter-custom="0200" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">2nd c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered">
+	      <p>Located by K. P. Poonacha.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaD8b-001-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 23-A.</desc>
+    </graphic>
+    <graphic url="images/SaD8b-002-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, plate 23-A.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>D8b</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>, with small corrections based on their photograph.</p>
+	<p>These three inscriptions (D8a, D8b, and D8c) are found on sculpted memorial-stones (<foreign xml:lang="san-Latn">chāyā-pratimā</foreign>s).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  go<app><lem resp="#AO">a</lem><rdg source="#Sarma1993">mu</rdg></app>ḍasa<gap reason="lost" quantity="2" unit="character"/>ja
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>(No translation offered.)</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

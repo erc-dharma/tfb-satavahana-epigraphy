@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Ku14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kuḍā No. 14 (of Kumāra)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Ku14</idno><!-- ID follows CTI !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Kuḍā">Kuḍā</placeName>,
+		on the back of the cistern beyond the tank near 
+		<placeName type="modern" key="pl:Kuḍā-7">cave no. 7</placeName></origPlace>
+	      <origDate datingMethod="cal:gregorian"/><!-- NO DATE !-->
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:AS"/>
+	  <citedRange>Kuḍā No. 12</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:CTI"/>
+	  <citedRange>Kuḍā No. 14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>1049</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:CTI">Burgess and Indraji 1881</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    maṃdavānaṃ
+	    <persName key="pers:Ku-Paraśivama">para<choice><sic>sa</sic><corr>si</corr></choice>vama<lb n="2" break="no"/>sa</persName>
+	    pa <choice><sic>pa</sic><corr>pu</corr></choice>tasa
+	    <persName key="pers:Ku-Kumāra">kumārasa</persName>
+	  <lb n="3"/>
+	    madavasa deyadhama  
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<p>
+	  This meritorious gift of Mandava
+	  <persName key="pers:Ku-Kumāra">Kumāra</persName>, son of
+	  <persName key="pers:Ku-Paraśivama">Paraśivama</persName>
+	  of the Mandava.
+	</p>
+      </div>
+    </body>
+  </text>
+</TEI>

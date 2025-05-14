@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaC13">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati C13 (memorial of Somaghosanikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaC13</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier>
+	    <altIdentifier type="museum-inventory">
+	      <repository>State Archaeological Museum, Gulbarga</repository>
+	      <idno>81 (white)</idno>
+	    </altIdentifier>
+	  </msIdentifier>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>A memorial <objectType>slab</objectType>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName key="pl:Sannati">Sannati</placeName></origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notBefore="1966">
+	      <p>Found near Segiyappa’s house in the village.</p>
+	    </provenance>
+	    <provenance type="transferred" notBefore="2014">
+	      <p>Transferred to the Gulbarga State Archaeological Museum.</p>
+	    </provenance>
+	    <provenance type="observed" when="2017">
+	      <p>Observed at the Gulbarga State Archaeological Museum by Andrew Ollett in 2017.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stone</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaC13-sarma1993.jpg">
+      <desc>Photograph from <bibl><ptr target="bibl:Sarma1993"/>: <citedRange>plate 21</citedRange></bibl>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<listBibl type="secondary-bibliography">
+	  <bibl>
+	    <ptr target="bibl:ARIE"/>:
+	    <citedRange>1966–1967, no. 203</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:NagarajaRao1985"/>:
+	    <citedRange>18</citedRange>
+	  </bibl>
+	  <bibl>
+	    <ptr target="bibl:Sarma1993"/>:
+	    <citedRange>C13</citedRange>
+	  </bibl>
+	</listBibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <bibl><ptr target="bibl:Sarma1993"/></bibl>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Sa-Somaghosanikā">somaghosanikā</persName>
+	</ab>
+      </div>
+      <div type="apparatus">
+	<listApp>
+	  <app loc="1">
+	    <lem>ghosanikā<unclear>ya</unclear></lem>
+	    <rdg source="bibl:ARIE">ghosanikāya</rdg>
+	    <rdg source="bibl:NagarajaRao1985">ghosanīkā</rdg>
+	    <rdg source="bibl:Sarma1993">ghasanikā<unclear>ya</unclear></rdg>
+	  </app>
+	</listApp>
+      </div>
+      <div type="translation">
+	<ab>Of <persName key="pers:Sa-Somaghosanikā">Somaghosanikā</persName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

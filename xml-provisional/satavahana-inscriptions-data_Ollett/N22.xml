@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N22">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 22</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N22</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>, 
+		on the upper sill of the right window in Cave No. 19.
+	      </origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0050" precision="medium" datingMethod="cal:gregorian">early 1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:LL"/>
+	  <citedRange>no. 1144</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:N"/>
+	  <citedRange>no. 22</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sircar"/>
+	  <citedRange>no. 75</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>no. 1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Tsu"/>
+	  <citedRange>Nasi.23</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  sādavāhana<app><lem source="#N">kule</lem>
+	     <rdg source="#AS">kula</rdg>
+	   </app> <persName key="pers:Kṛṣṇa">kanhe</persName>
+	  rājini <placeName key="pl:Nāsikya">nāsikakena</placeName>
+	  <lb n="2"/>
+	  samaṇena mahāmāteṇa leṇa <app><lem source="#N">kārita</lem>
+	     <rdg source="#G">kāritaṃ</rdg>
+	    </app>
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>Under king <persName key="pers:Kṛṣṇa">Kṛṣṇa</persName> of the Sātavāhana family this cave has been caused to be made by the officer in charge of the Śramaṇas at <placeName key="pl:Nasik">Nasik</placeName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Bel1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Beḷvāḍigi 1</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Bel1</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	        <supportDesc>
+		<support>
+		  <p>An sculpted <material>limestone</material> <objectType>memorial stone</objectType>; <dimensions unit="cm">
+		    <height>94</height>
+		    <width>33</width>
+		    <depth>12</depth>
+		  </dimensions>.</p>
+		</support>
+	      </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace><placeName key="pl:Beḷvāḍigi">Beḷvāḍigi</placeName></origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1965">
+	      <p>Found leaning against the back wall of the building
+	         housing the officer in charge of the quarrying operations
+	         at a site about two miles away from the village.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Memorial stone</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/Bel1-Ramesh1967.jpg">
+      <desc>Plate from <ref target="bibl:Ramesh1967">Ramesh 1967</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography">
+	<bibl>
+	  <ptr target="bibl:Ramesh1967"/>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Ramesh1967">Ramesh 1967</ref>, with small changes by AO based on the accompanying plate.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <persName key="pers:Bel-Kalaka">kalakasa</persName>
+	  chayāpa<unclear>ṭimā</unclear>
+	</ab>
+      </div>
+      <div type="apparatus">
+	<listApp>
+	  <app loc="1">
+	    <lem>chayā</lem>
+	    <rdg source="bibl:Ramesh1967">chaya</rdg>
+	  </app>
+	</listApp>
+      </div>
+      <div type="translation">
+	<ab>A memorial image of <persName key="pers:Bel-Kalaka">Kalaka</persName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

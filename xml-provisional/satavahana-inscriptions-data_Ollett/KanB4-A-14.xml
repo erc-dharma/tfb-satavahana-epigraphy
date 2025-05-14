@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB4-A-14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B4-A-14 (of Ṛṣilanikā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB4-A-14</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>“On an upright of the railing” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB4-14.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.4.A.14</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>plate CXXXI.3 (p. 451, no. 13)</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <placeName key="pl:Seḍivaya">seḍ<unclear>i</unclear>vayikāya</placeName>
+	  <persName key="pers:Kan=Ṛṣilanikā">is<supplied reason="lost">i</supplied><lb n="2" break="no"/>lanikāya</persName> dānaṃ
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>The gift of <persName key="pers:Kan-Ṛṣilanikā">Isilanikā</persName> (Ṛṣilanikā) from <placeName key="pl:Seḍivaya">Seḍivaya</placeName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

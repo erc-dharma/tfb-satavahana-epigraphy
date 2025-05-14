@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB4-A-6">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B4-A-6 (of Nāgukā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB4-A-6</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>“On an upright of the railing” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB4-6.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.4.A.6</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>plate CXXX.8 (p. 451, no. 8)</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>. It is in the series of inscriptions on railing uprights (pāyakas).</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  therasa aya <persName key="pers:Kan-Ṛṣirakṣita"><supplied reason="lost">i</supplied>sirakhitasa</persName> a<unclear>tevā</unclear>siniya
+	  <lb n="2"/>
+	  bhikhuniya <persName key="pers:Kan-Nāgukā">nāguyāya</persName> deyadhama
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>The pious gift of the nun <persName key="pers:Kan-Nāgukā">Nāguyā</persName> (Nāgukā), the pupil of the venerable Elder <persName key="pers:Kan-Ṛṣirakṣita">Isirakkhita</persName> (Ṛṣirakṣita).</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

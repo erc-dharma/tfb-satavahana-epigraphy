@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaB4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati B4 (of -nadāsa)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaB4</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <msContents>
+	    <msItem>
+	      <textLang xml:lang="eng" mainLang="pra-Brah">Middle Indic, Southern Brāhmī script</textLang>
+	    </msItem>
+	  </msContents>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>A roughly dressed <material>limestone</material> <objectType>slab</objectType>.</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName>,
+		found in the foundation of the Kāli shrine in the 
+		Candralāmbā Temple.
+	      </origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" evidence="paleography" datingMethod="cal:gregorian">1st c. CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/SaB4-sarma1993.jpg">
+      <desc>Photograph from <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>B4</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
+	  <app><lem resp="#AO">ma</lem><rdg source="#Sarma1993">mā</rdg></app>caputasa anekakatuyājisa
+	  <lb n="2"/>
+	  <gap reason="lost" extent="unknown" unit="character"/>
+	  <app><lem resp="#AO"><gap reason="lost" quantity="1" unit="character"/><unclear>na</unclear></lem><rdg source="#Sarma1993">dune</rdg></app>dāsasa
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>of -nadāsa, an Amātyaputra and the performer of many rituals.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

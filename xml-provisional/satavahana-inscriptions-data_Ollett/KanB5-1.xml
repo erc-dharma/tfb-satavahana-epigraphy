@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="KanB5-1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Kanaganahalli B5-1 (of Mahāmariti and Toḍakāḍā)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>KanB5-1</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	      <support>“Above a panel decorating the upper pradakṣiṇapatha and showing a Cetiya with Nāgas” (<ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>).</support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Kanaganahalli">Kanaganahalli</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="0120" precision="medium" datingMethod="cal:gregorian">c. 100 BCE–120 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Donative</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="images/KanB5-1.jpg">
+      <desc>Photograph from <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</desc>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:MNOVH2014"/>
+	  <citedRange>II.5.1</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Kan"/>
+	  <citedRange>plate CXXXII.10 (p. 453, no. 31)</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:MNOVH2014">Nakanishi and von Hinüber 2014</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <supplied reason="lost">mani</supplied><unclear>kā</unclear>rasa <persName key="pers:Kan-Mahāmariti">mahāmaritino</persName> ca <persName key="pers:Kan-Toḍakāḍā">toḍakāḍā</persName> ca dāna cediya
+	</ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>The gift, (the image of) a Caitya, of the jeweller <persName key="pers:Kan-Mahāmariti">Mahāmariti(n)</persName> and <persName key="pers:Kan-Toḍakāḍā">Toḍakāḍā</persName>.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

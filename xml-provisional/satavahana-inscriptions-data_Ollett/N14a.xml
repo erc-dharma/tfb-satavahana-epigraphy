@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="N14a">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Nasik No. 14a (of Uṣavadāta, time of Nahapāna) </title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>N14a</idno><!-- ID follows Senart. !-->
+	<availability>
+	  <licence target="http://creativecommons.org/licenses/by/3.0/">Licensed under a Creative Commons-Attribution 
+	       3.0 licence.</licence>
+	</availability>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName type="modern" key="pl:Nāsikya">Nasik</placeName>,
+		on the right wall of the court in Cave No. 10.
+	      </origPlace>
+	      <origDate notBefore-custom="0060" notAfter-custom="0084" precision="medium" datingMethod="cal:gregorian">ca. 60-84 CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="san-Latn">
+	<div type="commentary" xml:lang="eng">
+	  <p>This edition is based on <ref target="bibl:N">Senart 1905-1906</ref>.</p>
+	</div>
+	<p>
+	  <lb n="1"/>
+	  <gap reason="lost" quantity="7" unit="character"/>ṭasa kṣatrapasa
+	    <persName key="pers:Nahapāna">nahapānasa</persName>
+	    jāmā<lb n="2" break="no"/>
+	  <gap reason="lost" quantity="8" unit="character"/> śakasa 
+	    <persName key="pers:Uṣavadāta">uṣavadātasa</persName>
+	    netyakesu
+	  <lb n="3"/>
+	  <app>
+	    <lem source="#N"><gap reason="lost" quantity="7" unit="character"/>
+	      cechiṃñe</lem>
+	    <rdg source="#AS"><gap reason="lost" quantity="5" unit="character"/>
+	      <supplied reason="lost">śorpāra</supplied>ge
+	      veciṃñe</rdg>
+	  </app>
+	    <placeName key="pl:Dāhanukā">dāhanūkāna<app><lem source="#N">gara</lem>
+	       <rdg source="#AS #G">gare</rdg>
+	    </app></placeName>
+	    <placeName key="pl:Kekāpura">kekāpure</placeName>
+	  <lb n="4"/>
+	  <app>
+	    <lem source="#N"><gap reason="lost" quantity="8" unit="character"/>?e</lem>
+	    <rdg source="#G #AS"><gap reason="lost" quantity="4" unit="character"/>
+	      <supplied reason="lost">bharuka</supplied>che</rdg>
+	  </app> 
+	    <placeName key="pl:Anugāmi">anugāmimhi</placeName>
+	    <placeName key="pl:Ujjayinī">ujeniya</placeName>
+	    <placeName key="pl:Sākhā">sākhāya</placeName>
+	  <lb n="5"/>
+	  <gap reason="lost" quantity="9" unit="character"/>to brāhmaṇā <app><lem source="#N">bhujate</lem>
+	      <rdg source="#G">bhuṃjate</rdg></app> satasāha<lb n="6" break="no"/>
+	  <app>
+	    <lem source="#N">
+	      <gap reason="lost" quantity="8" unit="character"/>vatā
+	    </lem>
+	    <rdg source="#G">
+	      <gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">bhagavatāṃ</supplied>
+	    </rdg>
+	    <rdg source="#AS">
+	      <supplied reason="lost">rī</supplied>
+	      <gap reason="lost" quantity="10"/>
+	    </rdg>
+	  </app> brāhmaṇānaṃ gavāṃ satasa<lb n="7" break="no"/>
+	  <app>
+	    <lem source="#N">
+	      <gap reason="lost" quantity="9" unit="character"/> bhagavatā
+	    </lem>
+	    <rdg source="#G #AS">
+	      <supplied reason="lost">hasra</supplied>
+	      <gap reason="lost" quantity="7" unit="character"/>
+	      <supplied reason="lost">bhagava</supplied>tā
+	    </rdg>
+	  </app> devāna brāhmaṇānaṃ ca datā
+	  <lb n="8"/>
+	  <gap reason="lost" quantity="9" unit="character"/>
+	    cetrasudhe pana<app>
+	      <lem source="#N">rasa</lem>
+	      <rdg source="#G">rase</rdg>
+	    </app> kṣaharā<lb n="9" break="no"/>
+	    <gap reason="lost" quantity="10" unit="character"/>
+	    gavāṃ <app><lem source="#N"><gap reason="lost" quantity="1" unit="character"/>ta</lem>
+	       <rdg source="#G #AS">śata</rdg>
+	    </app>sahasradena 
+	    <persName key="pers:Uṣavadāta">uṣa</persName><lb n="10" break="no"/>
+	  <app>
+	    <lem source="#N">
+	      <gap reason="lost" quantity="12" unit="character"/>
+	    </lem>
+	    <rdg source="#G">
+	      <supplied reason="lost">vadātena</supplied>
+	      <gap reason="lost" quantity="6" unit="character"/>
+	      <supplied reason="lost">brāhma</supplied>
+	      <gap reason="lost" quantity="5" unit="character"/>
+	    </rdg>
+	  </app> nadī<app><lem source="#N">ye</lem><rdg source="#AS">ya</rdg></app>
+	    <placeName key="pl:Bārṇāsā">baṇā<app><lem source="#N">saya</lem>
+	       <rdg source="#G #AS">sāya</rdg>
+	    </app></placeName> da<lb n="11" break="no"/>
+	  <gap reason="lost" quantity="10" unit="character"/>
+	  <app>
+	    <lem source="#N">suvaṇa ti</lem>
+	    <rdg source="#AS">vaṇāti</rdg>
+	  </app>tha
+	  <app>
+	    <lem source="#N">ce ñayate</lem>
+	    <rdg source="#G">ca ñāyate</rdg>
+	  </app> tasa
+	  <lb n="12"/>
+	  <app>
+	    <lem source="#N">
+	      <gap reason="lost" quantity="21" unit="character"/>
+	    </lem>
+	    <rdg source="#G">
+	      <gap reason="lost" quantity="10" unit="character"/>cati
+	    </rdg>
+	  </app>
+	</p> 
+      </div>
+      <div type="translation">
+	<ab>[Success!] By permanent charities of <persName key="pers:Uṣavadāta">Uṣavadāta</persName>, the Śaka, [son of <persName key="pers:Dīnīka">Dīnīka</persName>], son-in-law of king <persName key="pers:Nahapāna">Nahapāna</persName>, the [Kṣaharā]ta Kṣatrapa, one-hundred-thousand holy Brāhmaṇas dine [the whole year round] at . . . . . . . . .  <placeName key="pl:Ceciñña">Ceciñña</placeName>, at the town of <placeName key="pl:Dāhanūkā">Dāhanūkā</placeName>, at <placeName key="pl:Kekāpura">Kekāpura</placeName>, . . . . at <placeName key="pl:Anugāmi">Anugāmi</placeName>, at <placeName key="pl:Ujjayinī">Ujjayinī</placeName>, at <placeName key="pl:Sākhā">Sākhā</placeName>. [By the same, three]-hundred-thousand cows have been given to holy Brāhmaṇas, [and sixteen villages] have been given to the holy gods and Brāhmaṇas. [In the year . . . . . ], in the bright half of Chaitra, on the fifteenth day . . . . . by <persName key="pers:Uṣavadāta">Uṣa[vadāta]</persName> money and a <foreign xml:lang="san-Latn">tīrtha</foreign> have been bestowed in the <placeName key="pl:Bārṇāsā">Barṇāsā</placeName> river . . . . .</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

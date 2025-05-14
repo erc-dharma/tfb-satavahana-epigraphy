@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Pau9">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Pauni 9</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Pau9</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+	        <support>Sculpted pillar</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>On the flat band of the pillar.</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	    <handDesc>
+	      <handNote>Letters are <height>3-4cm</height> high.</handNote>
+	    </handDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Pauni">Pauni</placeName>,
+		<placeName key="pl:Jagannāthaṭekḍī">Jagannātha Ṭekḍī</placeName></origPlace>
+	      <origDate notBefore-custom="-0100" notAfter-custom="-0001" precision="medium" evidence="nomenclature" datingMethod="cal:gregorian">1st c. BCE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile/>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Deo1972"/>
+	  <citedRange>no. 9</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition is based on <ref target="bibl:Deo1972">Deo and Joshi 1972</ref>, although there appear to be mistakes (Mahāyasā should be a name in the genitive, but it isn’t) and I cannot correct them on the basis of the plate they supplied.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  mahāyasā aṃtevāsiniya <gap reason="lost" unit="character" quantity="2"/>valiya dānaṃ
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>The gift of ... the disciple of Mahāyasa.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="SaE14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Sannati E14 (of Sadāśrī)</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>SaE14</idno><!-- ID follows Sarma and Rao. !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+            <objectDesc>
+	      <supportDesc>
+	      <support>
+		<p>A fragmentary slab set up against the wall of the Devamma Temple.</p>
+	      </support>
+	    </supportDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Sannati">Sannati</placeName></origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">1st c. CE</origDate>
+	    </origin>
+	    <provenance type="found" subtype="discovered" notAfter="1966">
+	      <p>Found set up against the wall of the temple of Devamma.</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<keywords>
+	  <term>Label</term>
+	</keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:ARIE1966">ARIE 1966–1967</ptr>
+	  <citedRange>208</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Sarma1993"/>
+	  <citedRange>E14</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>Based on <ref target="bibl:Sarma1993">Sarma and Varaprasada Rao 1993</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  <app><lem source="#ARIE1966"><unclear>sa</unclear></lem><rdg source="#Sarma1993">sa</rdg></app>dāsiri<app><lem source="#ARIE1966">yā</lem><rdg source="#Sarma1993">ya</rdg></app>
+	</ab>
+      </div>
+      <div type="translation">
+	<ab>Of <persName key="pers:Sa-Sadāśrī">Sadāśrī</persName> (?).</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

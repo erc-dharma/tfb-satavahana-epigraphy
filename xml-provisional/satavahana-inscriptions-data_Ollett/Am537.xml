@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="Am537">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Amarāvatī Inscription No. 537</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>Am537</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc/>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Dhānyakaṭaka">Amarāvatī</placeName>,
+		on a fragment of an oblong rail pillar.
+	      </origPlace>
+	      <origDate notBefore-custom="0001" notAfter-custom="0100" precision="medium" datingMethod="cal:gregorian">ca. 1st century CE</origDate>
+	    </origin>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+      <profileDesc>
+      </profileDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+  </facsimile>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Chandra1919"/>
+	  <citedRange>no. 3 (No. 537 of 1907)</citedRange>
+	</bibl>
+      </div>
+      <div type="notes" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:Chandra1919">Chandra 1919–1920</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	    <gap reason="lost" unit="character" extent="unknown"/>tasa 
+	    <persName key="pers:Am-Likhita">likhitasa</persName> 
+	    thaṃbho bhi<app><lem source="#Chandra1919">da nāpa<unclear>ṭali</unclear>talē</lem><note xml:lang="eng"><p>The editor (F.W. Thomas) suggests the
+	      reading <foreign xml:lang="san-Latn">bhikhuṇo pāṭaliputāto</foreign>.</p></note></app><gap reason="lost" extent="unknown" unit="character"/>	      
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>(Following Thomas' suggestion) The (gift of) a pillar by 
+	<persName key="pers:Am-Likhita">Likhita</persName>,
+	a monk from Pāṭaliputra.</ab>
+      </div>
+    </body>
+  </text>
+</TEI>

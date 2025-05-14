@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:space="preserve" xml:lang="eng" xml:id="An5">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>Andhau Memorial Pillar of Ṛṣabhadeva</title>
+      </titleStmt>
+      <publicationStmt>
+	<authority>Sātavāhana Inscriptions</authority>
+	<idno>An5</idno><!-- ID follows Senart !-->
+      </publicationStmt>
+      <sourceDesc>
+	<msDesc>
+	  <msIdentifier/>
+	  <physDesc>
+	    <objectDesc>
+	      <supportDesc>
+		<support>
+		  <p>
+		    <objectType>Memorial pillar</objectType>;
+		    no dimensions are given in the original publication.
+		    “The records are incised on long narrow slabs of stone,
+		    and in the majority of cases the inscriptions are 
+		    incised lengthwise... it is apparent that the mason
+		    did not take the trouble to make [the inscribed surfaces]
+		    smooth before incising the letters.”
+		  </p>
+		</support>
+	      </supportDesc>
+	      <layoutDesc>
+		<layout>
+		  <p>
+		    <dimensions unit="feet">
+		      <height>3' 5"</height>
+		      <width>1' 2"</width>
+		    </dimensions>
+		  </p>
+		</layout>
+	      </layoutDesc>
+	    </objectDesc>
+	  </physDesc>
+	  <history>
+	    <origin>
+	      <origPlace>
+		<placeName key="pl:Andhau">Andhau</placeName>,
+		standing on a hillock.
+	      </origPlace>
+	      <origDate notBefore-custom="0130" notAfter-custom="0131" precision="medium" datingMethod="cal:gregorian">c. 130–131 CE</origDate>
+	    </origin>
+	    <provenance type="found" when-custom="1906">
+	      <p>Discovered by Mr. D. R. Bhandarkar at Bhuj, “in the stored of the Engineering Department, near the palace.”</p>
+	    </provenance>
+	    <provenance type="transferred" notAfter-custom="1906">
+	      <p>Originally these inscriptions were located at Andhau, in Khāvḍā, standing on a hillock, but they were “removed to Bhuj by the late Dewāṇ Ranchhodbhāī Udairām, who was very keen on antiquarian matters.”</p>
+	    </provenance>
+	  </history>
+	</msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+	<language ident="eng">English</language>
+	<language ident="pra-Latn">Middle Indic, romanized</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="bibliography" xml:lang="eng">
+	<bibl>
+	  <ptr target="bibl:Banerji19211922"/>
+	  <citedRange>D</citedRange>
+	</bibl>
+	<bibl>
+	  <ptr target="bibl:Mirashi1981"/>
+	  <citedRange>B.49</citedRange>
+	</bibl>
+      </div>
+      <div type="commentary" xml:lang="eng">
+	<p>This edition and translation is based on <ref target="bibl:Banerji1921922">Banerji 1921–1922</ref>.</p>
+      </div>
+      <div type="edition" xml:lang="pra-Latn">
+	<ab>
+	  <lb n="1"/>
+	  rājño <persName key="pers:Caṣṭana">cāṣṭanasa</persName> <persName key="pers:Ysāmotika">ysāmotika</persName>pu<unclear>trasa</unclear> r<unclear>ā</unclear>j<unclear>ño</unclear> <persName key="pers:Rudradāman">ru<unclear>dradāmasa</unclear></persName> <persName key="pers:Jayadāman">jayadāma</persName><lb n="2" break="no"/>putra<unclear>sa</unclear> varṣe 50 2 phaguṇabahula<unclear>sa</unclear> dvitiyaṃ vā 2
+	  <lb n="3"/>
+	  <persName key="pers:An-Ṛṣabhadeva">ṛṣabhadevasa</persName> <persName key="pers:An-Treṣṭadatta">treṣṭadata</persName>putrasa opaśatigotrasa
+	  <lb n="4"/>
+	  pitr<unclear>ā</unclear> <persName key="pers:An-Treṣṭadatta">treṣṭadatena</persName> śrāmaṇ<unclear>e</unclear>rena laṣṭi uthāpita
+        </ab>
+      </div>
+      <div type="translation" xml:lang="eng">
+	<ab>
+	  In the year fifty-two, 50 ,2; on the second day of the dark half of Phālguna, va . 2, of (the reign of) the king <persName key="pers:Rudradāman">Rudradāman</persName>, son of <persName key="pers:Jayadāman">Jayadāman</persName>, (the grandson) of the king <persName key="pers:Caṣṭana">Cāṣṭana</persName>, son of <persName key="pers:Ysāmotika">Ysāmotika</persName>, (this) staff was raised (in memory) of <persName key="pers:An-Ṛṣabhadeva">Ṛṣabhadeva</persName>, son of <persName key="pers:An-Treṣṭadatta">Treṣṭadatta</persName>, by his father <persName key="pers:An-Treṣṭadatta">Treṣṭadatta</persName>, a novice of the Opaśati gotra.
+	</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
