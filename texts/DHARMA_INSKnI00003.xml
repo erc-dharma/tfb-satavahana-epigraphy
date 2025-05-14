@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>KnI0003</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:"><!-- Update the id -->
+                        <forename>Fu</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Fan</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:vito"><!-- Update the id -->
+                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKnI00003</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:jodo" when="2025-04-03">Initial Encoding</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <p><lb n="1"/><milestone n="A" unit="fragment"/>raño sirichimu<unclear>ka</unclear>sātavāhanasa savachare soḍe <num value="16"><g type="numeral">10</g> 6</num> māhiseka<milestone n="B" unit="fragment"/>sa gahapatinā toḍesa canagahapatiputesa sabhāriyesa sa<supplied reason="lost">bhag</supplied>inikesa <milestone n="C" unit="fragment"/>saputasa sajāmātusa sasunhasa sagotasa saduhu<supplied reason="lost" evidence="parallel">takasa sanatukasa</supplied> <milestone n="D" unit="fragment"/>kacūkā deyadhaṁma<unclear>ṁ</unclear> dānaṁ</p>
+             <!--edition encoded as per EGD §§2−7-->
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="A-B"><!-- update the value of @loc.-->
+                     <lem>māhisekasa</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">mātisekasa</rdg><note>The shape of the <foreign>h</foreign> is peculiar, being more angular than the others in this inscription, but it is still comparable to that found in <foreign xml:lang="pra-Latn">saduhu<supplied reason="lost">takasa</supplied></foreign>. And its shape is markedly distinct from the <foreign>ta</foreign> in <foreign xml:lang="pra-Latn">-sātavāhanasa</foreign>. It is clear that a <foreign>hi</foreign> was mean.</note>
+                  </app>
+                  <app loc="B">
+                      <lem>gahapatinā</lem>
+                      <note>Understand <foreign xml:lang="pra-Latn">gahapatino</foreign>. The hand active on this slab is distinct from the one of part A. In fact, four different hands may have engraved the four parts of the record. The hand active in part B looks more cursive and less expert than the others, which perhaps explains the further irregularities in the ending of all following words.</note>
+                  </app>
+                  <app loc="B">
+                      <lem>toḍesa canagahapatiputesa</lem>
+                      <note>The left horizontal stroke on top of the <foreign>ḍa</foreign> looks like the marker of a <foreign>e</foreign>, and a similar (and similarly unexpected) sign is found in the penultimate consonant of the three following words. I suggest the four <foreign>e</foreign> should be understood as superfluous. The previous editors, because they read <foreign xml:lang="pra-Latn">māhisekasa</foreign> as <foreign xml:lang="pra-Latn">mātisekasa</foreign>, which they understood as a proper name, struggled to make sense of these two names. For a discussion of the name Toḍa, see <bibl><ptr target="bib:Tournier2021-2022_01"/><citedRange unit="page">27</citedRange><citedRange unit="note">75</citedRange></bibl>. As for the name Cana, it may be understood as Dravidian <foreign>canna/cenna</foreign>, meaning (according to <bibl><ptr target="bib:Burrow+Emeneau1984_01"/></bibl>, s.v.)<!--correct the this later--> <quote>a man of beauty, a handsome man.</quote></note>
+                  </app>
+                  <app loc="B">
+                      <lem>sa<supplied reason="lost">bhag</supplied>inikesa</lem>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">sa<gap reason="lost" extent="unknown" unit="character"></gap></rdg>
+                  </app>
+                  <app loc="D">
+                      <lem>saduhu<supplied reason="lost">takasa sanatukasa</supplied></lem>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">saduhu<supplied reason="lost">takasa</supplied></rdg>
+                      <note>My reconstruction <foreign xml:lang="pra-Latn">sanatukasa</foreign> is speculative, but it fits the number of missing <foreign xml:lang="san-Latn">akṣaras</foreign>. In several inscriptions from Amaravati, the mention of the donor’s daughter(s) is immediately followed by that of grandchildren. See <ref target="DHARMA_INSEIAD00272.xml">EIAD 272</ref>, ll. 4–5; <ref target="DHARMA_INSEIAD00286.xml">EIAD 286</ref>, ll. 2–3. Moreover, the presence of children (possibly grandchildren) in Toḍa’s family is confirmed by the portrait occurring on one of the dome slabs. See <bibl><ptr target="bib:Hinuber2018_01"/><citedRange unit="page">358-360</citedRange><citedRange unit="figure">1</citedRange><citedRange unit="note">75</citedRange></bibl>. I don’t think that the absence of the marks of old age necessarily excludes that three generations were represented.</note>
+                  </app>
+                  <app loc="D">
+                      <lem>deyadhaṁma<unclear>ṁ</unclear> dānaṁ</lem>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">deyadhamadāna</rdg>
+                      <note>The previous editors remark that <quote>the expression <foreign xml:lang="pra-Latn">deyadhamadāna</foreign> might occur once again in a damaged inscription at Amarāvatī (<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">II Amar 15</citedRange><citedRange unit="line">4</citedRange></bibl>): <foreign xml:lang="pra-Latn">deyadhamad<supplied reason="lost" cert="low">āna</supplied>...</foreign> .</quote><!-- the citation may needs rework --> The new reading of this inscription by Griffiths and I (<ref target="DHARMA_INSEIAD00267.xml">EIAD 267</ref>, l. 3) reads instead ... <foreign xml:lang="pra-Latn"><unclear>de</unclear>yadhaṁma <space/> <unclear>pa</unclear>tiṭhapita ...</foreign> <ref target="DHARMA_INSEIAD00305.xml">EIAD 305</ref>, l. 3, by contrast, does have the two expressions in combination: <foreign xml:lang="pra-Latn">... deyadhamaparicakā be suciya dānā</foreign>. See also <ref target="DHARMA_INSEIAD00266.xml">EIAD 266</ref>.</note>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:vito">
+ 	<!--translation encoded as per EGD §9.2 -->
+            <p>In the sixteenth - 16th - year of <persName type="human" subtype="coronation"><roleName type="king">King Siri-Chimuka, the Sātavāhana</roleName></persName>. The encasing slabs are the pious offering, the gift of <persName type="human"><roleName type="unknown" subtype="donor">the notable <supplied reason="explanation"><foreign>gahapati</foreign></supplied> Toḍa</roleName></persName>, son of <persName>the notable Cana</persName>, from <placeName>Mahisaka</placeName>, together with his wife, his sister<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>-in-law, his daughter<supplied reason="subaudible">s</supplied>-in-law, his clan, his daughter<supplied reason="subaudible">s</supplied> <supplied reason="lost">and his grandchildren</supplied>.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="N+vH">
+				    <ptr target="bib:Nakanishi+Hinuber2014_01"/>
+				    <citedRange unit="section">I</citedRange>
+				    <citedRange unit="item">3</citedRange>
+				    <citedRange unit="section">IV</citedRange>
+				    <citedRange unit="item">9</citedRange>
+				    <citedRange unit="section">IV</citedRange>
+				    <citedRange unit="item">2</citedRange>
+				    <citedRange unit="section">II.4</citedRange>
+				    <citedRange unit="item">22</citedRange>
+				</bibl>
+        	    <bibl>
+        	        <ptr target="bib:Tournier2021-2022_01"/>
+        	        <citedRange unit="page">26-27</citedRange>
+        	    </bibl>
+        	    <bibl n="MASI">
+        	        <ptr target="bib:Poonacha2011_01"/>
+        	        <citedRange unit="page">464</citedRange>
+        	        <citedRange unit="item">101</citedRange>
+        	        <citedRange unit="plate">CXXXIX</citedRange>
+        	        <citedRange unit="item">a-d</citedRange>
+        	        <citedRange unit="plate">CXLIII</citedRange>
+        	        <citedRange unit="item">A-D</citedRange>
+        	    </bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

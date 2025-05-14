@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>KnI 10</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:">
+                        <forename>Fu</forename>
+                        <surname>Fan</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:vito"><!-- Update the id -->
+                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSKnI00010</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="" when="2025-05-07">Initial encoding</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn">
+             <p>
+                 <lb n="1"/><supplied reason="lost">sidhaṁ <space/></supplied> r<supplied reason="lost">a</supplied>ñ<supplied reason="lost">o</supplied> v<unclear>ā</unclear>siṭh<unclear>ī</unclear>putasa <space/> s<unclear>i</unclear>ris<unclear>ā</unclear>dakaṇi<unclear>sa</unclear> <space/> <unclear>sa</unclear>va<unclear>cha</unclear>r<unclear>e</unclear> <num value="6"><unclear>6</unclear></num> <space/> gi<unclear>mh</unclear>āṇa pakha <num value="4">4</num> <space/> divasa <num value="5">5</num> Utarāhakena <space/> sathavāhena <space/> sama<unclear>ṇe</unclear>na <space/> U<unclear>j</unclear>ukā patā <space/> catāri ca pāyakā <space/> <unclear>de</unclear>ya<unclear>dhama</unclear>
+                 <lb n="2"/>savabudhapūcāya <space/> mātāpituno <space/> pūcāya <space/> savalokahi<supplied reason="lost">ta</supplied><unclear>s</unclear>ughāya
+             </p>
+            <!--edition encoded as per EGD §§2−7-->
+         </div>
+         <div type="apparatus">
+             <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+             <listApp>
+                 <app loc="1">
+                     <lem>v<unclear>ā</unclear>siṭh<unclear>ī</unclear>putasa</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">v<supplied reason="lost">ā</supplied>s<supplied reason="lost">ī</supplied>ṭh<supplied reason="lost">i</supplied>pu<unclear>tasa</unclear></rdg>
+                 </app>
+                 <app loc="1">
+                     <lem>s<unclear>i</unclear>ris<unclear>ā</unclear>dakaṇi<unclear>sa</unclear></lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">s<unclear>i</unclear>r<unclear>i</unclear> sadakan<unclear>i</unclear><supplied reason="lost">sa</supplied></rdg>
+                 </app>
+                 <app loc="1">
+                     <lem><unclear>sa</unclear>va<unclear>cha</unclear>r<unclear>e</unclear></lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01"><supplied reason="lost">savacha</supplied>r<unclear>a</unclear></rdg>
+                 </app>
+                 <app loc="1">
+                     <lem>gi<unclear>mh</unclear>āṇa</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">gi<unclear>mh</unclear>āna</rdg>
+                 </app>
+                 <app loc="1">
+                     <lem>sama<unclear>ṇe</unclear>na</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">sama<unclear>l</unclear><supplied reason="lost">e</supplied>ṇa</rdg>
+                     <note>The editors’ comparison, to argue against the reading <foreign>ṇe</foreign> of the third <foreign xml:lang="san-Latn">akṣara</foreign> in <bibl><ptr target="bib:Poonacha2011_01"/></bibl>, of the <foreign xml:lang="san-Latn">akṣara</foreign> with <foreign>lo</foreign> in l. 2 is not convincing.</note>
+                 </app>
+                 <app loc="1">
+                     <lem>U<unclear>j</unclear>ukā patā</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">U<unclear>d</unclear>uk<unclear>o</unclear>pat<unclear>o</unclear></rdg>
+                     <note>Their remark that <quote>the reading <foreign>uju-</foreign> [proposed by MASI] can safely be ruled out</quote> is incorrect, in light of the new documentation. Indeed, while the middle horizontal stroke of the <foreign>ja</foreign> is faint, it is nonetheless visible. Cf. <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">16</citedRange></bibl>.</note>
+                 </app>
+                 <app loc="1">
+                     <lem>pāyakā</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">pāyaka</rdg>
+                 </app>
+                 <app loc="2">
+                     <lem>savabudhapūcāya</lem><!-- this lemma doesn't match with the edition -->
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">savabudhap<unclear>u</unclear>cāya</rdg>
+                     <note>This reading is confirmed by the next occurrence of <foreign xml:lang="pra-Latn">pūcāya</foreign>, for <foreign xml:lang="pra-Latn">pūjāya</foreign>.</note>
+                 </app>
+                 <app loc="2">
+                     <lem>mātāpituno</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">mātāpituna</rdg>
+                 </app>
+                 <app loc="2">
+                     <lem>pūcāya</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">puyāya</rdg>
+                 </app>
+                 <app loc="2">
+                     <lem>savalokahi<supplied reason="lost">ta</supplied><unclear>s</unclear>ughāya</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">savalokah<supplied reason="lost">ita</supplied><unclear>s</unclear>ughāya</rdg>
+                 </app>
+             </listApp>
+         </div>
+         <div type="translation" resp="part:vito">
+             <p>Success! In the 6th year of King Vāsiṭṭhīputta Siri-Sātakaṇṇi, on the 4th fortnight of the hot season, on the 5th day. A straight slab and four uprights are a pious gift <supplied reason="subaudible">made</supplied> by  the caravan leader Samaṇa (Skt. <foreign xml:lang="san-Latn">Śramaṇa</foreign>?), in honour of all buddhas, in honour of his father and mother, and for the well-being and happiness of the whole world.</p>
+             <!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+             <!--commentary encoded as per section §9.3 -->
+         </div>
+         <div type="bibliography">
+	        <!--bibliography encoded as per section §9.4 -->
+            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+        	    <bibl n="N+vH">
+        	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
+        	        <citedRange unit="page">34-35</citedRange>
+        	        <citedRange unit="section">I</citedRange>
+        	        <citedRange unit="item">10</citedRange>
+        	    </bibl>
+        	    <bibl n="MASI">
+        	        <ptr target="bib:Poonacha2011_01"/>
+        	        <citedRange unit="page">451</citedRange>
+        	        <citedRange unit="item">15</citedRange>
+        	        <citedRange unit="plate">CXXXI</citedRange>
+        	        <citedRange unit="item">5</citedRange>
+        	        <citedRange unit="plate">CXLVI</citedRange>
+        	        <citedRange unit="item">A-C</citedRange>
+        	    </bibl>
+        	    <bibl>
+        	        <ptr target="bib:ARIE2014-2015"/>
+        	        <citedRange unit="item">B.81</citedRange>
+        	    </bibl>
+			</listBibl>
+            <listBibl type="secondary">
+                <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
