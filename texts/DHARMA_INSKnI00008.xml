@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Large slab, reign of Vāsiṭṭhīputta Siri-Puḷumāvi, year 35, Kanaganahalli stūpa</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:"><!-- Update the id -->
+                        <forename>Fu</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Fan</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKnI00008</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="" when="2025-03-28">Initial encoding</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="pra-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <p><lb n="1"/>sidha <g type="ddanda">.</g> na<unclear>mo</unclear> bhagavato samasabudhasa <space/> Adhālakamahā<lb n="2" break="no"/>ce<unclear>t</unclear>iyasa <unclear>ra</unclear>ño vāseṭhiputasiripulumāvisa <lb n="3"/> savachare <num value="35"><g type="numeral">30</g> 5</num> gi<unclear>m</unclear>h<supplied reason="lost">ā</supplied>na pakhe <num value="2">2</num> <num value="10">10</num> <space/> korukulana <lb n="4"/> bhikhuniya <space/> dhamasiriyāya <space/> Agarik<unclear>o</unclear> paṭasa<lb n="5" break="no"/>tharo ca deyadhama <space/> saha A<unclear>mā</unclear>p<unclear>itu</unclear>hi <space/> saha ca me <lb n="6"/> upajāEhi bhayatava<unclear>ra</unclear>nabhutihi <space/> sahi ca bhayata<lb n="7" break="no"/><unclear>s</unclear>ihehi <space/> savasatāna ca hitasughatha</p>
+             <!--edition encoded as per EGD §§2−7-->
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="1"><!-- update the value of @loc.-->
+                     <lem>sidha</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">sidha</rdg>
+                     <rdg source="bib:Falk2009_01">siddha</rdg>
+                  </app>
+                  <app loc="2">
+                      <lem>Adhālakamahāce<unclear>t</unclear>iyasa</lem>
+                      <rdg source="bib:Falk2009_01">śudhalakamahāce<unclear>t</unclear>iyasa</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">Adh<unclear>ā</unclear>lakamahāce<supplied reason="lost">t</supplied>iyasa</rdg>
+                  </app>
+                  <app loc="2">
+                      <lem>vāseṭhiputasiripulumāvisa</lem>
+                      <rdg source="bib:Falk2009_01">vāseṭhi<unclear>p</unclear>utasiripulumāvisa</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">vāseṭhi<unclear>p</unclear>uta siri pulumāvisa</rdg>
+                  </app>
+                  <app loc="3">
+                      <lem>gi<unclear>m</unclear>h<supplied reason="lost">ā</supplied>na</lem>
+                      <rdg source="bib:Falk2009_01"><unclear>gimhana</unclear></rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">gi<supplied reason="lost">m</supplied>h<supplied reason="lost">ā</supplied>na</rdg>
+                  </app>
+                  <app loc="4">
+                      <lem>bhikhuniya</lem>
+                      <rdg source="bib:Falk2009_01">bhikhuniye</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">bhikhuniye</rdg>
+                  </app>
+                  <app loc="4-5">
+                      <lem>Agarik<unclear>o</unclear> paṭasatharo</lem>
+                      <rdg source="bib:Falk2009_01">Akhar<unclear>i</unclear>kapaṭa satharo</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">Agarak<unclear>o</unclear> paṭasatharo</rdg>
+                      <note>The <foreign>i</foreign> is marked by a vertical wave, instead of a semi-circular stroke. This unusual shape is explained by the limited space left by the long descender of the <foreign>akṣara</foreign> <foreign>ka</foreign> in the preceding line. Unusual <foreign>i</foreign> and <foreign>ī</foreign> markers, adapting to similar constraints, may be observed elsewhere, for instance in <ref target="DHARMA_INSEIAD00040">EIAD 40</ref> (<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Naga 19</citedRange></bibl>), ll. 7 (in <foreign>nī</foreign>) and 8 (in <foreign>ni</foreign>).</note>
+                  </app>
+                  <app loc="5">
+                      <lem>A<unclear>mā</unclear>p<unclear>itu</unclear>hi</lem>
+                      <rdg source="bib:Falk2009_01">A<unclear>māpitu</unclear>hi</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">A<unclear>māpitū</unclear>hi</rdg>
+                  </app>
+                  <app loc="6">
+                      <lem>bhayatava<unclear>ra</unclear>nabhutihi</lem>
+                      <rdg source="bib:Falk2009_01">bhayatava<unclear>ra</unclear>nabhutihi</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">bhayata va<unclear>ra</unclear>nabhutihi</rdg>
+                  </app> 
+                  <app loc="6-7">
+                      <lem>sahi ca bhayata<unclear>s</unclear>ihehi</lem>
+                      <rdg source="bib:Falk2009_01">saha ca bhayata <unclear>s</unclear>ihehi</rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">saha ca bhayata<unclear>s</unclear>ihehi</rdg>
+                  </app> 
+                  <app loc="7">
+                      <lem>savasatāna</lem>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">savasatāna</rdg>
+                      <rdg source="bib:Falk2009_01">savasa<unclear>ta</unclear>na</rdg>
+                  </app> 
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="N+vH">
+				    <ptr target="bib:Nakanishi+Hinuber2014_01"/>
+				    <citedRange unit="page">31-33</citedRange>
+				    <citedRange unit="section">I</citedRange>
+				    <citedRange unit="item">8</citedRange>
+				</bibl>
+        	    <bibl>
+        	        <ptr target="bib:Poonacha2011_01"/>
+        	        <citedRange unit="page">458</citedRange>
+        	        <citedRange unit="item">75</citedRange>
+        	        <citedRange unit="plate">CXXXVI</citedRange>
+        	        <citedRange unit="figure">8</citedRange>
+        	        <citedRange unit="plate">CXLIV</citedRange>
+        	        <citedRange unit="item">A</citedRange>
+        	    </bibl>
+        	    <bibl>
+        	        <ptr target="bib:Tournier2020_01"/>
+        	        <!-- this entry needs further clarification -->
+        	    </bibl>
+        	    <bibl n="F">
+				    <ptr target="bib:Falk2009_01"/>
+				</bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
