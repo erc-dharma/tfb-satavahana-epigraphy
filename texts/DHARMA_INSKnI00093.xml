@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>KnI093</title>
+                <title>Drum slab, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -95,7 +95,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><supplied reason="lost">mani</supplied><unclear>kā</unclear>rasa mahāmaritino ca to<unclear cert="low">ḍ</unclear>akāḍā<supplied reason="omitted">ya</supplied> ca dāna cediya</p>
+             <p><lb n="1"/><supplied reason="lost">mani</supplied><unclear>kā</unclear>rasa mahāmaritino ca toḍakāḍā<supplied reason="omitted">ya</supplied> ca dāna cediya</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -106,7 +106,7 @@
                      <note>Reconstruction on the basis of the parallel in <ref target="DHARMA_INSKnI00152.xml">KnI0152</ref>, l. 1.</note>
                  </app>
                  <app loc="1">
-                     <lem>to<unclear cert="low">ḍ</unclear>akāḍā<supplied reason="omitted">ya</supplied></lem>
+                     <lem>toḍakāḍā<supplied reason="omitted">ya</supplied></lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">toḍakāḍā</rdg>
                  </app>
              </listApp>
