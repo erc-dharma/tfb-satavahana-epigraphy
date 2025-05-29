@@ -102,7 +102,7 @@
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem><unclear cert="low">su</unclear>vinaviy<unclear>ā</unclear>ka<unclear>rana</unclear> <space/></lem>
+                     <lem><unclear>su</unclear>vinaviy<unclear>ā</unclear>ka<unclear>rana</unclear> <space/></lem>
                      <rdg source="bib:Sarma+VaraPrasadaRao1993_01">Akaṭhinibiyā karaya</rdg>
                      <rdg source="bib:Hinuber2016_01">omitted</rdg>
                      <note><bibl><ptr target="bib:Hinuber2016_01"/></bibl> comments: <quote>The first nine akṣaras, which are separated from the second part of the inscription by a gap, seem to contain the title of the lost image.</quote> The reading <foreign>suvina</foreign> corresponds closely to Pkt. <foreign>suviṇa</foreign>, P. <foreign>supina</foreign>. Cf. <bibl><ptr target="bib:Turner1962-1966_01"/></bibl>, s.v. <foreign>supna</foreign>.</note>
