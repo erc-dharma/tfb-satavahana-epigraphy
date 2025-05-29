@@ -94,7 +94,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear cert="low">d</unclear>āmatuyā Isisāya dānaṁ paṭo</p>
+             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>d</unclear>āmatuyā Isisāya dānaṁ paṭo</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">

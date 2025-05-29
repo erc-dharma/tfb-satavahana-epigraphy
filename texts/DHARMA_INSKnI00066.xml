@@ -94,14 +94,14 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>thera<unclear>sa</unclear> <gap reason="lost" quantity="5" unit="character"/> <unclear cert="low">j</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ta</unclear>sa Atevāsikasa Ayaju<unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg> <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">sa</supplied>bhaginikasa paṭo dāna</p>
+             <p><lb n="1"/>thera<unclear>sa</unclear> <gap reason="lost" quantity="5" unit="character"/> <unclear>j</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ta</unclear>sa Atevāsikasa Ayaju<unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg> <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">sa</supplied>bhaginikasa paṭo dāna</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem>thera<unclear>sa</unclear> <gap reason="lost" quantity="5" unit="character"/> <unclear cert="low">j</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ta</unclear>sa</lem>
+                     <lem>thera<unclear>sa</unclear> <gap reason="lost" quantity="5" unit="character"/> <unclear>j</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ta</unclear>sa</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">ther<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> <gap reason="lost" extent="unknown" unit="character"/> <unclear>ja</unclear>tisa</rdg>
                  </app>
                  <app loc="1">
