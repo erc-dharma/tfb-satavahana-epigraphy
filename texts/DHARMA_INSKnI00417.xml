@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>KnI0417</title>
+                <title>Slab, Sannati - reign of Vāseṭṭhīputta Sivasiri-Puḷumāvi</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -134,11 +134,8 @@
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
-        	        <citedRange unit="item"></citedRange>
         	        <citedRange unit="plate">II</citedRange>
         	        <citedRange unit="item">A</citedRange>
-        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
