@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kañcūka (upper), reign of Chimuka, year 16, Kanaganahalli stūpa</title>
+                <title>Kañcūka (upper part), reign of Chimuka, year 16, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -103,7 +103,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="A-B"><!-- update the value of @loc.-->
                      <lem>māhisekasa</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">mātisekasa</rdg><note>The shape of the <foreign>h</foreign> is peculiar, being more angular than the others in this inscription, but it is still comparable to that found in <foreign xml:lang="pra-Latn">saduhu<supplied reason="lost">takasa</supplied></foreign>. And its shape is markedly distinct from the <foreign>ta</foreign> in <foreign xml:lang="pra-Latn">-sātavāhanasa</foreign>. It is clear that a <foreign>hi</foreign> was mean.</note>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">mātisekasa</rdg><note>The shape of the <foreign>h</foreign> is peculiar, being more angular than the others in this inscription, but it is still comparable to that found in <foreign xml:lang="pra-Latn">saduhu<supplied reason="lost">takasa</supplied></foreign>. And its shape is markedly distinct from the <foreign>ta</foreign> in <foreign xml:lang="pra-Latn">-sātavāhanasa</foreign>. It is clear that a <foreign>hi</foreign> was meant.</note>
                   </app>
                   <app loc="B">
                       <lem>gahapatinā</lem>
