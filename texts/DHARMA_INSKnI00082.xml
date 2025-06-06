@@ -8,13 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pupphagahani, fragment, Kanaganahalli stūpa</title>
+                <title>Vedikā pillar, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:jodo">
+                    <persName ref="part:">
                         <forename>Fu</forename>
                         <surname>Fan</surname>
                     </persName>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKnI00027</idno>
+                <idno type="filename">DHARMA_INSKnI00082</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,27 +83,30 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-04-02">Initial encoding</change>
+            <change who="part:" when="2025-05-22">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="pra-Latn" resp="part:vito">
-             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> keka <gap reason="lost" quantity="3" unit="character"/> kāya pu<supplied reason="lost">phagahani</supplied></p>
+         <div type="edition" xml:lang="pra-Latn">
+             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>t</unclear>inayasa deyadhaṁmaṁ</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem><gap reason="illegible" quantity="1" unit="character"/> keka <gap reason="lost" quantity="3" unit="character"/> kāya</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">koka ... k<supplied reason="lost">a</supplied>ya</rdg>
+                     <lem><unclear>t</unclear>inayasa</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/>.</seg>i</seg>nayasa</rdg>
+                 </app>
+                 <app loc="1">
+                     <lem>deyadhaṁmaṁ</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">deyadhama</rdg>
                  </app>
              </listApp>
          </div>
@@ -120,14 +123,17 @@
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
-        	        <citedRange unit="page">47-48</citedRange>
-        	        <citedRange unit="section">II.2</citedRange>
-        	        <citedRange unit="item">8</citedRange>
+        	        <citedRange unit="page">64</citedRange>
+        	        <citedRange unit="section">II.4</citedRange>
+        	        <citedRange unit="item">12</citedRange>
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page">474</citedRange>
-        	        <citedRange unit="item">205</citedRange>
+        	        <citedRange unit="page">451</citedRange>
+        	        <citedRange unit="item">11</citedRange>
+        	        <citedRange unit="plate">CXXXI</citedRange>
+        	        <citedRange unit="item">1</citedRange>
+        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

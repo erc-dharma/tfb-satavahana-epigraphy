@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Octagonal pillar, Kanaganahalli stūpa</title>
+                <title>Octagonal <foreign>chattra</foreign>-pillar, Kanaganahalli stūpa - reign of Gotamīputta Siri-Yaññasātakaṇṇi, year 11</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -113,7 +113,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>Success! In the 11th year of King Gotamīputta Siri-Yaññasātakaṇṇi, in the 1st fortnight of the winter season, on the 1st day. An umbrella: the pious gift for the <foreign>Dharma</foreign> expounder Bodhikaya — together with his parents and with his brother<supplied reason="subaudible">s</supplied> and sister<supplied reason="subaudible">s</supplied> — for the well-being of the whole world.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

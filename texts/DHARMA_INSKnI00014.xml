@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lower drum slab, Kanaganahalli stūpa</title>
+                <title>Lower drum slab, Kanaganahalli stūpa - reign of Māṭharīputta Siri-Puḷumāvi</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -97,7 +97,7 @@
          <div type="edition" xml:lang="pra-Latn">
              <p>
                  <lb n="1"/><supplied reason="lost">namo bha</supplied><unclear>ga</unclear>gavato budhasa <space/> raño māḍhariputasa <space/> siripulumāvisa <unclear>sa</unclear><supplied reason="lost">vachare</supplied> <gap reason="lost" quantity="5" unit="character"/> diva<unclear>s</unclear><supplied reason="lost">aṁ</supplied> <num value="5">5</num> s<unclear>i</unclear>dakapavatakasa U<unclear>v</unclear><supplied reason="lost">āsakasa</supplied>
-                 <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> va vāṇijaputasa <space/> hāgāṇa kaṇhasirisa <space/> samātukasa <space/> <supplied reason="lost">sabhā</supplied><unclear>t</unclear>ukasa <space/> saputakasa dejadhama <space/> cetiyapaṭo <space/> sava<unclear>l</unclear><supplied reason="lost">oka</supplied>
+                 <lb n="2"/><unclear>de</unclear>vavāṇijaputasa <space/> hāgāṇa kaṇhasirisa <space/> samātukasa <space/> <supplied reason="lost">sabhā</supplied><unclear>t</unclear>ukasa <space/> saputakasa dejadhama <space/> cetiyapaṭo <space/> sava<unclear>l</unclear><supplied reason="lost">okahitāya</supplied>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -125,14 +125,10 @@
                      <lem>U<unclear>v</unclear><supplied reason="lost">āsakasa</supplied></lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>dhava</unclear></rdg>
                  </app>
-                 <app loc="2">
-                     <lem><gap reason="illegible" quantity="1" unit="character"/> va</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>de</unclear>va</rdg>
-                 </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>Hommage to the Bhagavant, the Buddha! In the … year of King Māṭharīputta Siri-Puḷumāvi, … on the 5th day. A slab with a<supplied reason="subaudible">n engraved</supplied> shrine: the pious gift of Kaṇhasiri of the Hāga family, a lay-follower from Mount Siddhaka, the son of the merchant -deva — together with his mother, his brother<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied> — for the well-being of the whole world.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
