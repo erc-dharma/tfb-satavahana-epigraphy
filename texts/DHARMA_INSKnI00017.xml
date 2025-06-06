@@ -113,10 +113,6 @@
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>pa</unclear>vajit<unclear>ā</unclear>ya</rdg>
                  </app>
                  <app loc="1">
-                     <lem>Adh<unclear>ā</unclear>laka-</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01"></rdg><!-- wait for update -->
-                 </app>
-                 <app loc="1">
                      <lem>-dhamaraIka-</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">-dhamarajaka</rdg>
                      <note><bibl><ptr target="bib:Tournier2020_02"/></bibl> understands this as forming a compound with the following <foreign>deyadhama</foreign>, but <foreign>-dhamaraIka</foreign> could also be understood as un uninflected locative.</note>
