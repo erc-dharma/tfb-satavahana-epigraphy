@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kañcūka, Kanaganahalli stūpa</title>
+                <title>Vedikā pillar, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKnI00092</idno>
+                <idno type="filename">DHARMA_INSKnI00084</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,36 +83,34 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-05-14">Initial encoding</change>
+            <change who="part:" when="2025-05-22">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>t<unclear>o</unclear>ḍakulasa kacūkāniyāt<unclear>a</unclear>na</p>
+             <p><lb n="1"/>seḍivayikāya Is<unclear>i</unclear><lb n="2" break="no"/>lanikāya dānaṁ</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
-                 <app loc="1">
-                     <lem>kacūkāniyāt<unclear>a</unclear>na</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">kacūkā ni<unclear>cā</unclear>tāna</rdg>
-                     <note><bibl><ptr target="bib:Zin2018_02"/><citedRange unit="page">99</citedRange></bibl> reads <foreign>toḍakulasa kacha kāniyo bhāna</foreign>, which does not make sense. The mark above the left arm of the <foreign>ya</foreign>, interpreted by the previous editors as a <foreign>cā</foreign>, is probably just an accident of engraving, by a hand whose skills were limited. A similar unnecessary stroke may be seen to the left of the <foreign>t<unclear>o</unclear></foreign>. See <bibl><ptr target="bib:Cone2001-2020_01"/></bibl><!-- DP stands for? -->, s.v. <foreign xml:lang="pli">niyyātana</foreign>; <bibl><ptr target="bib:Edgerton1953_01"/></bibl>, s.v. <foreign xml:lang="san-Latn">niryātanā</foreign>. See also von <bibl><ptr target="bib:Hinuber2016_01"/><citedRange unit="note">46</citedRange></bibl>. My understanding of <foreign>kacūkāniyāt<unclear>a</unclear>na</foreign> as a compound is tentative. An alternative would be to understand <foreign>kacūkā niyāt<unclear>a</unclear>na</foreign> as two nominatives, in which case the phrasing would be that of a donative record. However, and even if <foreign>niryātana</foreign> is an attested synonym of <foreign>dāna</foreign>, I think that the choice of word was informed by the wish to label a scene representing (as symbolised by the <foreign>bhṛṅgāra</foreign>) the handing over of the encasing slabs from the donors to the monks in charge of the <foreign>caitya</foreign>.</note>
+                 <app loc="1-2">
+                     <lem>Is<unclear>i</unclear>lanikāya</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">Is<supplied reason="lost">i</supplied>lanikāya</rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>The consigning of the dome slabs of Toḍa’s family.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>Distinct inscription, yet identical text to <ref target="DHARMA_INSKnI00294">KnI0294</ref>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -121,17 +119,17 @@
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
-        	        <citedRange unit="page">67-68</citedRange>
+        	        <citedRange unit="page">65</citedRange>
         	        <citedRange unit="section">II.4</citedRange>
-        	        <citedRange unit="item">23</citedRange>
+        	        <citedRange unit="item">14</citedRange>
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page">467</citedRange>
-        	        <citedRange unit="item">138</citedRange>
-        	        <citedRange unit="plate">CXLI</citedRange>
-        	        <citedRange unit="item">4</citedRange>
-        	        <citedRange unit="plate">CII</citedRange>
+        	        <citedRange unit="page">451</citedRange>
+        	        <citedRange unit="item">13</citedRange>
+        	        <citedRange unit="plate">CXXXI</citedRange>
+        	        <citedRange unit="item">3</citedRange>
+        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
