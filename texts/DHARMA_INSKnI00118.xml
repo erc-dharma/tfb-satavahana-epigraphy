@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Image of a seated Buddha, Kanaganahalli stūpa</title>
+                <title>Pedestal of a Buddha image, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKnI00117</idno>
+                <idno type="filename">DHARMA_INSKnI00118</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -95,58 +95,41 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>sidha <g type="dash"/> namo bhegavato budhasa <space unit="character" quantity="1"/> sākamuṇisa <space quantity="1" unit="character"/> paḍim<unclear>ā</unclear> <space unit="character" quantity="1"/> thāvitā muth<unclear>i</unclear>kumāra<unclear>sa</unclear><lb 
-                 n="2" rend="tb-rotated"/>bhājāya <space unit="character" quantity="1"/> radhāya<lb 
-                 n="3" rend="tb-rotated"/>sunhāya <space unit="character" quantity="1"/> <unclear>kha</unclear>ṁdagopiya<lb 
-                 n="4" rend="tb-rotated"/><unclear>du</unclear>hasenakumārasa kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied><lb 
-                 n="5" rend="tb-rotated"/>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya
+             <p><milestone type="pagelike" unit="face" n="A"/><lb n="A.1"/>dāraghāḍ<unclear>hi</unclear>kehi bhagavato<lb n="A.2"/>budhasa paḍimā karit<unclear>ā</unclear><milestone type="pagelike" unit="face" n="B"/><lb n="B.1"/><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina Upajhāyāna natukena veṇh<unclear>u</unclear>na Upajhāyāna<lb n="B.2"/>putena nādikeṇa <space unit="character" quantity="1"/> kato
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
-                 <app loc="1">
-                     <lem>sidha <g type="dash"/></lem>
-                     <note>The punctuation sign is composed of a wavy horizontal stroke under a dot. It is similar, for instance, to that following <foreign>sidhaṁ</foreign> in <ref target="DHARMA_INSEIAD00020">EIAD 20</ref>, l. 1.</note>
+                 <app loc="B.1">
+                     <lem><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>sabhū</unclear>tina</rdg>
+                     <note>Cf. <ref target="DHARMA_INSKnI00054">KnI0054</ref>: <foreign>Asabhūtino</foreign>.</note>
                  </app>
-                 <app loc="1">
-                     <lem>bhegavato</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">bhagavato</rdg>
-                     <note>Understand <foreign>bhagavato</foreign>.</note>
+                 <app loc="B.1">
+                     <lem>Upajhāyāna</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">Upajhāyena</rdg>
+                     <note>As pointed out by the previous editors, <foreign>upajhāya</foreign> means here a master craftsman, as in <ref target="DHARMA_INSEIAD00322">EIAD 322, l. 1</ref>. The fact that both strings <foreign>-bhūtina upajhāyāna</foreign> and <foreign>veṇh<unclear>u</unclear>na upajhāyāna</foreign> are in the Gen. Pl. is a clear use of <foreign>pluralis maiestatis</foreign>, and might point to <foreign>Nādika</foreign>’s ancestors to be departed.</note>
                  </app>
-                 <app loc="1">
-                     <lem>sākamuṇisa</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">sakamuṇisa</rdg>
+                 <app loc="B.1">
+                     <lem>veṇh<unclear>u</unclear>na</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">ve<unclear>nena</unclear></rdg>
+                     <note>Cf. <ref target="DHARMA_INSEIAD00049">EIAD 49, l. 2</ref>: <foreign>veṇhusiri<unclear>ṇo</unclear></foreign>.</note>
                  </app>
-                 <app loc="1">
-                     <lem>muth<unclear>i</unclear>kumāra<unclear>sa</unclear></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">mathakumār<unclear>asa</unclear></rdg>
-                 </app>
-                 <app loc="3">
-                     <lem><unclear>kha</unclear>ṁdagopiya</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">Iṁdagopiya</rdg>
-                     <note><bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/></bibl> comment: <quote>The name of the daughter-in-law <foreign>Indragopī</foreign> can be classified as a name of an animal used as a personal name.</quote> On other feminine names in <foreign>-gopī</foreign>, see for instance <ref target="DHARMA_INSEIAD00647.xml">EIAD 647</ref>: <foreign>nāgagopinikāya</foreign>. See <ref target="DHARMA_INSEIAD00670.xml">EIAD 670</ref>, l. 3: <foreign>… Idāya nāganik<unclear>ā</unclear>ya gopiya</foreign>.</note>
-                 </app>
-                 <app loc="4">
-                     <lem>kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">ku<unclear>ḍha</unclear><gap reason="lost" extent="unknown" unit="character"/></rdg>
-                     <note>Cf. <ref target="DHARMA_INSKnI00083">KnI0083</ref> l. 1-2: <foreign>nāgaṇakasa koḍubiniya</foreign>.</note>
-                 </app>
-                 <app loc="5">
-                     <lem>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">kañā<supplied reason="lost">ya</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>hatasāya</unclear></rdg>
-                     <note>Cf. <ref target="DHARMA_INSEIADKnI00010">KnI0010</ref>, l. 2: <foreign>savalokahi<supplied reason="lost">ta</supplied><unclear>s</unclear>ughāya</foreign>.</note>
+                 <app loc="B.1">
+                     <lem>Upajhāyāna</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">Upajh<unclear>āy</unclear><supplied reason="lost">e</supplied>na</rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>Success! Homage to the Bhagavant! The image of the Buddha Śākyamuni has been established. <supplied reason="subaudible">It was</supplied> commissioned by Radhā, the wife of Muthikumāra <supplied reason="subaudible">and by her</supplied> daughter Khandagopī (Skt. <foreign xml:lang="san-Latn">Skandagopī</foreign>), the wife of Duhasenakumāra (Skt. <foreign xml:lang="san-Latn">Dṛḍhasenakumāra</foreign>), for the good and well-being of the whole world.
-</p>
+             <p></p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>Only the side of the pedestal corresponding to part B <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="line">1a-1b</citedRange></bibl> was documented by <persName ref="part:vito">Vincent Tournier</persName> in 02/2020. 
+</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -155,18 +138,18 @@
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
-        	        <citedRange unit="page">80</citedRange>
+        	        <citedRange unit="page">80-81</citedRange>
         	        <citedRange unit="section">II.7</citedRange>
-        	        <citedRange unit="item">9</citedRange>
+        	        <citedRange unit="item">10</citedRange>
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
         	        <citedRange unit="page">461</citedRange>
-        	        <citedRange unit="item">86</citedRange>
-        	        <citedRange unit="plate">CXXXVII</citedRange>
-        	        <citedRange unit="item">9</citedRange>
-        	        <citedRange unit="plate">XXVI</citedRange>
-        	        <citedRange unit="item">B</citedRange>
+        	        <citedRange unit="item">87</citedRange>
+        	        <citedRange unit="plate">CXXXVIII</citedRange>
+        	        <citedRange unit="item">1a</citedRange>
+        	        <citedRange unit="item">1b</citedRange>
+        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

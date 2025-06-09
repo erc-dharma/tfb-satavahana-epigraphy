@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Image of a seated Buddha, Kanaganahalli stūpa</title>
+                <title>Kañcūka, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKnI00117</idno>
+                <idno type="filename">DHARMA_INSKnI00134</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,67 +83,31 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="" when="2025-05-03">Initial encoding</change>
+            <change who="part:" when="2025-06-09">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>sidha <g type="dash"/> namo bhegavato budhasa <space unit="character" quantity="1"/> sākamuṇisa <space quantity="1" unit="character"/> paḍim<unclear>ā</unclear> <space unit="character" quantity="1"/> thāvitā muth<unclear>i</unclear>kumāra<unclear>sa</unclear><lb 
-                 n="2" rend="tb-rotated"/>bhājāya <space unit="character" quantity="1"/> radhāya<lb 
-                 n="3" rend="tb-rotated"/>sunhāya <space unit="character" quantity="1"/> <unclear>kha</unclear>ṁdagopiya<lb 
-                 n="4" rend="tb-rotated"/><unclear>du</unclear>hasenakumārasa kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied><lb 
-                 n="5" rend="tb-rotated"/>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya
-             </p>
+             <p><lb n="1"/>jātakaṁ chada<unclear>ṁ</unclear>tiyaṁ</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem>sidha <g type="dash"/></lem>
-                     <note>The punctuation sign is composed of a wavy horizontal stroke under a dot. It is similar, for instance, to that following <foreign>sidhaṁ</foreign> in <ref target="DHARMA_INSEIAD00020">EIAD 20</ref>, l. 1.</note>
-                 </app>
-                 <app loc="1">
-                     <lem>bhegavato</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">bhagavato</rdg>
-                     <note>Understand <foreign>bhagavato</foreign>.</note>
-                 </app>
-                 <app loc="1">
-                     <lem>sākamuṇisa</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">sakamuṇisa</rdg>
-                 </app>
-                 <app loc="1">
-                     <lem>muth<unclear>i</unclear>kumāra<unclear>sa</unclear></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">mathakumār<unclear>asa</unclear></rdg>
-                 </app>
-                 <app loc="3">
-                     <lem><unclear>kha</unclear>ṁdagopiya</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">Iṁdagopiya</rdg>
-                     <note><bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/></bibl> comment: <quote>The name of the daughter-in-law <foreign>Indragopī</foreign> can be classified as a name of an animal used as a personal name.</quote> On other feminine names in <foreign>-gopī</foreign>, see for instance <ref target="DHARMA_INSEIAD00647.xml">EIAD 647</ref>: <foreign>nāgagopinikāya</foreign>. See <ref target="DHARMA_INSEIAD00670.xml">EIAD 670</ref>, l. 3: <foreign>… Idāya nāganik<unclear>ā</unclear>ya gopiya</foreign>.</note>
-                 </app>
-                 <app loc="4">
-                     <lem>kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">ku<unclear>ḍha</unclear><gap reason="lost" extent="unknown" unit="character"/></rdg>
-                     <note>Cf. <ref target="DHARMA_INSKnI00083">KnI0083</ref> l. 1-2: <foreign>nāgaṇakasa koḍubiniya</foreign>.</note>
-                 </app>
-                 <app loc="5">
-                     <lem>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">kañā<supplied reason="lost">ya</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>hatasāya</unclear></rdg>
-                     <note>Cf. <ref target="DHARMA_INSEIADKnI00010">KnI0010</ref>, l. 2: <foreign>savalokahi<supplied reason="lost">ta</supplied><unclear>s</unclear>ughāya</foreign>.</note>
+                     <lem>chada<unclear>ṁ</unclear>tiyaṁ</lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">chadatiya</rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>Success! Homage to the Bhagavant! The image of the Buddha Śākyamuni has been established. <supplied reason="subaudible">It was</supplied> commissioned by Radhā, the wife of Muthikumāra <supplied reason="subaudible">and by her</supplied> daughter Khandagopī (Skt. <foreign xml:lang="san-Latn">Skandagopī</foreign>), the wife of Duhasenakumāra (Skt. <foreign xml:lang="san-Latn">Dṛḍhasenakumāra</foreign>), for the good and well-being of the whole world.
-</p>
+             <p></p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -155,18 +119,17 @@
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
-        	        <citedRange unit="page">80</citedRange>
-        	        <citedRange unit="section">II.7</citedRange>
-        	        <citedRange unit="item">9</citedRange>
+        	        <citedRange unit="page">88</citedRange>
+        	        <citedRange unit="section">III.1</citedRange>
+        	        <citedRange unit="item">7</citedRange>
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page">461</citedRange>
-        	        <citedRange unit="item">86</citedRange>
-        	        <citedRange unit="plate">CXXXVII</citedRange>
-        	        <citedRange unit="item">9</citedRange>
-        	        <citedRange unit="plate">XXVI</citedRange>
-        	        <citedRange unit="item">B</citedRange>
+        	        <citedRange unit="page">464</citedRange>
+        	        <citedRange unit="item">104</citedRange>
+        	        <citedRange unit="plate">CXXXIX</citedRange>
+        	        <citedRange unit="item">12</citedRange>
+        	        <citedRange unit="plate">LXVII</citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
