@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kanheri Epitaph inscription 5</title>
+                <title>Kanheri Epitaph inscription 9</title>
               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00055</idno>
+                <idno type="filename">DHARMA_INSKI00059</idno>
         
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
