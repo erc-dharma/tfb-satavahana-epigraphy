@@ -144,6 +144,8 @@
             <listBibl type="primary">
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
+		      <citedRange unit="page">114</citedRange>  
+    		      <citedRange unit="item">E4</citedRange>
     		    </bibl>  	    
     		</listBibl>
                 
