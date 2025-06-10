@@ -125,7 +125,7 @@
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n ="N">
-				    <ptr target="bib:Naragaraju1981_01"/>
+				    <ptr target="bib:Nagaraju1981_01"/>
 				    <citedRange unit="page">333</citedRange>
 				    <citedRange unit="item">3</citedRange>
 				</bibl>
