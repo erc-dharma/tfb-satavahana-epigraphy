@@ -108,23 +108,23 @@
                   <app loc="1">
                      <lem>suvaṇakerasa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">suvaṇakorasa</rdg>
-                     <rdg source="bib Gokhale1991_01">suvaṇakorasa</rdg>
+                     <rdg source="bib:Gokhale1991_01">suvaṇakorasa</rdg>
                      <note>Understand <foreign>suvaṇakārasa</foreign></note> 
                   </app>
                    <app loc="1">
                      <lem>samida<lb break="no" n="2"/>tasa</lem>                   
-                     <rdg source="bib Gokhale1991_01">sāmidatasa</rdg>
+                     <rdg source="bib:Gokhale1991_01">sāmidatasa</rdg>
                   </app>
                    <app loc="2">
                      <lem>saṁgh<unclear>ā</unclear>ṇa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">saghana</rdg>
-                     <rdg source="bib Gokhale1991_01">saghana</rdg>
+                     <rdg source="bib:Gokhale1991_01">saghana</rdg>
                      <note>Both B+B and G suggest to emend saghena. Both the eye copy and photographs show -ghā-, while the photographs suggest that -ṇa is correct. The reading of the last akṣara could also be -ne. See Commentary</note>  
                   </app>
                </listApp>
          </div>
          <div type="translation">
- 	<p>A <foreign>paniks</foreign>, the meritorious gift of <persName>Samidata</persName>Samidata, a goldsmith form <placeName>Kaliyana</placeName>, together with/for the <foreign>Saṃgha</foreign></p>
+ 	<p>A <foreign>panika</foreign>, the meritorious gift of <persName>Samidata</persName>Samidata, a goldsmith form <placeName>Kaliyana</placeName>, together with/for the <foreign>Saṃgha</foreign></p>
          </div>
          <div type="commentary">
             <p> Regarding l. 2 <foreign>saghaṇa</foreign>, it is tempting to accept the gen. pl. saghāṇa as indicating the beneficiaries of the gift, however this does not account for the preceding  saha, which would call for an instrumental. The personal name Saṃgha is known from one <foreign>kharoṣṭhī</foreign> inscription (CKI 924) and many Niya documents. VT: plus many inscriptions from the Deccan (at least Andhra and N Karnataka).</p>
@@ -154,11 +154,11 @@
                             <citedRange unit="page">568</citedRange>
                     </bibl>
                   <bibl n="Hett">
-                            <ptr target="bib:hettiarachchy1973_01"/>
+                            <ptr target="bib:Hettiarachchy1973_01"/>
                             <citedRange unit="page">114, 192</citedRange>
                   </bibl>
                     <bibl n="Naga1">
-                            <ptr target="bib:Nagaraju1979_01"/>
+                            <ptr target="bib:Nagaraju1979_1"/>
                             <citedRange unit="page">396</citedRange>
                   </bibl>
                   <bibl n="Naga2">
