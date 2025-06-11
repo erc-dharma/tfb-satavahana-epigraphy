@@ -111,7 +111,7 @@
                   <app loc="1">
                      <lem>Āyya<gap reason="lost" unit="character" quantity="4"></gap></lem>
                      <rdg source="bib:Gokhale1991_01">Āyya</rdg>
-                      <note>There are certainly 3-4 akṣaras missing which would ahve been the monk's name</note>
+                      <note>There are certainly 3-4 akṣaras missing which would have been the monk's name</note>
                   </app>
                </listApp>
          </div>
@@ -142,6 +142,8 @@
     			
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
+    		      <citedRange unit="page">125</citedRange>
+    		      <citedRange unit="item">E13</citedRange>  
     		    </bibl>  	    
     		</listBibl>
                 
