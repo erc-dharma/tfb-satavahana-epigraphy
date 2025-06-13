@@ -13,9 +13,9 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     
-                    <persName ref="part:kema">
-                        <forename>Kelsey</forename>
-                        <surname>Martini</surname>
+                    <persName>
+                        <forename>Georg</forename>
+                        <surname>Bühler</surname>
                     </persName>
                     
                 </respStmt>
