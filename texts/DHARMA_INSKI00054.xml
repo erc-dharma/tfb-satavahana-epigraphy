@@ -21,10 +21,9 @@
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
-                  
-                    <persName ref="part:kema">
-                        <forename>Kelsey</forename>
-                        <surname>Martini</surname>
+                  <persName ref="part:vito"><!-- Update the id -->
+                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Tournier</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
