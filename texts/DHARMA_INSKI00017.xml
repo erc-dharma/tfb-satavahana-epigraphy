@@ -16,6 +16,9 @@
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
+                   <persName><!-- Update the id -->
+                        <forename>Georg</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Bühler</surname>
                     </persName>
                     
                 </respStmt>
