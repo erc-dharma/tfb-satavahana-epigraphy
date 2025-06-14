@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kañcūka or drum slab plinth, fragment, Kanaganahalli stūpa</title>
+                <title>Drum slab, Kanaganahalli stūpa</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_INSKnI00160</idno>
+                <idno type="filename">DHARMA_INSKnI00167</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-06-13">Initial encoding</change>
+            <change who="part:" when="2025-06-14">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -94,20 +94,15 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>bhagavatā Idha U<supplied reason="lost">yā</supplied><lb n="2" break="no"/>n<unclear>e</unclear> paḍichita jet<unclear>a</unclear><supplied reason="lost">vana</supplied></p>
+             <p><lb n="1"/>Ayasa rāhula<lb n="2" break="no"/>sa</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
-                 <app loc="2">
-                     <lem>paḍichita</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">paḍichitā</rdg>
-                     <note>noting <quote>the referent of the feminine paḍichitā is not clear.</quote> I however don’t see a reason read <foreign>tā</foreign>.</note>
-                 </app>
-                 <app loc="2">
-                     <lem>jet<unclear>a</unclear><supplied reason="lost">vana</supplied></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">jet<unclear>ā</unclear></rdg>
+                 <app loc="">
+                     <lem></lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01"></rdg>
                  </app>
              </listApp>
          </div>
@@ -116,7 +111,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p>Documented by neither Robert Arlt or Vincent Tournier. Reedited from the only published picture (N 4206).</p>
+             <p>Belongs to the same drum slab as <ref target="DHARMA_INSKnI00162.xml">KnI0162</ref>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -125,9 +120,18 @@
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
-        	        <citedRange unit="page">96-97</citedRange>
+        	        <citedRange unit="page">99</citedRange>
         	        <citedRange unit="section">III.2</citedRange>
-        	        <citedRange unit="item">15</citedRange>
+        	        <citedRange unit="item">22</citedRange>
+        	    </bibl>
+        	    <bibl n="MASI">
+        	        <ptr target="bib:Poonacha2011_01"/>
+        	        <citedRange unit="page">454</citedRange>
+        	        <citedRange unit="item">40</citedRange>
+        	        <citedRange unit="plate">CXXXIII</citedRange>
+        	        <citedRange unit="item">7</citedRange>
+        	        <citedRange unit="plate">LV</citedRange>
+        	        <citedRange unit="item">A</citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
