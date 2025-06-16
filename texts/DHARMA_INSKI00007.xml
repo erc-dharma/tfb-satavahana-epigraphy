@@ -103,7 +103,7 @@
            <p>  
            <lb n="1"/>buddhasya bhagavataś śāsanānukā<space type="defect" quantity="1" unit="character"/>ritraipiṭakopāddhyaya
            <lb break="no" n="2"/>bhadantadharmmavatsa<space type="defect" quantity="1" unit="character"/>śiṣyasya śākyabhikṣor buddhaghoṣasya  
-           <lb n="3"/>mahāgandha<space type="defect" quantity="1" unit="character"/>kuṭīvārikasya bhagavatpratimeyaṁ deyadharmmaṃ    
+           <lb n="3"/>mahāgandha<space type="defect" quantity="1" unit="character"/>kuṭīvārikasya bhagavatpratimeyaṁ deyadharmmaṁ    
           </p> 
          </div>
           
@@ -119,7 +119,7 @@
                      <note>The reading is clear.</note>
                   </app>
                   <app loc="3">
-                      <lem>deyadharmmaṃ</lem>
+                      <lem>deyadharmmaṁ</lem>
                       <rdg source="bib:Burgess+Buhler1883_01">deyadharmmaḥ</rdg>
                       <rdg source="bib:Gokhale1991_01">deyadharmmaḥ</rdg>
                       <note>There is only one dot on the eye-copy, estampage, and images.</note>

@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-06-16">Edits in the apparatus and commentary. </change>
             <change who="part:kema" when="2025-06-10">Initial Encoding of Inscription</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -123,15 +124,15 @@
                      <lem>saṁgh<unclear>ā</unclear>ṇa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">saghana</rdg>
                      <rdg source="bib:Gokhale1991_01">saghana</rdg>
-                     <note>Both B+B and G suggest to emend saghena. Both the eye copy and photographs show -ghā-, while the photographs suggest that -ṇa is correct. The reading of the last akṣara could also be -ne. See Commentary</note>  
+                     <note>Both B+B and G suggest to emend <foreign>saghena</foreign>. Both the eye copy and photographs show -ghā-, while the photographs suggest that -ṇa is correct. The reading of the last akṣara could also be -ne. See Commentary.</note>  
                   </app>
                </listApp>
          </div>
          <div type="translation">
- 	<p>A <foreign>panika</foreign>, the meritorious gift of <persName>Samidata</persName>, a goldsmith from <placeName>Kaliyana</placeName>, together with/for the <foreign>Saṃgha</foreign></p>
+ 	<p>A <foreign>panika</foreign>, the meritorious gift of <persName>Samidata</persName>, a goldsmith from <placeName>Kaliyana</placeName>, together with/for the <foreign>Saṁgha</foreign></p>
          </div>
          <div type="commentary">
-            <p> Regarding l. 2 <foreign>saghaṇa</foreign>, it is tempting to accept the gen. pl. saghāṇa as indicating the beneficiaries of the gift, however this does not account for the preceding  saha, which would call for an instrumental. The personal name Saṃgha is known from one <foreign>kharoṣṭhī</foreign> inscription (CKI 924) and many Niya documents. VT: plus many inscriptions from the Deccan (at least Andhra and N Karnataka).</p>
+            <p> Regarding l. 2 <foreign>saghaṇa</foreign>, it is tempting to accept the gen. pl. <foreign>saghāṇa</foreign> as indicating the beneficiaries of the gift, however this does not account for the preceding <foreign>saha</foreign>, which would call for an instrumental. The personal name Saṁgha is very common in the inscription of the Deccan, as it is, for instance, in the Niya documents.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
