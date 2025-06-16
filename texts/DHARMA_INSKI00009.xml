@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-06-16">Fixed typo and changed translation</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -102,7 +103,7 @@
            <lb break="no" n="3"/>cāryya
            <lb break="no" n="4"/>buddhara
            <lb break="no" n="5"/>kṣitasya
-           <lb n="6"/>Ane<unclear>na</unclear>a
+           <lb n="6"/>Ane<unclear>na</unclear> 
            <lb break="no" n="7"/>sarvvasa
            <lb break="no" n="8"/>tvā buddhā  
            <lb n="9"/>bhavant<unclear>u</unclear>    
@@ -127,7 +128,7 @@
           
           
          <div type="translation">
- 	<p>This is the pious gift of master Buddharakṣita. With [the merit arising from] this, may all beings become Buddhas.</p>
+ 	<p>This is the pious gift of master Buddharakṣita. By this [meritorious deed], may all beings become <foreign>buddha</foreign>s!</p>
          </div>
           
           
