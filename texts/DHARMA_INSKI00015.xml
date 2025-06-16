@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-06-02">Fixed translation</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -127,9 +128,9 @@
           
           
           
-         <div type="translation" resp="kema">
+         <div type="translation">
             <p n="1-4">
-             Success! The stūpa of the elder, the reverend Dhaṁmapāla: The meritorious gift of Sivapālitaṇṇikā, the wife of the minter Dhamaṇṇaka.   
+             Success! The <foreign>stūpa</foreign> of the elder, the reverend Dhammapāla: The meritorious gift of Sivapālitaṇṇikā, the wife of the minter Dhammaṇṇaka.   
             </p> 	
          </div>
           
