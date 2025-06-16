@@ -13,15 +13,15 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     
-                    <persName>
-                        <forename>Georg</forename>
-                        <surname>Bühler</surname>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
                     </persName>
                     
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
-                  
+                    
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-06-16">Fixed translation</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -119,7 +120,7 @@
           
           
          <div type="translation">
- 	<p>This image of the Bhagavant is the pious gift of the <foreign>śākyabhikṣu</foreign> Buddhaghoṣa, the guardian of the great <foreign>Gandhakuṭi</foreign> and the pupil of the reverend Dharmmavatsa, [his] instructor, an expert in the Three <foreign>Piṭakas</foreign>, who acts in accordance with the Teaching of the Bhagavant, the Buddha. </p>
+ 	<p>This is the meritorious gift of the <foreign>śākyabhikṣu</foreign> Dharmagupta.</p>
          </div>
           
           
