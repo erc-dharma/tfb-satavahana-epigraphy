@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-06-16">Modified translation and commentary</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -126,14 +127,15 @@
           
           
          <div type="translation">
- 	<p>A cistern, the meritorious gift of Sulasadata, the son of Rohiṇimita, a minter of Cemula.</p>
+ 	<p>A cistern: the meritorious gift of Sulasadatta, the son of Rohiṇimitta, a minter of Cemulla.</p>
          </div>
           
           
           
           
          <div type="commentary">
-         <p>cf. KI020; Cemulla, well attested in our corpus, is identified by both ASWI V and Gokhale as modern Chaul, in the Raigan district, approximately 90km south of Kanheri.
+         <p>A gift by another son of Rohiṇimitta is recorded in KI020.</p>  
+         <p>Cemulla, well attested in our corpus, is identified by both ASWI V and Gokhale as modern Chaul, in the Raigan district, approximately 90km south of Kanheri.
          </p>   
          </div>
           
