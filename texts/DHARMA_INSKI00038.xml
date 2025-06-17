@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+	    <change who="part:kema" when="2025-06-17">Fix typos, change translation.</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -102,14 +103,14 @@
          <div type="edition" xml:lang="pra-Latn">
            <p>  
            <lb n="1"/>sidha Upāsakasa <space/> dh<unclear>e</unclear>ṇukākaḍayasa <space/> kulapiyasa 
-           <lb n="2"/><unclear>dha</unclear>dhamaṇakasa dhatuya <space/> pavaItikāya <space/> s<unclear>āpāya</unclear> th<unclear>e</unclear>
+           <lb n="2"/><unclear>dha</unclear>maṇakasa dhatuya <space/> pavaItikāya <space/> s<unclear>āpāya</unclear> th<unclear>e</unclear>
            <lb break="no" n="3"/>r<unclear>ā</unclear>ṇa bhadatabodhikāṇa <space/> poṇakāna <space/> Ātevasiṇi<supplied reason="lost">ya</supplied>
            <lb n="4"/>leṇa deyadhama <space/> pāṇiyapoḍhi ca <space/> sahā bhagiṇiya
            <lb n="5"/>ratinikāya <space/> saha ca saveṇa <space/> nātisabadhi<unclear>va</unclear><supplied reason="lost">ge</supplied>
-           <lb break="no" n="6"/>ṇa c<unclear>ā</unclear>t<unclear>u</unclear>dise bhikhusaghe <space/> Aṭha<unclear>su</unclear> puris<unclear>esu</unclear><gap reason="illegible"/>
-           <lb break="no" n="7"/>esu patiṭhāpita mātapitaro Udisa <space/> sāva l<unclear>o</unclear>gasa ca
+           <lb break="no" n="6"/>ṇa c<unclear>ā</unclear>t<unclear>u</unclear>dise bhikhusaghe <space/> Aṭha<unclear>su</unclear> puris<unclear>esu</unclear> <gap reason="illegible" quantity="1" unit="character"/>
+           <lb break="no" n="7"/>esu patiṭhāpita mātapitaro Udisa <space/> sāval<unclear>o</unclear>gasa ca
            <lb n="8"/> hitasughatha bhikhusaghasa Akhayanivi ca diṇā <unclear>E</unclear>t<unclear>o</unclear> ca <unclear>bhi</unclear>kh<unclear>u</unclear>
-           <lb break="no" n="9"/>saṁghaṇa civarika dātava s<unclear>o</unclear>olasaka Utukāle ca <unclear>pa</unclear><supplied reason="lost">ṭike</supplied>
+           <lb break="no" n="9"/>saṁghaṇa civarika dātava s<unclear>o</unclear>lasaka Utukāle ca <unclear>pa</unclear><supplied reason="lost">ṭike</supplied>
           </p> 
          </div>
           
@@ -127,9 +128,9 @@
                
                   <app loc="3">
                      <lem>bhadatabodhikāṇa <space/> poṇakāṇa</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">B+B completely glosses over the very present poṇakāṇa</rdg>
-                     <rdg source="bib:Gokhale1991_01">poṇakāṇo</rdg>
-                      <note>B+B completely glosses over the very present <foreign>poṇakāṇa</foreign></note>
+                     <rdg source="bib:Burgess+Buhler1883_01">bhadatabodhikāṇa</rdg>
+                     <rdg source="bib:Gokhale1991_01">bhadatabodhikāṇa poṇakāṇo</rdg>
+                      <note>B+B completely glosses over the clearly visible <foreign>poṇakāṇa</foreign></note>
                   </app>
           
                 
@@ -139,7 +140,7 @@
                      <lem>Aṭha<unclear>su</unclear> puris<unclear>esu</unclear></lem>
                      <rdg source="bib:Burgess+Buhler1883_01">Aṭhasu puris<unclear>esu</unclear></rdg>
                      <rdg source="bib:Gokhale1991_01">Atha Apariselesu</rdg>
-                     <note>Comparison with the following line makes it clear that at least one and probably two more akṣaras were originally engraved after puri­[s](esu), thus making Gokhale’s reading all the more unlikely. The frequent occurrence of the term <foreign>sapurisa</foreign> (Skt. <foreign>satpuruṣa</foreign> in early epigraphic records, and the possibility that sa has been dropped after su in the engraving process through pseudo-haplography, make it tempting to restore <foreign>⟨sa⟩puri[s](esu)</foreign>.</note>
+                     <note>Comparison with the following line makes it clear that at least one and probably two more akṣaras were originally engraved after <foreign>puri­[s](esu)</foreign>, thus making Gokhale’s reading all the more unlikely. The frequent occurrence of the term <foreign>sapurisa</foreign> (Skt. <foreign>satpuruṣa</foreign> in early epigraphic records, and the possibility that sa has been dropped after <foreign>su</foreign> in the engraving process through pseudo-haplography, make it tempting to restore <foreign>⟨sa⟩puri[s](esu)</foreign>.</note>
                   </app>
                
                   <app loc="7">
@@ -167,8 +168,8 @@
           
           
           
-         <div type="translation" resp="part:kema">
- 	<p n="1-8">Success! A cave and drinking cistern, the meritorious gift of the wanderer Sāpā, daughter of the <foreign>kulapiya</foreign> Dhamaṇaka of Dheṇukākaḍa, pupil of the reverend elder Bodhika [and] Poṇaka (?). Together with the sister Ratinikā and together with the entire assemblage of relatives and connections. Established for the universal order of monks, for eight … individuals, on behalf of mother and father, and for the purpose of the happiness and welfare of the whole world.</p>
+         <div type="translation">
+ 	<p n="1-8">Success! A cave and drinking cistern: the meritorious gift of the renunciant Sāpā — daughter of Dhammaṇṇaka of Dheṇukākaḍa who is dear to his family — pupil of the reverend elder Bodhika [and?] Poṇaka (Skt. Pūrṇaka?), together with her sister Ratiṇṇikā and together with the entire group of her relatives and connections. Established for the universal order of monks, for eight … individuals (?), on behalf of her mother and father, and for the purpose of the happiness and welfare of the whole world.</p>
     <p n="8-9">And an <foreign>akṣayanīvī</foreign> is given to the order of monks. And from this a cloth money of sixteen is to be given to the order of monks and a <foreign>paṭika</foreign> in the (hot) season.</p>
          </div>
           
