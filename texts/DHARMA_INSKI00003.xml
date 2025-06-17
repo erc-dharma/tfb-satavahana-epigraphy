@@ -87,7 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:vito" when="2025-06-16">Edits in the apparatus and commentary. </change>
+            <change who="part:vito" when="2025-06-16">Edits in the apparatus and commentary.</change>
             <change who="part:kema" when="2025-06-10">Initial Encoding of Inscription</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -129,7 +129,7 @@
                </listApp>
          </div>
          <div type="translation">
- 	<p>A <foreign>panika</foreign>, the meritorious gift of <persName>Samidata</persName>, a goldsmith from <placeName>Kaliyana</placeName>, together with/for the <foreign>Saṁgha</foreign></p>
+ 	<p>A <foreign>panika</foreign>, the meritorious gift of <persName>Sāmidatta</persName>, a goldsmith from <placeName>Kaliyana</placeName><!-- What would be the standard spelling?-->, together with/for the <foreign>Saṁgha</foreign></p>
          </div>
          <div type="commentary">
             <p> Regarding l. 2 <foreign>saghaṇa</foreign>, it is tempting to accept the gen. pl. <foreign>saghāṇa</foreign> as indicating the beneficiaries of the gift, however this does not account for the preceding <foreign>saha</foreign>, which would call for an instrumental. The personal name Saṁgha is very common in the inscription of the Deccan, as it is, for instance, in the Niya documents.</p>

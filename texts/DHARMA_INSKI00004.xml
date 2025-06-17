@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-06-17">Drafted preliminary commentary</change>
             <change who="part:kema" when="2025-06-10">Initial Encoding of the Inscription</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -119,10 +120,10 @@
                </listApp>
          </div>
          <div type="translation" resp="part:kema">
- 	<p>A cistern, the meritorious gift of <persName>Puṇavasuyata</persName> the <foreign>Citakiya</foreign>, a  <foreign>negama</foreign> [of] <placeName>KalīAña</placeName>.</p>
+ 	<p>A cistern, the meritorious gift of <persName>Puṇavasuyata</persName> the <foreign>Citakiya</foreign>, a  <foreign>negama</foreign> [of] <placeName>Kaliyana</placeName>.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+         <p>The term <foreign>citakiya</foreign> could indicate the occupation of the donor, but we are unable to make sense of it. It could possibly be related to Skt. <foreign>citrakāra</foreign> “painter”.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
