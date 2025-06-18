@@ -14,7 +14,7 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
+                    <persName ref="part:fufa">
                         <forename>Fu</forename>
                         <surname>Fan</surname>
                     </persName>
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-04-01">Initial encoding</change>
+            <change who="part:fufa" when="2025-04-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -117,10 +117,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>Four <foreign>āyāga</foreign> pillars: The pious gift … in order to increase <supplied reason="subaudible">their?</supplied> lifespan.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>This preserves the lower part of the same text preserved in full by <ref target="DHARMA_INSKnI00016.xml">KnI 16</ref>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">

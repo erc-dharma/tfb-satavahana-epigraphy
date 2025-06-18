@@ -8,13 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Large slab, Kanaganahalli stūpa - reign of Vāsiṭṭhīputta Siri-Puḷumāvi, year 35</title>
+                <title>Large slab, Kanaganahalli stūpa — reign of Vāsiṭṭhīputta Siri-Puḷumāvi, year 35</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:"><!-- Update the id -->
+                    <persName ref="part:fufa"><!-- Update the id -->
                         <forename>Fu</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Fan</surname>
                     </persName>
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="" when="2025-03-28">Initial encoding</change>
+            <change who="part:fufa" when="2025-03-28">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -171,7 +171,7 @@
 				    <citedRange unit="section">I</citedRange>
 				    <citedRange unit="item">8</citedRange>
 				</bibl>
-        	    <bibl>
+        	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
         	        <citedRange unit="page">458</citedRange>
         	        <citedRange unit="item">75</citedRange>
@@ -182,6 +182,7 @@
         	    </bibl>
         	    <bibl>
         	        <ptr target="bib:Tournier2020_02"/>
+        	        <citedRange unit="page">878-880</citedRange>
         	    </bibl>
         	    <bibl n="F">
 				    <ptr target="bib:Falk2009_01"/>

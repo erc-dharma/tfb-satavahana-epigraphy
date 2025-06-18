@@ -14,7 +14,7 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
+                    <persName ref="part:fufa">
                         <forename>Fu</forename>
                         <surname>Fan</surname>
                     </persName>
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-04-01">Initial encoding</change>
+            <change who="part:fufa" when="2025-04-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -113,6 +113,10 @@
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>pa</unclear>vajit<unclear>ā</unclear>ya</rdg>
                  </app>
                  <app loc="1">
+                     <lem>Adh<unclear>ā</unclear>laka-</lem>
+                     <note>Could be read aṃdhalaka.</note>
+                 </app>
+                 <app loc="1">
                      <lem>-dhamaraIka-</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">-dhamarajaka</rdg>
                      <note><bibl><ptr target="bib:Tournier2020_02"/></bibl> understands this as forming a compound with the following <foreign>deyadhama</foreign>, but <foreign>-dhamaraIka</foreign> could also be understood as un uninflected locative.</note>
@@ -124,7 +128,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>Success! <foreign>Āyāga</foreign> panels were established as the pious gift — pertaining to the <foreign>dharmarājika</foreign> Adhālaka Shrine — of the renunciant Buddharakkhitā, pupil of master reverend Sa(ṃ)tika <supplied reason="lost">from Korugāla</supplied>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -149,7 +153,7 @@
         	        <citedRange unit="plate">XXV</citedRange>
         	        <citedRange unit="plate">CXXII</citedRange>
         	    </bibl>
-        	    <bibl>
+        	    <bibl n="T">
         	        <ptr target="bib:Tournier2020_02"/>
         	        <citedRange unit="page">880-882</citedRange>
         	    </bibl>
