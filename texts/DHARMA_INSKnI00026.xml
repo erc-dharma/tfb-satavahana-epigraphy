@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:vito" when="2025-04-01">Fixed translation</change>
             <change who="part:" when="2025-04-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -112,7 +113,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>The pious gift to the mahācaitya of Uttiyā, the <foreign>alakanhakicī</foreign>?, a pupil of the venerable reverend Mahārakkhita.</p>
+             <p>A shrine<supplied reason="subaudible">-bearing slab and a?</supplied> <foreign>pupphagahani</foreign>: the gift of the jeweller Mahāmariti, together with his wife, his son[s], his daughter[s], and his son[s]-in law.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
