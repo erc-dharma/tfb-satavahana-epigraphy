@@ -97,7 +97,7 @@
       <body>
          <div type="edition" xml:lang="pra-Latn">
              <p>
-                 <lb n="1"/>manikārasa mahamar<unclear>i</unclear>tino sabhāriyasa saputakasa sadu<unclear>h</unclear><supplied reason="lost">utakasa</supplied> <unclear>sajā</unclear>mātukasa dāna cetiyapu<unclear>pha</unclear>gaha
+                 <lb n="1"/>manikārasa mahamar<unclear>i</unclear>tino sabhāriyasa saputakasa sadu<unclear>h</unclear><supplied reason="lost">utakasa</supplied> <unclear>sajā</unclear>mātukasa dāna cetiya pu<unclear>pha</unclear>gaha
                  <lb n="2" break="no"/>nik<unclear>a</unclear>
              </p>
             <!--edition encoded as per EGD §§2−7-->
@@ -106,7 +106,7 @@
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1-2">
-                     <lem>cetiyapu<unclear>pha</unclear>gahanika</lem>
+                     <lem>cetiya pu<unclear>pha</unclear>gahanika</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>cetiyapu</unclear><supplied reason="lost">pha</supplied><unclear>gaha</unclear><supplied reason="lost">ni</supplied></rdg>
                      <note>who seem to have missed the two <foreign>akṣaras</foreign> engraved below line 1, for lack of space.</note>
                  </app>
