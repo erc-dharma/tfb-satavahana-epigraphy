@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-04-02">Initial encoding</change>
+            <change who="part:fufa" when="2025-04-02">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -113,10 +113,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>A <foreign>pupphagahani</foreign>: the gift of Bhūtaṇṇikā.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>Likely identifiable with <bibl><ptr target="bib:Poonacha2011_01"/><citedRange unit="item">204</citedRange></bibl>MASI 204.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">

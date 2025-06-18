@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:fufa" when="2025-06-18">Adding translation</change>
             <change who="part:fufa" when="2025-04-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -117,7 +118,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>Success! … pertaining to the <foreign>dharmarājika</foreign> Adhālaka Shrine, of the nun Dhammarakkhitā, pupil of master reverend Sa(ṃ)tika from Korugāla.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
