@@ -8,13 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kañcūka (upper part), Kanaganahalli stūpa – reign of Chimuka, year 16</title>
+                <title>Kañcūka (upper part), Kanaganahalli stūpa — reign of Chimuka, year 16</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:"><!-- Update the id -->
+                    <persName ref="part:fufa"><!-- Update the id -->
                         <forename>Fu</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Fan</surname>
                     </persName>
@@ -131,14 +131,14 @@
          </div>
          <div type="translation" resp="part:vito">
  	<!--translation encoded as per EGD §9.2 -->
-            <p>In the sixteenth - 16th - year of <persName type="human" subtype="coronation"><roleName type="king">King Siri-Chimuka, the Sātavāhana</roleName></persName>. The encasing slabs are the pious offering, the gift of <persName type="human"><roleName type="unknown" subtype="donor">the notable <supplied reason="explanation"><foreign>gahapati</foreign></supplied> Toḍa</roleName></persName>, son of <persName>the notable Cana</persName>, from <placeName>Mahisaka</placeName>, together with his wife, his sister<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>-in-law, his daughter<supplied reason="subaudible">s</supplied>-in-law, his clan, his daughter<supplied reason="subaudible">s</supplied> <supplied reason="lost">and his grandchildren</supplied>.</p>
+            <p>In the sixteenth–16th–year of <persName type="human" subtype="coronation"><roleName type="king">King Siri-Chimuka, the Sātavāhana</roleName></persName>. The encasing slabs are the pious offering, the gift of <persName type="human"><roleName type="unknown" subtype="donor">the notable <supplied reason="explanation"><foreign>gahapati</foreign></supplied> Toḍa</roleName></persName>, son of <persName>the notable Cana</persName>, from <placeName>Mahisaka</placeName>, together with his wife, his sister<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>, his son<supplied reason="subaudible">s</supplied>-in-law, his daughter<supplied reason="subaudible">s</supplied>-in-law, his clan, his daughter<supplied reason="subaudible">s</supplied> <supplied reason="lost">and his grandchildren</supplied>.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in April 2025.</p>
         	<listBibl type="primary">
 				<bibl n="N+vH">
 				    <ptr target="bib:Nakanishi+Hinuber2014_01"/>

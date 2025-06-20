@@ -14,7 +14,7 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
+                    <persName ref="part:fufa">
                         <forename>Fu</forename>
                         <surname>Fan</surname>
                     </persName>
@@ -83,7 +83,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="" when="2025-05-08">Initial encoding</change>
+            <change who="part:fufa" when="2025-06-06">Encoding of the translation</change>
+            <change who="part:fufa" when="2025-05-08">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -123,7 +124,7 @@
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in May 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
