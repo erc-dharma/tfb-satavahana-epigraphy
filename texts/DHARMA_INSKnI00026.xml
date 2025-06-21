@@ -14,7 +14,7 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
+                    <persName ref="part:fufa">
                         <forename>Fu</forename>
                         <surname>Fan</surname>
                     </persName>
@@ -83,8 +83,9 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:fufa" when="2025-06-21">Encoding of the commentary</change>
             <change who="part:vito" when="2025-04-01">Fixed translation</change>
-            <change who="part:" when="2025-04-01">Initial encoding</change>
+            <change who="part:fufa" when="2025-04-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -113,15 +114,16 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>A shrine<supplied reason="subaudible">-bearing slab and a?</supplied> <foreign>pupphagahani</foreign>: the gift of the jeweller Mahāmariti, together with his wife, his son[s], his daughter[s], and his son[s]-in law.</p>
+             <p>A shrine<supplied reason="subaudible">-bearing slab and a?</supplied> <foreign>pupphagahani</foreign>: the gift of the jeweller Mahāmariti, together with his wife, his son<supplied reason="subaudible">s</supplied>, his daughter<supplied reason="subaudible">s</supplied>, and his son<supplied reason="subaudible">s</supplied>-in law.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>As remarked by <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">47</citedRange></bibl>, Mahāmariti occurs as the donor of a drum-slab bearing a representation of a shrine and referred to as <foreign>cediya</foreign> in <ref target="DHARMA_INSKnI00093.xml">KnI0093</ref>. Here, the <foreign>pupphagahani</foreign> does not bear any such representation, so the meaning of <foreign>cetiya pu<unclear>pha</unclear>gahanika</foreign> is a bit puzzling. I therefore suppose this phrasing may jointly refer to the two structural elements dedicated by the donor, and translate accordingly.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in April 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
@@ -135,7 +137,6 @@
         	        <citedRange unit="item">65b</citedRange>
         	        <citedRange unit="plate">CXXXV</citedRange>
         	        <citedRange unit="item">8</citedRange>
-        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
