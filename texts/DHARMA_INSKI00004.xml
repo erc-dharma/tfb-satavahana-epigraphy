@@ -87,6 +87,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-06-25">Updated commentary, corrected minor errors</change>
             <change who="part:vito" when="2025-06-17">Drafted preliminary commentary</change>
             <change who="part:kema" when="2025-06-10">Initial Encoding of the Inscription</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
@@ -120,10 +121,11 @@
                </listApp>
          </div>
          <div type="translation">
- 	<p>A cistern, the meritorious gift of <persName>Puṇavasuyata</persName> the <foreign>Citakiya</foreign>, a  <foreign>negama</foreign> [of] <placeName>Kaliyana</placeName>.</p>
+ 	<p>A cistern, the meritorious gift of <persName>Puṇavasuyata</persName> the <foreign>Citakiya</foreign>, a  <foreign>negama</foreign> [of] <placeName>Kalyan</placeName>.</p>
          </div>
          <div type="commentary">
          <p>The term <foreign>citakiya</foreign> could indicate the occupation of the donor, but we are unable to make sense of it. It could possibly be related to Skt. <foreign>citrakāra</foreign> “painter”.</p>
+            <p>The term <foreign>negama</foreign>, which occurs quite frequently in the Kanheri inscriptions, has typically been translated as “merchant” or “urbanite” by previous editors of early Indian inscriptions. However, it is clear from the evidence of KI033.9 <foreign>visighā□[ni]gamāṇa tti °apaḍikkhetavvā</foreign> and IBH III Nasi 12.4 <foreign>eta ca sarva srāvita nigamasabhāya(ṃ)  nibadha ca (ph)alakavāre caritrato ti</foreign> that at this time period in the Western Deccan the term <foreign>nigama</foreign> denoted a governing body that oversaw commercial transactions (a “market council”). Thus we translate the derivative term <foreign>negama</foreign> as “market councillor”.</p> 
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
