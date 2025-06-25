@@ -8,29 +8,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pedestal of a Buddha image, Kanaganahalli stūpa</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
+                <title>Pedestal of a standing Buddha image, Kanaganahalli stūpa</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
-                        <forename>Fu</forename>
-                        <surname>Fan</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:vito"><!-- Update the id -->
-                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
                         <surname>Tournier</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Munich</pubPlace>
                 <idno type="filename">DHARMA_INSKnI00118</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
@@ -40,8 +29,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -83,19 +71,25 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="" when="2025-05-03">Initial encoding</change>
+            <change who="part:fufa" when="2025-06-25">Encoding of the translation and apparatus</change>
+            <change who="part:fufa" when="2025-05-03">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><milestone type="pagelike" unit="face" n="A"/><lb n="A.1"/>dāraghāḍ<unclear>hi</unclear>kehi bhagavato<lb n="A.2"/>budhasa paḍimā karit<unclear>ā</unclear><milestone type="pagelike" unit="face" n="B"/><lb n="B.1"/><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina Upajhāyāna natukena veṇh<unclear>u</unclear>na Upajhāyāna<lb n="B.2"/>putena nādikeṇa <space unit="character" quantity="1"/> kato
+             <p><milestone type="pagelike" unit="face" 
+                 n="A"/><lb 
+                 n="A.1"/>dāraghāḍhikehi bhagavato<lb 
+                 n="A.2"/>budhasa paḍimā k<choice><sic>a</sic><corr>ā</corr></choice>rit<unclear>ā</unclear><milestone type="pagelike" unit="face" 
+                 n="B"/><lb 
+                 n="B.1"/><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina Upajhāyāna natukena veṇh<unclear>u</unclear>na Upajhāyāna<lb 
+                 n="B.2"/>putena nādikeṇa <space unit="character" quantity="1"/> kato
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -124,17 +118,17 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>The people from Dāraghāḍha commissioned this image of the Bhagavant, the Buddha. Made by Nādikan the son of the master <supplied reason="subaudible">sculptor</supplied> Veṇhu, grandson of the master <supplied reason="subaudible">sculptor</supplied> Assabhūti.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p>Only the side of the pedestal corresponding to part B <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="line">1a-1b</citedRange></bibl> was documented by <persName ref="part:vito">Vincent Tournier</persName> in 02/2020. 
-</p>
+             <p>The possible toponym Dāraghāḍha, from which the collective of donors stems, is otherwise unknown, although it brings to mind Dvārakā in Kathiawar, which is mentioned for instance in the Petavatthu and in the Periplus. See <bibl><ptr target="bib:Sircar1971_02"/><citedRange unit="page">197, 225</citedRange></bibl>.
+As remarked by <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">81</citedRange></bibl>, <foreign>upajjhāya</foreign> is used here not in its Buddhist meaning, but pointing to a master artisan, as in <ref target="DHARMA_INSEIAD00322.xml">EIAD 322</ref>: <foreign>caṁmakārasa nāgaUpajhayaputasa vidhikasa…</foreign>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in May 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
@@ -149,11 +143,13 @@
         	        <citedRange unit="plate">CXXXVIII</citedRange>
         	        <citedRange unit="item">1a</citedRange>
         	        <citedRange unit="item">1b</citedRange>
-        	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+                <bibl>
+                    <ptr target="bib:Sircar1971_02"/>
+                    <citedRange unit="page">197, 225</citedRange>
+                </bibl>
             </listBibl>
         </div>
       </body>
