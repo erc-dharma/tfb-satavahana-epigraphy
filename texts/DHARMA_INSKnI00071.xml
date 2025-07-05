@@ -9,28 +9,17 @@
         <fileDesc>
             <titleStmt>
                 <title>Vedikā pillar, Kanaganahalli stūpa</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
-                        <forename>Fu</forename>
-                        <surname>Fan</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:vito"><!-- Update the id -->
-                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
                         <surname>Tournier</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Munich</pubPlace>
                 <idno type="filename">DHARMA_INSKnI00071</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
@@ -40,8 +29,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Vincent Tournier.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -83,7 +71,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-05-22">Initial encoding</change>
+            <change who="part:fufa" when="2025-07-05">Encoding of the translation and commentary</change>
+            <change who="part:fufa" when="2025-05-22">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -115,20 +104,21 @@
                  <app loc="3">
                      <lem>saĀlaṁbano</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">saĀlabano</rdg>
-                     <note>The editors doubt <bibl><ptr target="bib:Poonacha2011_01"/></bibl>’s suggestion (<bibl><ptr target="bib:Poonacha2011_01"/><citedRange unit="page">169</citedRange><citedRange unit="page">471</citedRange></bibl>) that the term <foreign>ālambana</foreign> points to the coping. See also <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">16</citedRange><citedRange unit="page">60</citedRange></bibl>. Yet the word <foreign>ālaṁbana</foreign> occurs in <ref target="DHARMA_INSKnI00231.xml">KnI0231</ref>, which is of the very same type as the objects bearing <ref target="DHARMA_KnI00085.xml">KnI0085</ref>–<ref target="DHARMA_INSKnI00091.xml">91</ref>: these are edited under the heading <foreign>uṣṇīṣa</foreign>. Yet it is striking that the MIA <foreign>unisa</foreign> — or any other MIA form corresponding to Skt. <foreign xml:lang="san-Latn">uṣṇīṣa</foreign> — common, for instance, in the Amaravati corpus is nearly absent from the Kanaganahalli corpus, as it is, for instance, in Sarnath, and that the single occurrence of the term <foreign>Uṁnisa</foreign> (<ref target="DHARMA_KnI00044">KnI0044</ref>) occurs on a <foreign>puphagahani</foreign> and may point to a part of the casing. The term <foreign>āla(ṁ)bana</foreign> moreover occurs once on ca. 1st-c. BCE piece of “rail stone” found in Sarnath. See ASI–AR 1906–1907<!-- we need this in zotero library -->: 95 (<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Sarn 85</citedRange></bibl>). On the basis of the designation <foreign>āla(ṁ)bana</foreign>, Sten Konow who based his reading on the rubbing (<bibl><ptr target="bib:Marshal+Konow1911_01"/><citedRange unit="plate">XXX</citedRange></bibl>) assumed that <quote>this stone was originally the lower horizontal stone of a rail.</quote> But the object is described as a <quote>coping stone … with rounded edge at the the top</quote> in Sahni’s catalogue of the Sarnath museum (1914: 214–215, no. D(a) 39)<!-- we need this in zotero library -->. Sahni further adds that <quote>[i]t is curious that in the epigraph the coping stone is referred to as a base stone.</quote> <ref target="DHARMA_INSKnI00231.xml">KnI0231</ref> now proves that this is not an isolated case, and that <foreign>ālaṁbana</foreign> can not mean, in the context of Kanaganahalli or Sarnath, “base stone.” In the Mahāvastu, the term <foreign>ālambana</foreign> occurs alongside <foreign>adhiṣṭhānaka</foreign> as a qualifier of <foreign>sūcika</foreign>, the cross-bars fixed on the uprights (<foreign>pādaka</foreign>) in the description of the railings surrounding the city of Dīpavatī. See Mvu (S) I.194.20–195.4 / Ms. Sa, 54a3–5; Mvu (S) III.227.7–13 / (M) III.282.8–13. See also Divy 221.9–10. In light of the evidence Kanaganahalli, Edgerton’s understanding of <foreign>ālambana</foreign> (<bibl><ptr target="bib:Edgerton1953_01"/></bibl>, s.v. [3]), should be revised: in these passages, while the <foreign>adhiṣṭhānaka</foreign> would point to the base of the <foreign>vedikā</foreign>, the <foreign>ālambana</foreign> could point to the crowning element holding together the railing.</note>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p>An upright, together with a cross-bar and a coping: the pious gift of Isimitta, the son of the notable Bodhi from Bhogavaḍḍhana.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>The editors doubt <bibl><ptr target="bib:Poonacha2011_01"/></bibl>’s suggestion (<bibl><ptr target="bib:Poonacha2011_01"/><citedRange unit="page">169</citedRange><citedRange unit="page">471</citedRange></bibl>) that the term <foreign>ālambana</foreign> points to the coping. See also <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">16</citedRange><citedRange unit="page">60</citedRange></bibl>. Yet the word <foreign>ālaṁbana</foreign> occurs in <ref target="DHARMA_INSKnI00231.xml">KnI0231</ref>, which is of the very same type as the objects bearing <ref target="DHARMA_KnI00085.xml">KnI0085</ref>–<ref target="DHARMA_INSKnI00091.xml">91</ref>: these are edited under the heading <foreign>uṣṇīṣa</foreign>. Yet it is striking that the MIA <foreign>unisa</foreign>—or any other MIA form corresponding to Skt. <foreign xml:lang="san-Latn">uṣṇīṣa</foreign>—common, for instance, in the Amaravati corpus is nearly absent from the Kanaganahalli corpus, as it is, for instance, in Sarnath, and that the single occurrence of the term <foreign>Uṁnisa</foreign> (<ref target="DHARMA_KnI00044">KnI0044</ref>) occurs on a <foreign>puphagahani</foreign> and may point to a part of the casing. The term <foreign>āla(ṁ)bana</foreign> moreover occurs once on ca. 1st-c. BCE piece of “rail stone” found in Sarnath. See ASI–AR 1906–1907<!-- we need this in zotero library -->: 95 (<bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Sarn 85</citedRange></bibl>). On the basis of the designation <foreign>āla(ṁ)bana</foreign>, Sten Konow who based his reading on the rubbing (<bibl><ptr target="bib:Marshal+Konow1911_01"/><citedRange unit="plate">XXX</citedRange></bibl>) assumed that <quote>this stone was originally the lower horizontal stone of a rail.</quote> But the object is described as a <quote>coping stone … with rounded edge at the the top</quote> in Sahni’s catalogue of the Sarnath museum (1914: 214–215, no. D(a) 39)<!-- we need this in zotero library -->. Sahni further adds that <quote>[i]t is curious that in the epigraph the coping stone is referred to as a base stone.</quote> <ref target="DHARMA_INSKnI00231.xml">KnI0231</ref> now proves that this is not an isolated case, and that <foreign>ālaṁbana</foreign> can not mean, in the context of Kanaganahalli or Sarnath, “base stone.” In the Mahāvastu, the term <foreign>ālambana</foreign> occurs alongside <foreign>adhiṣṭhānaka</foreign> as a qualifier of <foreign>sūcika</foreign>, the cross-bars fixed on the uprights (<foreign>pādaka</foreign>) in the description of the railings surrounding the city of Dīpavatī. See Mvu (S) I.194.20–195.4 / Ms. Sa, 54a3–5; Mvu (S) III.227.7–13 / (M) III.282.8–13. See also Divy 221.9–10. In light of the evidence Kanaganahalli, Edgerton’s understanding of <foreign>ālambana</foreign> (<bibl><ptr target="bib:Edgerton1953_01"/></bibl>, s.v. [3]), should be revised: in these passages, while the <foreign>adhiṣṭhānaka</foreign> would point to the base of the <foreign>vedikā</foreign>, the <foreign>ālambana</foreign> could point to the crowning element holding together the railing.</p>
+             <p>On Bhogavaḍḍhana (Skt. Bhogavardhana), present day Bhokardan (Jalna distt., Maharashtra) see <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">16</citedRange><citedRange unit="page">60</citedRange></bibl>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in May 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
@@ -146,7 +136,17 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+                <bibl>
+                    <ptr target="bib:Tsukamoto1996_01"/>
+                    <citedRange unit="item">Sarn 85</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Marshal+Konow1911_01"/>
+                    <citedRange unit="plate">XXX</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Edgerton1953_01"/>
+                </bibl>
             </listBibl>
         </div>
       </body>
