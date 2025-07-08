@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-07-08">Updated Apparatus</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -114,7 +115,7 @@
                      <rdg source="bib:Burgess+Buhler1883_01">bhoĪgiy<unclear>ā</unclear> A<supplied reason="lost">pa</supplied>rāṃtikāya</rdg>
                      <rdg source="bib:Gokhale1991_01">bhoĪgiy<unclear>ā</unclear> A<supplied reason="lost">pa</supplied>rāṃtikāya</rdg>
                       <rdg source="bib:Nagaraju1981_01">bhoĪgiy<unclear>ā</unclear> pavajitikāya</rdg>
-                      <note>The restorations of B+B and G are simply impossible (as is B+B’s following statement that “The epithets <foreign>Bhoīgiya Aparāṃtikāya</foreign>, of course, mean that the husband of Dāmilā was <foreign>Bhojaka</foreign>, i.e. the ruler, of the Koṇkaṇ.”) while the latter reading ignores the very present °a at the end of l. 1 (and the akṣara preceding -takāya is likely °i not ja; cf. l. 1). Given that this is in the same cave (no. 98) as the following KI082 whose donor is one <foreign>bhikhuṇiya dāmilāya</foreign> we expect one of the epithets here to indicate a monastic status, hench the restoration [pava](I)takāya (which was inspired by Nagaraju’s faulty reading).</note>
+                      <note>The restorations of B+B and G are simply impossible (as is B+B’s following statement that “The epithets <foreign>Bhoīgiya Aparāṃtikāya</foreign>, of course, mean that the husband of Dāmilā was <foreign>Bhojaka</foreign>, i.e. the ruler, of the Koṇkaṇ.”) while the latter reading ignores the very present °a at the end of l. 1 (and the akṣara preceding -takāya is likely °i not ja; cf. l. 1). Given that this is in the same cave (no. 98) as the following KI082 whose donor is one <foreign>bhikhuṇiya dāmilāya</foreign> we expect one of the epithets here to indicate a monastic status, hench the restoration <foreign>[pava](I)takāya</foreign> (which was inspired by Nagaraju’s faulty reading).</note>
                   </app>
                </listApp>
          </div>
