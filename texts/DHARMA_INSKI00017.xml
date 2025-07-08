@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-07-08">Updated translation, fixed errors</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -123,7 +124,7 @@
           
           
          <div type="translation">
- 	      <p n="1-3">A cistern, the meritorious gift of the lay follower <persName>Sāmika</persName>, a <foreign>negama</foreign> from <placeName>Sopāra</placeName>.
+ 	      <p n="1-3">A cistern: the meritorious gift of the lay follower <persName>Sāmika</persName>, a market councillor from <placeName>Sopāra</placeName>.
  	      </p>
          </div>
           
@@ -131,7 +132,7 @@
           
           
          <div type="commentary">
-         <p n="1">Regarding l. 1 <foreign>sopāragā</foreign>, location names in the ablative singular are found frequently in early inscriptions at Bharhut, Sanchi, and Karle (cf. III Karl 8.1 <foreign>sopārakā</foreign>). See as well KI003 <foreign>kalīyanā suvaṇakerasa</foreign>.
+         <p n="1">Regarding l. 1 <foreign>sopāragā</foreign>, location names in the ablative singular are found frequently in early inscriptions at Bharhut, Sanchi, and Karle (cf. III Karl 8.1 <foreign>sopārakā</foreign>). See as well <ref target="DHARMA_INSKI00013.xml">KI00013</ref> <foreign>kalīyanā suvaṇakerasa</foreign>.
          </p> 
              
          </div>
