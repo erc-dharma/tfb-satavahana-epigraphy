@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00083</idno>
+                <idno type="filename">DHARMA_INSKI00082</idno>
         
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -97,8 +97,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><g type="svastikaRight"></g> sidhaṁ therānaṁ bhaya<unclear>ṁ</unclear>tamitabh<unclear>ū</unclear>tinaṁ
-           <lb n="2"/>leṇaṁ sāgarapaloganaṁ deyadhama<g type="svastikaLeft"></g>    
+           <lb n="1"/>sidhaṁ kālīyaṇikaya bhikhuṇi<add place="above">ya</add> dāmilāya leṇa <add place="below">poḍhi ca</add> deyadhamaṃ
+   
           </p> 
          </div>
           
@@ -108,16 +108,7 @@
          <div type="apparatus">
            
                <listApp>
-                  <app loc="1">
-                     <lem>bhaya<unclear>ṁ</unclear>ta</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">bhayata</rdg>
-                     <rdg source="bib:Gokhale1991_01">bhayata</rdg>   
-                  </app>
-                   <app loc="2">
-                     <lem>sāgarapaloganaṁ</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">sāgarapaloganānaṁ</rdg>
-                     <note>B+B likely made up the <foreign>nā</foreign> because they interpret it as the name of a corporation which donated the cave (see commentary).</note>   
-                  </app>
+                  <app></app>
                </listApp>
          </div>
           
@@ -126,17 +117,15 @@
           
           
          <div type="translation">
- 	<p>Success! The cave Sāgarapalogana (“view on the ocean”): a meritorious gift for the venerable elder Mittabhūti</p>
+ 	<p>Success! A cave and cistern: the meritorious gift of the nun Dāmilā of Kalyan</p>
          </div>
           
           
           
           
          <div type="commentary">
-         <p>Gokhale is certainly correct when she states that “It appears that <foreign>sāgarapalogana</foreign> was the name of the cave. The cave is rightly named as it commands a fine view of the Bassein creek and the sea beyond.” Named caves are found with some frequency in the early Sri Lankan inscriptions.</p>
-<p>It is not entirely clear if the cave is the meritorious gift Mitabhūti or if it was made for him, but it is most likely the latter as it would be highly unusual for a monk to refer to himself in the plural (cf. III Karl 3 <foreign>therānaṃ bhaṃyaṃta-iṃdadevasa</foreign>).</p>
-         </div>
-          
+      
+         </div> 
           
           
           
@@ -148,17 +137,17 @@
     			<bibl n="B+B">
     		      <ptr target="bib:Burgess+Buhler1883_01"/>
     			    <citedRange unit="page">84</citedRange>
-                    <citedRange unit="item">23</citedRange>
+                    <citedRange unit="item">25</citedRange>
     		    </bibl>
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
     		        <citedRange unit="page">147</citedRange>
-                    <citedRange unit="item">56</citedRange>
+                    <citedRange unit="item">55</citedRange>
     		    </bibl>  	    
     		</listBibl>
                 
             <listBibl type="secondary">
-                  <bibl/>
+                  
                 
                    <bibl>
                       <ptr target="bib:Stein1933_01"/>
@@ -166,13 +155,28 @@
                   </bibl>
                    <bibl>   
                      <ptr target="bib:Naik1948_01"/>
-                      <citedRange unit="page">19</citedRange>
+                      <citedRange unit="page">19, 22-23</citedRange>
                     </bibl>
                     <bibl>
-                    <ptr target="bib:Mukherjee1960"/>
-                      <citedRange unit="page">55-57</citedRange>  
+                    <ptr target="bib:Lamotte1958_01"/>
+                      <citedRange unit="page">568</citedRange>  
                     </bibl>
-                
+                    <bibl>
+                    <ptr target="bib:Hettiarachchy1973"/>
+                      <citedRange unit="page">256, 262</citedRange>  
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Ray1986_01"/>
+                      <citedRange unit="page">104</citedRange>  
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Habib+Habib1990_01"/>
+                      <citedRange unit="page">108</citedRange>  
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Shah2001_01"/>
+                    <citedRange unit="page">53</citedRange>
+                    </bibl>
                   
             </listBibl>
         </div>
