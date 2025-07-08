@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:kema" when="2025-06-02">Updated translation of negama and fixed errors</change>
+            <change who="part:kema" when="2025-07-08">Updated translation of negama and fixed errors</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
