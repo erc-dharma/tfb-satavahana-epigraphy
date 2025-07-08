@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-06-02">Updated translation of negama and fixed errors</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -122,15 +123,15 @@
                      <lem>kal<unclear>ī</unclear>Aṇakasa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">kaliAṇakasa</rdg>
                      <rdg source="bib:Gokhale1991_01">kaliAṇakasa</rdg>
-                     <note>The right vertical of the <foreign>l</foreign>- curves intensely to the right and down resulting in a slight spiral that may be indicative of an intended ī-mātra. The l-s in this inscription all exhibit a slight curve to the right (which may just be a peculiarity of the scribe/engraver), however none feature such a spiral.</note> 
+                     <note>The right vertical of the <foreign>l</foreign>- curves intensely to the right and down resulting in a slight spiral that may be indicative of an intended <foreign>ī</foreign>-mātra. The <foreign>l</foreign>-s in this inscription all exhibit a slight curve to the right (which may just be a peculiarity of the scribe/engraver), however none feature such a spiral.</note> 
                   </app>
                   <app loc="1">
                       <lem>negamasa</lem>
-                      <note>The second <foreign>negamasa</foreign> appears to read negaṃmasa, however the possible anusvara is likely rather a fault in the stone.</note>
+                      <note>The second <foreign>negamasa</foreign> appears to read <foreign>negaṃmasa</foreign>, however the possible anusvara is likely rather a fault in the stone.</note>
                   </app>
                   <app loc="2">
                      <lem>mātāpituṇa</lem>
-                     <note>The third akṣara rather resembles -pe- in that the supposed i mātra appears to just be an extension of the left vertical stem rather than being a separate stroke attached to the top. However, cf. l. 5 dhap[e]ti which does not feature an elongation of the vertical but rather just curves to the left.</note>
+                     <note>The third akṣara rather resembles <foreign>-pe-</foreign> in that the supposed <foreign>i</foreign>-mātra appears to just be an extension of the left vertical stem rather than being a separate stroke attached to the top. However, cf. l. 5 <foreign>dhap[e]ti</foreign> which does not feature an elongation of the vertical but rather just curves to the left.</note>
                   </app>
                   <app loc="3">
                      <lem>puyaṭha</lem>
@@ -141,7 +142,7 @@
                      <lem>dhap<unclear>e</unclear>ti</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">thapati</rdg>
                      <rdg source="bib:Gokhale1991_01">thapati</rdg>
-                      <note>The first akṣara is too angular to be a tha while the e mātra on the second akṣara is nearly certain. This is likely the causative of √dhā (Skt. dhāpayati).</note> 
+                      <note>The first akṣara is too angular to be a <foreign>tha</foreign> while the <foreign>e</foreign>-mātra on the second akṣara is nearly certain. This is likely the causative of √<foreign>dhā </foreign>(Skt. <foreign>dhāpayati</foreign>).</note> 
                   </app>
                </listApp> 
          </div>
@@ -151,9 +152,9 @@
           
           
          <div type="translation" resp="part:kema">
- 	<p n="1-4">Success! A cave and cistern; the pious gift of the negama Isipāla, son of the <foreign>negama</foreign> Golaṇṇaka of Kalyan, together with their retinue, for the purpose of the worship of the mother and father.
+ 	<p n="1-4">Success! A cave and cistern; the pious gift of the market councillor Isipāla, son of the market councillor Golaṇṇaka of Kalyan, together with his retinue, for the purpose of the worship of the mother and father.
 </p>
-         <p n="4-8">And an <foreign>akṣayanīvī</foreign> is given, a field bestowed in the village SaphāU. And from this, a cloth money of twelve for the one who dwells the rainy season [and] a <foreign>paḍika</foreign> per month in the hot season. And with the remainder the pavilion and canopy are to be maintained.</p>    
+         <p n="4-8">And an <foreign>akṣayanīvī</foreign> is given, a field bestowed in the village <foreign>SaphāU</foreign>. And from this, a cloth money of twelve for the one who dwells the rainy season [and] a <foreign>paḍika</foreign> per month in the hot season. And with the remainder the pavilion and canopy are to be maintained.</p>    
          </div>
           
           
