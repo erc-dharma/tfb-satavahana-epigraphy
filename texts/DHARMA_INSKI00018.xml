@@ -83,6 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:kema" when="2025-07-08">Updated Translation, bibliography, and reference to KI00020</change>
             <change who="part:vito" when="2025-06-16">Modified translation and commentary</change>
             <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
@@ -134,8 +135,8 @@
           
           
          <div type="commentary">
-         <p>A gift by another son of Rohiṇimitta is recorded in KI020.</p>  
-         <p>Cemulla, well attested in our corpus, is identified by both ASWI V and Gokhale as modern Chaul, in the Raigan district, approximately 90km south of Kanheri.
+         <p>A gift by another son of Rohiṇimitta is recorded in <ref target="DHARMA_INSKI00020.xml">KI00020</ref></p>  
+         <p>Cemulla, well attested in our corpus, is identified by both B+B and G as modern Chaul, in the Raigan district, approximately 90km south of Kanheri.
          </p>   
          </div>
           
@@ -149,9 +150,13 @@
             <listBibl type="primary">
     			<bibl n="B+B">
     		      <ptr target="bib:Burgess+Buhler1883_01"/>
+    			    <citedRange unit="page">78</citedRange>
+    			    <citedRange unit="item">13</citedRange>
     		    </bibl>
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
+    		       <citedRange unit="page">66</citedRange>
+    		       <citedRange unit="item">18</citedRange>
     		    </bibl>  	    
     		</listBibl>
                 
