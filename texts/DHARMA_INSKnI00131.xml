@@ -8,29 +8,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kañcūka, Kanaganahalli stūpa</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
+                <title>Kañcūka, Kanaganahalli stūpa</title>                
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:">
-                        <forename>Fu</forename>
-                        <surname>Fan</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:vito"><!-- Update the id -->
-                        <forename>Vincent</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
                         <surname>Tournier</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Munich</pubPlace>
                 <idno type="filename">DHARMA_INSKnI00131</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
@@ -40,8 +29,8 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Vincent Tournier.</p>
+                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -83,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:" when="2025-06-09">Initial encoding</change>
+            <change who="part:fufa" when="2025-06-09">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -99,12 +88,7 @@
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-             <listApp>
-                 <app loc="">
-                     <lem></lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01"></rdg>
-                 </app>
-             </listApp>
+             
          </div>
          <div type="translation" resp="part:vito">
              <p></p>
@@ -115,7 +99,7 @@
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in June 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
