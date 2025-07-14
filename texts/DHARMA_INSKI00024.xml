@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encoding template for inscription</title>
+              
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                  
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00024</idno>
+        
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Kelsey Martini.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-07-14">Initial Encoding of the File</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+            
+        </revisionDesc> 
+    </teiHeader>
+    
+    
+    
+    
+    
+    <text xml:space="preserve">
+      <body>
+          
+         <div type="edition" xml:lang="pra-Latn">
+           <p>  
+           <lb n="1"/>sidha Upāsakasa <unclear>vha</unclear>mitaputasa negamasa muḍapālasa
+           <lb n="2"/>sopārakasa sahā kuḍubiṇ<unclear>i</unclear>hi sahā bālakehi deyadhama chetaṁ diṇa Akhaya<subst><del>vi</del><add place="overstrike">ni</add></subst><unclear>vi</unclear>    
+          </p> 
+         </div>
+          
+          
+          
+          
+         <div type="apparatus">
+           
+               <listApp>
+                  <app loc="1">
+                     <lem><unclear>[vha]</unclear>mitaputasa</lem>
+                     <rdg source="bib:Gokhale1991_01">viṇhumitasa</rdg>
+                      <note></note>
+                  </app>
+                  <app loc="1"> 
+                     <lem>muḍapālasa</lem>
+                     <rdg source="bib:Gokhale1991_01">muṇḍapālasa</rdg> 
+                     <note></note> 
+                  </app>
+                   <app loc="2">
+                     <lem>sahā</lem>
+                     <rdg source="bib:Gokhale1991_01">saha</rdg>
+                      <note>The <foreign>ā</foreign>-mātra is clear on both this and the following <foreign>sahā</foreign>.</note>
+                  </app>
+                  <app loc="2"> 
+                     <lem>kuḍubiṇ<unclear>i</unclear>hi</lem>
+                     <rdg source="bib:Gokhale1991_01">kuṭubinihi</rdg> 
+                     <note></note> 
+                  </app>
+                   <app loc="2">
+                     <lem>Akhaya<subst><del>vi</del><add place="overstrike">ni</add></subst><unclear>vi</unclear></lem>
+                     <rdg source="bib:Gokhale1991_01">akhayanivi</rdg>
+                      <note>It would appear that the engraver originally forgot to carve the <foreign>ni</foreign> and instead carved a <foreign>vi</foreign> which he then corrected to a <foreign>ni</foreign>.</note>
+                  </app>
+               </listApp>
+         </div>
+          
+          
+          
+          
+          
+         <div type="translation">
+ 	<p>Success! A field is given as <foreign>akṣayanīvī</foreign>: The meritorious gift of the market councillor Muḍapāla of Sopāra, son of the lay-follower [Vha]mita. Together with the <foreign>kuḍubinis</foreign> and the progeny.</p>
+         </div>
+          
+          
+          
+          
+         <div type="commentary">
+            
+         </div>
+          
+          
+          
+          
+        <div type="bibliography">
+	
+           <p></p>   
+            
+            <listBibl type="primary">
+    		    <bibl n="G">
+    		      <ptr target="bib:Gokhale1991_01"/>
+    		    </bibl>  	    
+    		</listBibl>
+                
+            <listBibl type="secondary">
+                    <bibl>   
+                     <ptr target="bib:Naik1948_01"/>
+                      <citedRange unit="page">52, 97 no. 192</citedRange>
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Salomon1998_01"/>
+                      <citedRange unit="page">41</citedRange>  
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Visvanathan2018_01"/>
+                      <citedRange unit="page">531</citedRange>  
+                    </bibl>
+                     <bibl>
+                    <ptr target="bib:Strauch2021_01"/>
+                      <citedRange unit="page">206</citedRange>  
+                    </bibl>
+                   
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
