@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Encoding template for inscription</title>
+                <title>Kanheri Cave 16 Bench Inscription</title>
               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
@@ -171,15 +171,15 @@
             <listBibl type="secondary">
                     <bibl>   
                      <ptr target="bib:Naik1948_01"/>
-                      <citedRange unit="page">52, 97 no. 192</citedRange>
+                      <citedRange unit="page">19-20</citedRange>
                     </bibl>
                     <bibl>
-                    <ptr target="bib:Salomon1998_01"/>
-                      <citedRange unit="page">41</citedRange>  
+                    <ptr target="bib:Shimada2018_01"/>
+                      <citedRange unit="page">491 fn. 24</citedRange>  
                     </bibl>
                     <bibl>
                     <ptr target="bib:Visvanathan2018_01"/>
-                      <citedRange unit="page">531</citedRange>  
+                      <citedRange unit="page">529</citedRange>  
                     </bibl>
                      <bibl>
                     <ptr target="bib:Strauch2021_01"/>
