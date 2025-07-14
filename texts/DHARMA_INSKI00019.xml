@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
+            <change who="part:kema" when="2025-07-14">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -117,13 +117,13 @@
                      <lem><gap reason="lost" quantity="8" unit="character"/> [ṇa] <gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/> sasa bhaya <gap reason="illegible" quantity="1" unit="character"/> ma</lem>
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"/>bhayata sama</rdg>
                      <rdg source="bib:Tsukamoto1996-2003_01"><gap reason="lost" quantity="9" unit="character"/>bhayata sama</rdg>
-                      <note>The reading bhayata is possible (although the eye copy rather looks like bhayava), however there are only four akṣaras (not five) in this sequence.</note>
+                      <note>The reading <foreign>bhayata</foreign> is possible (although the eye copy rather looks like <foreign>bhayava</foreign>), however there are only four akṣaras (not five) in this sequence.</note>
                   </app>
                    <app loc="2">
                      <lem><gap reason="lost" quantity="7" unit="character"/> <unclear>p</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="1" unit="character"/> gāme gorap<gap reason="illegible" quantity="1" unit="character"/><unclear>kake</unclear>su bāṁṇa pati</lem>
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"/> na pati <unclear>deya</unclear>dhama</rdg>
                      <rdg source="bib:Tsukamoto1996-2003_01"><gap reason="lost" quantity="9" unit="character"/> na pati <unclear>deya</unclear>dhama</rdg>
-                      <note>Gokhale notes that “West has recorded the letters gami gorapa (present =Gorad)”, however she still does not count the missing akṣaras correctly. The deyadhama is from a phantom third line that Gokhale likely fabricated to “make sense” of the inscription. See Martini 2023</note> 
+                      <note>Gokhale notes that “West has recorded the letters <foreign>gami gorapa</foreign> (present =Gorad)”, however she still does not count the missing akṣaras correctly. The <foreign>deyadhama</foreign> is from a phantom third line that Gokhale likely fabricated to “make sense” of the inscription. See Martini 2023.</note> 
                   </app>
                </listApp>
          </div>
