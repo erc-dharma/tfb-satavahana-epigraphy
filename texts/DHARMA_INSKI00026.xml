@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Cave 22 Verandah Inscription</title>
+              
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                  
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00026</idno>
+        
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Kelsey Martini.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-07-14">Initial Encoding of the File</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+            
+        </revisionDesc> 
+    </teiHeader>
+    
+    
+    
+    
+    
+    <text xml:space="preserve">
+      <body>
+          
+         <div type="edition" xml:lang="pra-Latn">
+           <p>  
+           <lb n="1"/>sidha <space type="defect"/> therāṇa bhayat<unclear>āṇa gha</unclear>ma <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ṇa</supplied>
+           <lb n="2"/>Atevā<unclear>s</unclear>iṇ<unclear>i</unclear>ya pavajitik<unclear>ā</unclear>ya s<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character"/>
+           <lb n="3"/>l<unclear>eṇa</unclear> cāt<unclear>u</unclear><supplied reason="lost">dise</supplied> <unclear>bh</unclear>i<supplied reason="lost">khu</supplied>saghe pat<unclear>i</unclear>ṭhap<unclear>i</unclear><supplied reason="lost">ta de</supplied>
+           <lb n="4" break="no"/>yadhama <gap reason="illegible" quantity="2" unit="character"/> <unclear>sa</unclear> dayeṇa sa <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya ṇa</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>
+           <lb n="5"/>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g type="svastikLeft"></g>    
+          </p> 
+         </div>
+          
+          
+          
+          
+         <div type="apparatus">
+           
+               <listApp>
+                  <app loc="1">
+                     <lem>sidha <space type="defect"/> therāṇa bhayat<unclear>āṇa gha</unclear>ma <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ṇa</supplied></lem>
+                     <rdg source="bib:Gokhale1991_01">sidhaṁ therāṇāṁ sagha</rdg>
+                      <note></note>
+                  </app>
+                  <app loc="2"> 
+                     <lem>>Atevā<unclear>s</unclear>iṇ<unclear>i</unclear>ya pavajitik<unclear>ā</unclear>ya s<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character"/></lem>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"/> antevāsiniya pavajitikāyā</rdg> 
+                     <note></note> 
+                  </app>
+                   <app loc="3">
+                     <lem>l<unclear>eṇa</unclear> cāt<unclear>u</unclear><supplied reason="lost">dise</supplied> <unclear>bh</unclear>i<supplied reason="lost">khu</supplied>saghe pat<unclear>i</unclear>ṭhap<unclear>i</unclear><supplied reason="lost">ta de</supplied></lem>
+                     <rdg source="bib:Gokhale1991_01"></rdg>
+                      <note>Gokhale does not read this line at all.</note>
+                  </app>
+                  <app loc="4"> 
+                     <lem>yadhama <gap reason="illegible" quantity="2" unit="character"/> <unclear>sa</unclear> dayeṇa sa <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya ṇa</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/></lem>
+                     <rdg source="bib:Gokhale1991_01">deyadhama <gap reason="lost" quantity="3" unit="character"/>saghaṁ pāniya<unclear>(podhi)</unclear></rdg> 
+                     <note></note> 
+                  </app>
+                   <app loc="5"> 
+                     <lem>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g type="svastikLeft"></g></lem>
+                     <rdg source="bib:Gokhale1991_01">layana</rdg> 
+                     <note></note> 
+                  </app>
+               </listApp>
+         </div>
+          
+          
+          
+          
+          
+         <div type="translation">
+ 	<p n="1-4">"Success! A cave established for the universal order of monks: the meritorious gift of the renunciant S[i]+++, apprentice of the venerable elder [Gha]ma++.</p>
+         </div>
+          
+          
+          
+          
+         <div type="commentary">
+            <p>l. 4-5 is unintelligible but likely consisted of either a listing of co-donors or a merit assignation formula.</p>
+         </div>
+          
+          
+          
+          
+        <div type="bibliography">
+	
+           <p></p>   
+            
+            <listBibl type="primary">
+    		    <bibl n="G">
+    		      <ptr target="bib:Gokhale1991_01"/>
+    		      <citedRange unit="page">77</citedRange>
+    		        <citedRange unit="item">26</citedRange>
+    		    </bibl>  	    
+    		</listBibl>
+                
+            <listBibl type="secondary">
+                 <bibl>
+    		      <ptr target="bib:Naik1948_01"/>
+    		      <citedRange unit="page">19</citedRange>
+    		    </bibl>
+                   
+                   
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
