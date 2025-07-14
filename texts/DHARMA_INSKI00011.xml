@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kanheri Cave Cave 3 Octagonal Column Graffiti Inscription</title>
+                <title>Kanheri Cave 3 Octagonal Column Graffiti Inscription</title>
               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:kema" when="2025-06-02">Initial Encoding of the File</change>
+            <change who="part:kema" when="2025-07-14">Initial Encoding of the File</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
