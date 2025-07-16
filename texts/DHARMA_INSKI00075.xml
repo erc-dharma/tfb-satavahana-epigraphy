@@ -144,11 +144,10 @@
            <p></p>   
             
             <listBibl type="primary">
-    			<bibl n="B+B">
-    		      <ptr target="bib:Burgess+Buhler1883_01"/>
-    		    </bibl>
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
+    		      <citedRange unit="page">136</citedRange>
+    		      <citedRange unit="item">E25</citedRange>  
     		    </bibl>  	    
     		</listBibl>
                 
