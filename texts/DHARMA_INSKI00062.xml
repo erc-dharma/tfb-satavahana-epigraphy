@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kanheri Epitaph Inscription 7</title>
+                <title>Kanheri Epitaph Inscription 11</title>
               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
@@ -35,7 +35,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00057</idno>
+                <idno type="filename">DHARMA_INSKI00062</idno>
         
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -101,9 +101,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><supplied reason="lost">the</supplied><unclear>r</unclear><supplied reason="lost">āṇaṁ <space/> Ayya</supplied><unclear>[bo]</unclear>dh<unclear>[i]</unclear>
-           <lb break="no" n="2"/><supplied reason="lost">p</supplied><unclear>ā</unclear>lāṇaṁ Ara<space type="defect"/>haṁ<unclear>tā</unclear>ṇaṁ
-           <lb break="no" n="3"/>thūbhaṁ
+            <lb n="1"/>therāṇaṁ <space/> Ayya
+<lb break="no" n="2"/>khemakarāṇaṁ thūbhaṁ <g type="ddanda"></g><g type="ddanda"></g>
           </p> 
          </div>
           
@@ -114,20 +113,15 @@
            
                <listApp>
                   <app loc="1">
-                     <lem><supplied reason="lost">the</supplied><unclear>r</unclear><supplied reason="lost">āṇaṁ <space/> Ayya</supplied>[bo]dh[i]-
-           <lb break="no" n="2"/><supplied reason="lost">p</supplied><unclear>ā</unclear>lāṇaṁ</lem>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"></gap>dhi <gap reason="lost" quantity="1" unit="character"></gap> lānaṃ</rdg>
-                      <note>Gokhale argues that this was once <foreign>dhitimūla</foreign> and provides a (seemingly irrelevant) reference to <foreign>Aṭṭḥasālini</foreign> 3.285. This seems incorrect.</note>
+                     <lem>Ayya
+<lb break="no" n="2"/>khemakarāṇaṁ</lem>
+                     <rdg source="bib:Gokhale1991_01">Āyyakhemakāṇaṁ </rdg>
                   </app>
-                  <app loc="2">
-                      <lem>Ara<space type="defect"/>haṁ<unclear>tā</unclear>ṇaṁ</lem>
-                   <rdg source="bib:Gokhale1991_01">Arahantāṇaṁ</rdg>      
+                  <app loc="2"> 
+                     <lem>thūbhaṁ <g type="ddanda"></g><g type="ddanda"></g></lem>
+                     <rdg source="bib:Gokhale1991_01">thubhaṁ</rdg> 
+                     <note></note> 
                   </app>
-                  <app loc="3">
-                      <lem>thūbhaṁ</lem>
-                   <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"></gap> thubhaṃ</rdg>
-                      <note>There are no missing akṣaras, rather the word <foreign>thūbhaṃ</foreign> is directly below the end of the second line.</note>
-                  </app> 
                </listApp>
          </div>
           
@@ -154,16 +148,16 @@
            <p></p>   
             
             <listBibl type="primary">
+
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
-    		      <citedRange unit="page">114</citedRange>
-    		      <citedRange unit="item">E7</citedRange>  
+    		      <citedRange unit="page">125</citedRange>
+    		      <citedRange unit="item">E12</citedRange>  
     		    </bibl>  	    
     		</listBibl>
                 
             <listBibl type="secondary">
-                  <bibl>    
-                  </bibl>
+                  <bibl/>
                    
                    
             </listBibl>
