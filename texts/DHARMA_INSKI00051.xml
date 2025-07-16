@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_encodingTemplateInscription_v03</idno>
+                <idno type="filename">DHARMA_INSKI00051</idno>
         
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -99,7 +99,7 @@
            <p>  
            <lb n="1"/>therāṇaṁ <space/> Ā<unclear>r</unclear>yyavijaya 
            <lb break="no" n="2"/>seṇāṇaṁ <space/> tevijāṇaṁ
-           <lb n="3"/>Arahan<unclear>t</unclear>āṇaṁ thūbhaṁ <g type="dDanda"></g><g type="dDanda"></g><!-- Find a better description for this symbol -->
+           <lb n="3"/>Arahan<unclear>t</unclear>āṇaṁ thūbhaṁ <g type="ddanda"></g><g type="ddanda"></g><!-- Find a better description for this symbol -->
           </p> 
          </div>
           
@@ -112,11 +112,11 @@
                   <app loc="1">
                      <lem>Ā<unclear>r</unclear>yyavijaya 
            <lb break="no" n="2"/>seṇāṇaṁ</lem>
-                     <rdg source="bib:Gokhale 1991">Āyya vijaya seṇāṇaṁ</rdg>
+                     <rdg source="bib:Gokhale1991_01">Āyya vijaya seṇāṇaṁ</rdg>
                   </app>
                   <app loc="3">
                       <lem>thūbhaṁ <g type="dDanda"></g><g type="dDanda"></g></lem>
-                   <rdg source="bib:Gokhale 1991">Āyya vijaya seṇāṇaṁ</rdg>      
+                   <rdg source="bib:Gokhale1991_01">Āyya vijaya seṇāṇaṁ</rdg>      
                   </app>
                </listApp>
          </div>
@@ -153,7 +153,7 @@
                 
             <listBibl type="secondary">
                   <bibl>
-                  <ptr target="Schopen1991_01"/>
+                  <ptr target="bib:Schopen1991_01"/>
                   <citedRange>296</citedRange>    
                   </bibl>
                    
