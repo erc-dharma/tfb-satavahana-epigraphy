@@ -8,20 +8,23 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Buddhapāda, Kanaganahalli stūpa</title>
+                <title>Slab, fragment, Kanaganahalli stūpa</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vito">
                         <forename>Vincent</forename>
                         <surname>Tournier</surname>
                     </persName>
+                    <persName>
+                        <forename>Robert</forename>
+                        <surname>Arlt</surname>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKnI00259</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">DHARMA_INSKnI00257</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -30,7 +33,6 @@
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
                         <p>Copyright (c) 2019-2025 by Vincent Tournier.</p>
-                        <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -72,7 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:fufa" when="2025-05-08">Initial encoding</change>
+            <change who="part:fufa" when="2025-07-26">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -83,44 +85,41 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>Upāsakasa <unclear>ka</unclear>laṇakasa <space quantity="1" unit="character"/> deyadhama paya<supplied reason="omitted">pa</supplied>ṭo</p>
-            <!--edition encoded as per EGD §§2−7-->
+             <p><lb n="1"/><gap reason="lost"/> <gap reason="lost" quantity="1" unit="character"/> nasa dāna</p>
+             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
-                 <app loc="1">
-                     <lem><unclear>ka</unclear>laṇakasa</lem>
-                     <rdg source="bib:Poonacha2011_01"><unclear>ku</unclear>linakasa</rdg>
-                 </app>
-                 <app loc="1">
-                     <lem>paya<supplied reason="omitted">pa</supplied>ṭo</lem>
-                     <rdg source="bib:Poonacha2011_01">paya<unclear>pa</unclear>ṭo</rdg>
+                 <app loc="dāna">
+                     <lem></lem>
+                     <rdg source="bib:Poonacha2011_01">dānaṁ</rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>A pair of <supplied reason="subaudible">Buddha</supplied> foot<supplied reason="subaudible">-prints</supplied>: the pious gift of the <foreign>upāsaka</foreign> Kalaṇṇaka.</p>
+             <p></p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p></p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in May 2025.</p>
+            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in July 2025.</p>
         	<listBibl type="primary">
-        	    <bibl n="MASI">
+        	    <bibl n="P">
         	        <ptr target="bib:Poonacha2011_01"/>
         	        <citedRange unit="page"></citedRange>
-        	        <citedRange unit="item">237</citedRange>
+        	        <citedRange unit="item">234</citedRange>
         	        <citedRange unit="plate"></citedRange>
         	        <citedRange unit="item"></citedRange>
         	        <citedRange unit="plate"></citedRange>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+                <bibl></bibl>
             </listBibl>
         </div>
       </body>
