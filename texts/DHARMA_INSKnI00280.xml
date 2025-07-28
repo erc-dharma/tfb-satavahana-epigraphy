@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Octagonal pillar, fragments, Kanaganahalli stūpa</title>
+                <title>Drum slab plinth, fragment, Kanaganahalli stūpa</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vito">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKnI00263</idno>
+                <idno type="filename">DHARMA_INSKnI00280</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -70,7 +70,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:fufa" when="2025-07-26">Initial encoding</change>
+            <change who="part:fufa" when="2025-07-28">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -81,36 +81,15 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><milestone n="a" unit="fragment"/><gap reason="lost"/>siriyanasātaka<unclear>ṇi</unclear><supplied reason="lost">sa saṁvachare</supplied> <gap reason="lost" unit="character" quantity="1"/> <milestone n="b" unit="fragment"/>gimhā pakh<unclear>e</unclear> <num value="6">6</num><lb 
-                 n="2"/><supplied reason="lost">sati</supplied><milestone n="a" unit="fragment"/><unclear>ka</unclear>na mahadatasa <supplied reason="lost">dāna cha</supplied><milestone n="b" unit="fragment"/>ta mahācetiye <g type="ddanda"/><g type="ddanda"/>
-             </p>
+             <p><lb n="1"/><gap reason="lost"/><unclear>s</unclear>āpu<seg type="aksara"><unclear>r</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>ya <seg type="aksara"><unclear>s</unclear><seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg></seg><gap reason="lost"/></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-             <listApp>
-                 <app loc="1">
-                     <lem>siriyanasātaka<unclear>ṇi</unclear><supplied reason="lost">sa saṁvachare</supplied></lem>
-                     <rdg source="bib:Poonacha2011_01">siriyana sātakaṇi</rdg>
-                 </app>
-                 <app loc="1">
-                     <lem>gimhā pakh<unclear>e</unclear> 6</lem>
-                     <rdg source="bib:Poonacha2011_01">gimha pakha 5</rdg>
-                 </app>
-                 <app loc="2">
-                     <lem><supplied reason="lost">sati</supplied><unclear>ka</unclear>na mahadatasa <supplied reason="lost">dāna</supplied></lem>
-                     <rdg source="bib:Poonacha2011_01">ni mehadatasa</rdg>
-                     <note>Compare <ref target="DHARMA_INSKnI00011.xml">KnI0011</ref>.</note>
-                 </app>
-                 <app loc="2">
-                     <lem><supplied reason="lost">cha</supplied>ta mahācetiye</lem>
-                     <rdg source="bib:Poonacha2011_01">ta mahācetiye</rdg>
-                 </app>
-             </listApp>
+             
          </div>
          <div type="translation" resp="part:vito">
-             <p>… In the …  year of <supplied reason="lost">King Gotamīputta</supplied> Siri-Yaññasātakaṇṇi, in the 6th fortnight of summer: an umbrella for the Great Shrine, <supplied reason="lost">as gift</supplied> of Mahādatta of the Sa(ṁ)tika <supplied reason="subaudible">family</supplied>.</p>
+             <p></p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -121,15 +100,7 @@
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in July 2025.</p>
         	<listBibl type="primary">
-        	    <bibl n="P">
-        	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
-        	        <citedRange unit="item">255</citedRange>
-        	        <citedRange unit="item">254</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	    </bibl>
+        	    <bibl></bibl>
 			</listBibl>
             <listBibl type="secondary">
                 <bibl></bibl>
