@@ -164,7 +164,7 @@
           
           
          <div type="commentary">
-      
+      <p></p>
          </div> 
           
           
@@ -182,6 +182,7 @@
     		</listBibl>
                 
             <listBibl type="secondary">
+                <bibl>
                         <ptr target="bib:Strauch2021_01"/>
                     <citedRange unit="page">206</citedRange>
                     </bibl>
