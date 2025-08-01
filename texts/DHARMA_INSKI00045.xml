@@ -35,7 +35,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00044</idno>
+                <idno type="filename">DHARMA_INSKI00045</idno>
         
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -108,7 +108,7 @@
            <lb n="5" break="no"/><unclear>ṇiya</unclear><supplied reason="lost">poḍhi ca</supplied><gap reason="lost" quantity="19" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> deyadhama 
            <lb n="6"/>cā<unclear>tu</unclear><supplied reason="lost">dise bhikhusaṁghe patiṭhāpita mātā</supplied>pitaro Udi
            <lb n="7" break="no"/>sa <unclear>ma</unclear> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="8" unit="character"/> mato sasu
-           <lb n="8"/><unclear>la ta s</unclear><seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="illegible" quantity="2" unit="character"/> ta t<unclear>e</unclear>su <gap reason="lost" quantity="4" unit="character"/><unclear>pa</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ce</unclear> dāto 
+           <lb n="8"/><unclear>la ta s</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="illegible" quantity="2" unit="character"/> ta t<unclear>e</unclear>su <gap reason="lost" quantity="4" unit="character"/><unclear>pa</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ce</unclear> dāto 
           
           </p> 
          </div>      
@@ -116,7 +116,7 @@
            
                <listApp>
                   <app loc="1">
-                     <lem><gap reason="lost" quantity="15" unit="character"/>sa sethisa/lem>
+                     <lem><gap reason="lost" quantity="15" unit="character"/>sa sethisa</lem>
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/>sa sethisa</rdg>     
                   </app>
                    <app loc="2">
@@ -132,12 +132,13 @@
                      <rdg source="bib:Gokhale1991_01"> gahapati <gap reason="lost" quantity="5" unit="character"></gap> leṇaṁ</rdg>     
                   </app>
                    <app loc="4">
-                     <lem><unclear>pā<lb n="5" break="no"/><unclear>ṇiya</unclear><supplied reason="lost">poḍhi ca</supplied><gap reason="lost" quantity="19" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> deyadhama</lem>
-                     <rdg source="bib:Gokhale1991_01">po<supplied reason="lost">ḍhi</supplied><gap reason="lost" quantity="6" unit="character"> deyadhama </rdg>     
+                     <lem>pā
+           <lb n="5" break="no"/><unclear>ṇiya</unclear><supplied reason="lost">poḍhi ca</supplied><gap reason="lost" quantity="19" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> deyadhama</lem>
+                     <rdg source="bib:Gokhale1991_01">po<supplied reason="lost">ḍhi</supplied><gap reason="lost" quantity="6" unit="character"/> deyadhama </rdg>     
                   </app>
                    <app loc="6">
                      <lem>cā<unclear>tu</unclear><supplied reason="lost">dise bhikhusaṁghe patiṭhāpita mātā</supplied>pitaro Udi</lem>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="6" unit="character"><supplied>mātā</supplied>pitaro Udisa</rdg>     
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="6" unit="character"/><supplied reason="lost">mātā</supplied>pitaro Udisa</rdg>     
                   </app>
                   
                    <app loc="7">
@@ -146,8 +147,8 @@
                   </app>
                    
                    <app loc="8">
-                     <lem><unclear>la ta s</unclear><seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="illegible" quantity="2" unit="character"/> ta t<unclear>e</unclear>su <gap reason="lost" quantity="4" unit="character"/><unclear>pa</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ce</unclear> dāto</lem>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"/> rata<gap reason="lost" quantity="4" unit="character"/>po<supplied>ḍhi</supplied> ca dinā</rdg>     
+                     <lem><unclear>la ta s</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="illegible" quantity="2" unit="character"/> ta t<unclear>e</unclear>su <gap reason="lost" quantity="4" unit="character"/><unclear>pa</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>ce</unclear> dāto</lem>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"/> rata<gap reason="lost" quantity="4" unit="character"/>po<supplied reason="lost">ḍhi</supplied> ca dinā</rdg>     
                   </app>
                </listApp>
          </div>
