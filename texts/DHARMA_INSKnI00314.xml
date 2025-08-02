@@ -121,7 +121,8 @@
         	<listBibl type="primary">
         	    <bibl n="S+VPR">
         	        <ptr target="bib:Sarma+VaraPrasadaRao1993_01"/>
-        	        <citedRange unit="item">C15</citedRange>
+        	        <citedRange unit="page">91</citedRange>
+        	        <citedRange unit="item">C.15</citedRange>
         	    </bibl>
         	    <bibl n="vH">
         	        <ptr target="bib:Hinuber2016_01"/>
