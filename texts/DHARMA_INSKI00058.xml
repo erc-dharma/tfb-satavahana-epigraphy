@@ -8,8 +8,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kanheri Epitaph Inscription 6</title>
-                
+                <title>Kanheri Epitaph Inscription 8</title>
+              
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     
@@ -21,7 +21,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
-                    
+                  
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
@@ -36,8 +36,8 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00056</idno>
-                
+                <idno type="filename">DHARMA_INSKI00058</idno>
+        
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -102,9 +102,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>therāṇaṁ Ayyavasi<gap reason="illegible" quantity="1" unit="character"></gap>ṇā
-           <lb break="no" n="2"/><unclear>tā</unclear>ṇaṁ <unclear>Ara</unclear>hantāṇaṁ ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"></gap>
-           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"></gap>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied>   
+           <lb n="1"/>therāṇaṁ <gap reason="lost" quantity="1" unit="character"></gap> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye
+           <lb break="no" n="2"/><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"></space><space type="defect"/> th<unclear>ūbhaṁ</unclear>
           </p> 
          </div>
           
@@ -115,14 +114,12 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>Ayyavasi<gap reason="illegible" quantity="1" unit="character"></gap>ṇā
-           <lb break="no" n="2"/><unclear>tā</unclear>ṇaṁ</lem>
+                     <lem>therāṇaṁ <gap reason="lost" quantity="1" unit="character"></gap> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye</lem>
                      <rdg source="bib:Gokhale1991_01">Āyyavahiṇṇāgrāṇaṁ</rdg>
                   </app>
                   <app loc="2">
-                      <lem>ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"></gap>
-           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"></gap>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied></lem>
-                   <rdg source="bib:Gokhale1991_01">tilapālakāṇaṁ thubhaṁ</rdg>      
+                      <lem><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"></space><space type="defect"/> th<unclear>ūbhaṁ</unclear></lem>
+                   <rdg source="bib:Gokhale1991_01">Arahantaṇaṃ</rdg>      
                   </app>
                </listApp>
          </div>
@@ -132,7 +129,7 @@
           
           
          <div type="translation">
- 	<p><foreign>Stūpa</foreign> of the venerable Noble Vasi-, an <foreign>arhant</foreign> … endowed with the six super-knowledges.</p>
+ 	<p><foreign>Stūpa</foreign> of the venerable .. an <foreign>arhant</foreign>.</p>
          </div>
           
           
@@ -152,8 +149,8 @@
             <listBibl type="primary">
     		    <bibl n="G">
     		      <ptr target="bib:Gokhale1991_01"/>
-    		      <citedRange unit="page">114</citedRange>
-    		      <citedRange unit="item">E6</citedRange>  
+    		      <citedRange unit="page">120</citedRange>
+    		      <citedRange unit="item">E8</citedRange>  
     		    </bibl>  	    
     		</listBibl>
                 
