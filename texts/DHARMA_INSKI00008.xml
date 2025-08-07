@@ -13,9 +13,9 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     
-                    <persName ref="part:vito">
-                        <forename>Vincent</forename>
-                        <surname>Tournier</surname>
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
                     </persName>
                     
                 </respStmt>
@@ -25,6 +25,10 @@
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
