@@ -26,6 +26,10 @@
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
                     </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
 	
                 </respStmt>
             </titleStmt>
