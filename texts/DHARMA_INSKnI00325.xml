@@ -32,7 +32,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Vincent Tournier.</p>
+                        <p>Copyright (c) 2019-2025 by Vincent Tournier and Andrew Ollett.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -107,7 +107,7 @@
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in August 2025.</p>
+            <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="S+VR">
         	        <ptr target="bib:Sarma+VaraPrasadaRao1993_01"/>

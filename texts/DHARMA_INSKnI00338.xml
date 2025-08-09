@@ -101,7 +101,7 @@
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in August 2025.</p>
+            <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
         	    <bibl></bibl>
 			</listBibl>
