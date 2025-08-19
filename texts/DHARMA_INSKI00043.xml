@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Cave 3 Right Pillar Inscription, time of Sāmisiriyaña Sātakaṇi</title>
+                
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00043</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-08-19">Initial Encoding of Inscription</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+      <body>
+         <div type="edition" xml:lang="pra-Latn">
+         <p>
+         <lb n="1"/>sidha <g type="danda">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa
+         <lb n="2"/>gahapatisa seṭhisa A<unclear>ya</unclear>lasa ghariṇi
+         <lb break="no" n="3"/><unclear>la</unclear>vaṇikāya saparivārāya deyadhama leṇ<unclear>aṃ</unclear> 
+         <lb n="4"/>p<unclear>ā</unclear>n<unclear>ī</unclear>yapoḍhi nhāṇapoḍhi kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear>
+         <lb break="no" n="5"/><unclear>miya ni</unclear>vesaṇa  leṇasa Akhayanivi kahāpaṇ<unclear>ā</unclear>ṇ<unclear>i</unclear>
+         <lb n="6"/>satāṇi tiṇi <g type="numeral">300</g> Akhayanivi bhikhusagha<unclear>m</unclear>i  <unclear>dā</unclear>tā va
+         <lb break="no" n="7"/>se vase tiṇi <unclear>hā</unclear> va<unclear>se</unclear> bh<unclear>ā</unclear>tā<unclear>ṇ</unclear>i yāg<unclear>u</unclear>pāṇ<unclear>ā</unclear>ṇi ca <unclear>ci</unclear>
+         <lb break="no" n="8"/>vārikehi paḍijagītav<unclear>āṇi</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>pa</unclear>c<unclear>ā</unclear> deyadhama<unclear>pa</unclear>
+         <lb break="no" n="9"/>ric<unclear>ā</unclear>k<unclear>ā</unclear> cātudise bhikhusagh<unclear>e</unclear> paricāg<supplied reason="lost">ā</supplied> m<unclear>ā</unclear>t<unclear>āpi</unclear>tūṇa
+         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha <g type="dotDouble"></g>
+         </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                   
+                  <app loc="1">
+                     <lem>sidha <g type="danda">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa</lem>
+                     <rdg source="bib:Gokhale1991_01">sidhaṁ Upāsakasa kaliaṇasa nadaṇaputasa</rdg>
+                  </app>
+
+                  <app loc="2">
+                     <lem>A<unclear>ya</unclear>lasa</lem>
+                     <rdg source="bib:Gokhale1991_01">Acalasa</rdg>
+                  </app>
+
+                  <app loc="3">
+                     <lem>lavaṇikāya</lem>
+                    <rdg source="bib:Gokhale1991_01">lavanikāyā</rdg>
+                  </app>
+
+                  <app loc="4">
+                     <lem>>p<unclear>ā</unclear>n<unclear>ī</unclear>yapoḍhi</lem>
+                     <rdg source="bib:Gokhale1991_01">pānipapoḍhi</rdg>
+                  </app>
+
+                  <app loc="4">
+                     <lem>kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear><lb break="no" n="5"/><unclear>miya ni</unclear>vesaṇa</lem>
+                     <rdg source="bib:Gokhale1991_01">kalivāṇa Abālikasa nivāsaṇa</rdg>
+                  </app>
+
+                  <app loc="6">
+                     <lem><g type="numeral">300</g> Akhayanivi bhikhusagha<unclear>m</unclear>i  <unclear>dā</unclear>tā va</lem>
+                      <rdg source="bib:Gokhale1991_01">Akhayanivi bhikhusaghaṁ deyadhaṃma</rdg>
+                     <note>For the numerical symbol 300 (which is visible on the RTI), see Gokhale 1966: 43. The reading of dātā is uncertain, however this may be compared with the variants of <foreign>akhayanivi datā</foreign> found in KI 6.4; 25.10; and 28.6, 10. See also KI 30.2 <foreign>saṁghe Akhayanivi dinā</foreign>, KI 34.6 <foreign>Akhayanivi ca saghasa dinā</foreign>. <!-- Turn these numbers into links once the inscriptions have been put on dharamalekha.info --></note>
+                  </app>
+
+                  <app loc="7">
+                     <lem>se vase tiṇi <unclear>hā</unclear> va<unclear>se</unclear> bh<unclear>ā</unclear>tā<unclear>ṇ</unclear>i yāg<unclear>u</unclear>pāṇ<unclear>ā</unclear>ṇi ca</lem>
+                     <rdg source="bib:Gokhale1991_01">savāsa tiṇi <gap reason="lost" quantity="7" unit="character"/>ḍhi <gap reason="lost" quantity="2" unit="character"/>miya ga pā</rdg>
+                      <note>The reading of <foreign><unclear>hā</unclear></foreign> is very much uncertain, this could be a numeral (most likely 6), an abbreviation for kahāpaṇa, or even two separate akṣaras</note>
+                  </app>
+
+                  <app loc="7">
+                     <lem><unclear>ci</unclear><lb break="no" n="8"/>vārikehi paḍijagītav<unclear>āṇi</unclear> <gap reason="illegible" quantity="1" unit="character" precision="low"/> <unclear>pa</unclear>c<unclear>ā</unclear></lem>
+                     <rdg source="bib:Gokhale1991_01">civarika hi poḍhi <gap reason="lost" quantity="5" unit="character"/></rdg>
+                  </app>
+
+                  <app loc="8">
+                     <lem>deyadhama<unclear>pa</unclear><lb break="no" n="9"/>ric<unclear>ā</unclear>k<unclear>ā</unclear> cātudise bhikhusagh<unclear>e</unclear> paricāg<supplied reason="lost">ā</supplied> m<unclear>ā</unclear>t<unclear>āpi</unclear>tūṇa
+         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha<g type="dotDouble"></g></lem>
+                     <rdg source="bib:Gokhale1991_01">deyadhama civarika cātudisa bhikhusagha mātapitunā puñatha savasatahita sughatha</rdg>
+                  </app>
+
+              
+               </listApp>
+         </div>
+         <div type="translation">
+             <p n="1-6">        
+Success! A cave, drinking cistern, bathing cistern, a dwelling house in Abālīkasami in Kalyan, [and] an <foreign>akṣayanīvī</foreign> of three hundred - 300 - <foreign>kahāpaṇas</foreign>: The meritorious gift of Lavaṇika, house-wife of the householder <foreign>seṭhi</foreign> A[ya]la, son of <gap reason="illegible" quantity="1" unit="character" precision="low"/>dana, a layfollower of Kalyan.
+             </p>
+             <p n="6-8">
+             The <foreign>akṣayanīvī</foreign> is given in the order of monks. Every <foreign>vassa</foreign>, three <foreign><unclear>hā</unclear></foreign>. In the rainy season, the foods and rice drinks are to be taken care of with the cloth-moneys.   
+             </p>
+             <p n="8-9">
+             [These] five are relinquishments as meritorious gifts, relinquishments in the universal order of monks.
+             </p>
+             <p n="9-10">
+             For the purpose of the worship of the mother and father and for the welfare and happiness of all beings.
+             </p>
+ 	
+         </div>
+         <div type="commentary">            
+           <p n="4-5"><foreign>kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear><unclear>miya ni</unclear>vesaṇa</foreign>This must be compared with KI 6 <foreign>kālīAṇe Abālikāvihare c<unclear>e</unclear>ti<supplied reason="lost">Agha</supplied>)r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear> Ovarakāni</foreign>as well as KI 28.10-11 <foreign>mukuḍasivayi<space type='defect'></space>yaṁ nivesaṇaṁ</foreign><!-- Change to Links once inscriptions are on dharmalekha.info -->. The first word of the latter has been correctly interpreted (if incorrectly read) by ASWI V as a “district” of Kalyan in which the nivesaṇaṃ was located, while the term <foreign>Abālikā-</foreign> has been interpreted as the name of the <foreign>vihāra</foreign> (and subsequently identified with the Ambivali caves 8km south-east from modern Kalyan). However, it is perhaps better to interpret it as the name of a “district” of Kalyan in which both the <foreign>vihāra</foreign> and this <foreign>nivesaṇa</foreign> were located. In KI 28 the nivesaṇa serves as the basis of an akṣayanīvī, with the accrued rent being distributed to provide provisions and repairs. It is likely that the nivesaṇa here serves a similar function (although it is not labeled as an akṣayanīvī) rather than being intended for use by the Saṃgha.
+</p>
+          <p n="6-7">Although difficult to fully understand, this sequence details the amount of interest that accrues from the invested funds. Given that interest is typically calculated monthly in ancient India, it is tempting to interpret vase vase as a mistake for <foreign>māse māse</foreign>, especially because of the vase immediately following the <foreign><unclear>hā</unclear></foreign>.
+The use here of a reduplicated noun as a means of expressing indefiniteness may be compared with IBH III Maha 3.6 <foreign>kāraṇakāraṇe</foreign> “With regard to whichever reason/task” (cf. Martini 2023: 209) and KI 33.9 <foreign><unclear>pā</unclear>kkh<unclear>e</unclear> <unclear>p</unclear><supplied reason="lost">ā</supplied>kkh<unclear>e</unclear> <gap reason="illegible" quantity="2" unit="character"></gap> kāhhā<unclear>va</unclear>ṇ<unclear>a</unclear> kāhhāvaṇ<unclear>a</unclear> leṇe c<unclear>c</unclear>āv<unclear>i</unclear>tavva<unclear>ṁ</unclear></foreign> “whatever kahāpaṇas (accrue) every fortnight, the cave is to be maintained”. (cf. EIAD 56.4 <foreign>akhayanīvi<unclear>ṁ</unclear> ca kat<unclear>ū</unclear>ṇa mas<unclear>anu</unclear>mas<unclear>ika</unclear>sa <unclear>vi</unclear>dhi</foreign>).  
+          </p>
+          <p n="7-8">The sequence <foreign>bh<unclear>ā</unclear>tā<unclear>ṇ</unclear>i yāg<unclear>u</unclear>pāṇ<unclear>ā</unclear>ṇi ca </foreign> is unparalleled in the early epigraphic record but it might be compared with the variations of <foreign>yāgupāne saṃghabhatte</foreign> found sporadically in the Pali vinaya (cf. CKM 1 78.c yaüdaeṇa). The final term is equivalent with the <foreign>paḍiAgitavaṁ</foreign> of KI 28.9 and 40.8, regarding which ASWI V (p. 81) states “<foreign>Paḍiagitava</foreign> is the fut. part. pass. of a denominative, derived from Sanskrit <foreign>pratyaṅga</foreign>, Pali <foreign>pachchaṅga</foreign>”. This is instead the gerundive of Pali paṭijaggati/BHS pratijāgarti “to watch over, nourish, take care of”. This may be compared with Visuddhimagga IV.5 <foreign>jiṇṇavihāre pana bahuṃ paṭijaggitabba</foreign> “in a dilapidated monastery there is much that needs repair”, cited by Silk (2008: 78) in his discussion on the term navakarmika.
+          </p>
+          <p n="8-9"><foreign><gap reason="illegible" quantity="1" unit="character"/> <unclear>pa</unclear>c<unclear>ā</unclear> deyadhama<unclear>pa</unclear>ric<unclear>ā</unclear>k<unclear>ā</unclear></foreign> Although the first akṣara is uncertain, it is likely that the <foreign>pacā</foreign> here refers to the five donated objects described in l. 3-6: <foreign>leṇaṃ, pānīyapoḍhi nhāṇapoḍhi, nivesaṇa</foreign>, and an <foreign>akhayanivi</foreign>. The term <foreign>deyadhamaparicāka</foreign>is often associated exclusively with Northwestern India as it is found in inscriptions from Mathura (IV Math 17.2), Sanci (IV Sanc 907.3), and Gandhāra (CKI 60.5), with Damsteegt (1978: 163) stating that “the expression is foreign to inscriptions from other places”. However, the occurrence of the term here and in the 1st-2nd c. CE Alluru pillar inscriptions (EIAD 200+201) shows that this was not the case.
+</p>   
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+		<bibl n="G">
+		    <ptr target="bib:Gokhale1991_01"/>
+		    <citedRange unit="page">98</citedRange>
+		    <citedRange unit="item">43</citedRange>
+		</bibl>
+        	</listBibl>
+           <listBibl type="secondary">  
+                    <bibl>
+                            <ptr target="bib:Joshi2020_01"/>
+                            <citedRange unit="page">346</citedRange>
+                    </bibl>
+                    <bibl>
+                            <ptr target="bib:Strauch2021_01"/>
+                            <citedRange unit="page">206</citedRange>
+                    </bibl> 
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
