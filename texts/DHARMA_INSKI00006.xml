@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Cave 3 Left Pillar Inscription</title>
+              
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                  
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00006</idno>
+        
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Kelsey Martini.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-08-20">Initial Encoding of the File</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+            
+        </revisionDesc> 
+    </teiHeader>
+    
+    
+    
+    
+    
+    <text xml:space="preserve">
+      <body>
+          
+         <div type="edition" xml:lang="pra-Latn">
+           <p>  
+           <lb n="1"/><gap reason="lost" quantity="9" unit="character"/>kha<unclear>bh</unclear>ālakarasu Ādhaṁ
+           <lb n="2" break="no"/><gap reason="lost" quantity="7" unit="character"/> Aka<unclear>sa</unclear> c<unclear>et</unclear>iAsa bha  
+           <lb n="3" break="no"/><gap reason="lost" quantity="5" unit="character"/>lakārasu <unclear>ca</unclear> <unclear>pa</unclear>vayitāṇaṁ ya
+           <lb n="4" break="no"/><gap reason="lost" quantity="3" unit="character"/>Akhayanivi <unclear>da</unclear>tā sopārakāhāre ha
+           <lb n="5" break="no"/><supplied reason="lost">lāṇi</supplied> <unclear>t</unclear><supplied reason="lost">i</supplied>nī <num value="3"><g type="numeral">3</g></num> kālīAṇe Abālikāvihare c<unclear>e</unclear>ti  
+           <lb n="6" break="no"/><supplied reason="lost">Agha</supplied>r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear> Ovarakāni patiṭhāṇe vihā
+           <lb n="7" break="no"/><supplied reason="lost">re</supplied> <gap reason="lost" quantity="1" unit="character"/>ṭigupasada<unclear>riya</unclear> cetiAgharo ovarakā terasa
+           <lb n="8"/><supplied reason="lost"><num value="13"><g type="numeral">10</g> <g type="numeral">3</g></num></supplied> saAkha<supplied reason="omitted">ya</supplied>nivik<unclear>ā r</unclear>ājatalāka paIṭhāṇapathe  
+           <lb n="9"/><unclear>A</unclear>saṇe culik<unclear>api</unclear>yakuṭi koḍhi ca khāṇitā sa<unclear>ṁ</unclear>de
+           <lb n="10" break="no"/>s<unclear>e</unclear> vā<unclear>ṇu</unclear>gha <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>rā</unclear><unclear>ro</unclear></choice> saghārāmo saAkhayaniviko kā
+           <lb n="11" break="no"/>rāpito pu<supplied reason="lost">ñaṭha</supplied> <unclear>ca</unclear> deyadhamāṇi ca Ānāni pi <unclear>k</unclear><supplied reason="lost">ā</supplied><unclear>r</unclear><supplied reason ="lost">i</supplied>tāni
+          </p> 
+         </div>
+          
+          
+          
+          
+         <div type="apparatus">
+           
+               <listApp>
+                  <app loc="1">
+                     <lem>Ādhaṁ</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">Adha</rdg>
+                     <rdg source="bib:Gokhale1991_01">Adha</rdg>     
+                  </app>
+                   <app loc="2">
+                     <lem><gap reason="lost" quantity="7" unit="character"/> Aka<unclear>sa</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="1" unit="character"></gap></rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="2" unit="character"></gap></rdg>
+                     <note>It is unclear if the <foreign>-sa</foreign> in this sequence and the following <foreign>cetiAsa</foreign> is the genitive singular ending or the particle <foreign>sa-</foreign> “together with”.</note>  
+                  </app>
+                   <app loc="3">
+                     <lem><gap reason="lost" quantity="5" unit="character"/>lakārasu <unclear>ca</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="5" unit="character"/>lakāresu <unclear>ca</unclear></rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/>lakārasa<gap reason="illegible" quantity="1" unit="character"></gap></rdg>     
+                  </app>
+                   <app loc="4">
+                     <lem>ha<lb n="5" break="no"/><supplied reason="lost">lāṇi</supplied></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">hā<gap reason="lost" quantity="3" unit="character"></gap></rdg>    
+                  </app>
+                   <app loc="5">
+                     <lem>kālīAṇe</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">kāliAṇe</rdg>  
+                     <rdg source="bib:Gokhale1991_01">kāliAṇe</rdg>     
+                  </app>
+                   <app loc="5">
+                     <lem>c<unclear>e</unclear>ti<lb n="6" break="no"/><supplied reason="lost">Agha</supplied>r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">ce ti <gap reason="lost" quantity="3" unit="character"></gap> Upathāṇasāl<unclear>ā</unclear></rdg>
+                     <rdg source="bib:Gokhale1991_01">cetiUpathāṇasāl<unclear>ā</unclear></rdg>
+                      <note>The reading <foreign>Upa</foreign> is entirely impossible for the bottom of the <foreign>-ra-</foreign> is still visible today. The o-mātra of the proposed <foreign>ro</foreign> is partly preserved on the eye copy.</note> 
+                  </app>
+                  
+                   <app loc="6">
+                     <lem>patiṭhāṇe</lem>
+                     <rdg source="bib:Gokhale1991_01">paIṭh<unclear>ā</unclear>ṇe</rdg>     
+                  </app>
+                   <app loc="6">
+                     <lem>vihā<lb n="7" break="no"/><supplied reason="lost">re</supplied> <gap reason="lost" quantity="1" unit="character"/>ṭigupasada<unclear>riya</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">vihā <gap reason="lost" quantity="2" unit="character"/> tigupasadari<unclear>ya</unclear></rdg>
+                     <rdg source="bib:Gokhale1991_01">vihātigupasadari<unclear>ya</unclear></rdg>  
+                  </app>
+                   <app loc="8">
+                     <lem>><supplied reason="lost"><num value="13"><g type="numeral">10</g> <g type="numeral">3</g></num></supplied></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="3" unit="character"></gap></rdg>
+                     <note>G does not acknowledge these missing akṣaras.</note>  
+                  </app>
+                   <app loc="8">
+                     <lem><unclear>r</unclear>ājatalāka</lem>
+                     <note>It is tempting to understand here rājatalāke.</note>  
+                  </app>
+                   <app loc="9">
+                     <lem><unclear>A</unclear>saṇe</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="illegible" quantity="1" unit="character"></gap>saṇa</rdg>
+                     <rdg source="bib:Gokhale1991_01">saṇa</rdg>  
+                     <note>The e-mātra is clear on both the eye copy and photographs, however the first akṣara could be a <foreign>ka/ra</foreign> as only the hooked bottom is preserved on the eye-copy. It is also possible that another akṣara preceded it.</note>  
+                  </app>
+                  <app loc="9">
+                     <lem>culik<unclear>api</unclear>yakuṭi</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">culika <gap reason="illegible" quantity="1" unit="character"/> ya kuṭi</rdg>
+                     <rdg source="bib:Gokhale1991_01">culika <gap reason="illegible" quantity="1" unit="character"/> ya kuṭi</rdg>  
+                  </app>
+                  <app loc="9">
+                     <lem>khāṇitā</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">coṇitā</rdg>
+                     <rdg source="bib:Gokhale1991_01">khanita</rdg>  
+                  </app>
+                  <app loc="9">
+                     <lem>sa<unclear>ṁ</unclear>de<lb n="10" break="no"/>s<unclear>e</unclear> vā<unclear>ṇu</unclear>gha <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>rā</unclear><unclear>ro</unclear></choice></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">sadasevājuya <unclear>vihā</unclear>re</rdg>
+                     <rdg source="bib:Gokhale1991_01">sadasevājuya <unclear>vihā</unclear>re</rdg>  
+                  </app>
+                  <app loc="11">
+                     <lem>pu<supplied reason="lost">ñaṭha</supplied> <unclear>ca</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">pu<supplied reason="lost">ñaṭha</supplied></rdg>
+                     <rdg source="bib:Gokhale1991_01">pu<supplied reason="lost">ñaṭha</supplied></rdg>  
+                  </app>  
+                            
+               </listApp>
+         </div>
+          
+          
+          
+          
+          
+         <div type="translation">
+ 	<p n="1-5">… amongst the <foreign>…khabhālakaras</foreign>, half … of the shrine (<foreign>cetiya</foreign>) … And for the <foreign>ya<gap reason="lost" quantity="3" unit="character"></gap></foreign> renunciants amongst the <foreign>…lakāras</foreign>  an <foreign>akṣayanīvī</foreign> is given: In the Sopāraka district, three – 3 – <foreign>ha<supplied reason="lost">la</supplied>s</foreign></p>
+        <p n="5-6"> At the <foreign>Abālikavihāra</foreign> in Kalyan, an apsidal shrine <foreign>cetiyaghara</foreign>, entrance hall, and cells.</p>
+             <p n="6-8"> At the <foreign>vihāra</foreign> in Patiṭhāṇa, at <foreign><gap reason="lost" quantity="1" unit="character"></gap>ṭigupasadarī</foreign> (or in the <foreign>+ṭipasadarī vihāra</foreign>), an apsidal shrine [as well as] thirteen – 13 – cells – which are [provided] with a <foreign>akṣayanīvīs</foreign>.</p>
+             <p n="8-9">At Asana, at the royal tank on the path to Païṭhāṇa, a small hut for allowable goods and store room (<foreign>koḍhi</foreign>) were excavated.</p>
+        <p n="9-11"> At Sandesa, the <foreign>vāṇugha+ra</foreign>monastic compound <foreign>saṅghārama</foreign> – which is [provided] with an <foreign>akṣayanīvī</foreign> — was caused to be built.</p>             
+<p n="11">And [these] meritorious gifts and others were caused to be made for the purpose of [acquiring] merit.</p>
+         </div>
+          
+          
+          
+          
+         <div type="commentary">
+      
+         </div> 
+          
+          
+          
+        <div type="bibliography">
+	
+           <p></p>   
+            
+            <listBibl type="primary">
+    			<bibl n="B+B">
+    		      <ptr target="bib:Burgess+Buhler1883_01"/>
+    			    <citedRange unit="page">76</citedRange>
+                    <citedRange unit="item">5</citedRange>
+    		    </bibl>
+    		    <bibl n="G">
+    		      <ptr target="bib:Gokhale1991_01"/>
+    		        <citedRange unit="page">52</citedRange>
+                    <citedRange unit="item">6</citedRange>
+    		    </bibl>  	    
+    		</listBibl>
+                
+            <listBibl type="secondary">
+                  
+          
+                   <bibl>   
+                     <ptr target="bib:Naik1948_01"/>
+                      <citedRange unit="page">19</citedRange>
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Lamotte1958_01"/>
+                      <citedRange unit="page">569</citedRange>  
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Njammasch1971_01"/>
+                        <citedRange unit="page">213</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Njammasch1972_01"/>
+                        <citedRange unit="page">262-263</citedRange>
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Hettiarachchy1973_01"/>
+                      <citedRange unit="page">114</citedRange>  
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Damsteegt1978_01"/>
+                        <citedRange unit="page">335 n. 51</citedRange>
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Habib+Habib1990_01"/>
+                      <citedRange unit="page">108, 111</citedRange>  
+                    </bibl>
+                    <bibl>
+                    <ptr target="bib:Dehejia+Rockwell2016_01"/>
+                    <citedRange unit="page">65</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Strauch2021_01"/>
+                    <citedRange unit="page">206</citedRange>
+                    </bibl>
+                  
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
