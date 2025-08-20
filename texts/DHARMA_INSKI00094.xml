@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Epitaph Inscription 25</title>
+              
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00094</idno>
+        
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Kelsey Martini.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-08-20">Initial Encoding of the File</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+            
+        </revisionDesc> 
+    </teiHeader>
+    
+    
+    
+    
+    
+    <text xml:space="preserve">
+      <body>
+          
+         <div type="edition" xml:lang="pra-Latn">
+           <p>  
+           <lb n="1"/>therāṇa<unclear>ṃ</unclear> Ā<unclear>r</unclear>yyas<unclear>e</unclear>nāṇa<unclear>ṃ</unclear> kaṇha<unclear>se</unclear>
+           <lb break="no" n="2"/>lavāsiṇa<unclear>ṃ</unclear>Ara<unclear>ha</unclear>ntāṇaṃ cha<unclear>la</unclear>
+           <lb break="no" n="3"/>bhiṁñāṇaṃ mah<unclear>āca</unclear>ri<unclear>yāṇaṃ</unclear> th<unclear>ūbha</unclear><supplied reason="lost">ṃ</supplied>
+          </p> 
+         </div>      
+         <div type="apparatus">
+
+         </div>
+          
+          
+          
+          
+          
+         <div type="translation">
+ 	<p><foreign>Stūpa</foreign> of the venerable Noble Sena, resident of Kaṇhasela, an <foreign>arhat</foreign> possessed with the six super-knowledges, a great master.</p>
+         </div>
+          
+          
+          
+          
+         <div type="commentary">
+        <p n="3"><foreign>mah<unclear>āca</unclear>ri<unclear>yāṇaṃ</unclear></foreign>. This part of the third line is affected by a deep horizontal crack, which affects legibility. The reading -<foreign><unclear>ca</unclear></foreign>- is thus uncertain. The present reading is informed by the parallel <foreign>gaṇācariyāṇaṁ</foreign> in <ref target="DHARMA_INSKI00074.xml">KI00074</ref>.</p>
+         </div> 
+          
+          
+          
+        <div type="bibliography">
+	
+           <p></p>   
+
+        </div>
+      </body>
+  </text>
+</TEI>
