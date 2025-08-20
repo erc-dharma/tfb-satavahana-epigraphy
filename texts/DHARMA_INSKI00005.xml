@@ -24,12 +24,13 @@
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>
                     </persName>
-                </respStmt>
-                <persName ref="part:vito">
+                    <persName ref="part:vito">
                     <forename>Vincent</forename>
                     <surname>Tournier</surname>
                 </persName>
-            </titleStmt>
+
+                </respStmt>
+                            </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
