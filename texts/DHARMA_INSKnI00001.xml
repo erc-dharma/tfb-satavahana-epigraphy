@@ -83,14 +83,14 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-            <p><lb n="1"/>rāyā Asoko</p>
+            <p><lb n="1"/>rāyā <persName type="human" subtype="coronation"><roleName type="king">Asoko</roleName></persName></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                
          </div>
          <div type="translation" resp="part:vito">
-             <p>King Asoka.</p>
+             <p>King <persName type="human" subtype="coronation"><roleName type="king">Asoka</roleName></persName>.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
