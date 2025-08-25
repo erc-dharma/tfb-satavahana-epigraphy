@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Cave 3 Traikuṭaka Copper Plate, year 245</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSKI00014</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John
+                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-08-04">Initial Encoding of Inscription</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
+                template</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+         <p>
+            <lb n="1"/>namas sarvva<unclear>jñāya</unclear> tr<choice><sic>a</sic><corr>ai</corr></choice>kūṭakānā<supplied reason="omitted">ṃ</supplied> pravarddhamānarājy<supplied reason="omitted">e</supplied> sa<supplied reason="omitted">ṃ</supplied>vvatsaraśatadvaye pañcacatvāri<supplied reason="omitted">ṃ</supplied>śaduttare kr̥<unclear>ṣṇa</unclear>girimahāvihāre
+            <lb n="2"/>si<unclear>ndhu</unclear>viṣayā<unclear>ntargga</unclear>tagrāme kā<unclear>ṇa</unclear>k<supplied reason="omitted">e</supplied> vāstavya suprabhāyāḥ buddhaśriyā <unclear>pu</unclear>ṣyavarmmaṇaś ca <unclear>pu</unclear>tro daśabalabal<supplied reason="omitted">i</supplied>
+            <lb n="3" break="no"/>no bhagavataś śākyamunes samyaksambu<unclear>ddha</unclear>sya taddharmma<unclear>śr</unclear>āvakāryyabh<supplied reason="omitted">i</supplied><unclear>kṣo</unclear><supplied reason="omitted">ḥ</supplied> ca<unclear>ra</unclear>ṇaparicaraṇakuśa<unclear>lo</unclear> buddharucir i
+            <lb n="4" break="no"/>daṁ tasyaiva paramamuner agryaśrāvakasyāryaśāra<unclear>dva</unclear>tīputrasya caitya<supplied reason="omitted">ṃ</supplied> ghaṭitapāṣāṇ<unclear>e</unclear>ṣṭakābhir āca
+            <lb n="5" break="no"/><unclear>ndr</unclear>ārkkārṇṇavapritisthitisamakālina<supplied reason="omitted">ṃ</supplied> pratiṣṭhāpitavā<supplied reason="omitted">ṃ</supplied>s 
+tad asya devaya<unclear>kṣa</unclear>siddhavidyādharagaṇamāṇibhadrapū
+            <lb n="6" break="no"/> rṇṇabhadrap<unclear>ā</unclear>ñcikāryyavajrapāṇiv<unclear>a</unclear>jraṇa<unclear>kh</unclear>ādayaḥ svasti diśantv api ca 
+</p>             
+<lg n="1" met="sragdharā">
+<l n="a"><unclear>y</unclear>ā<unclear>va</unclear>d vīc<supplied reason="omitted">ī</supplied>sahasrapracali<unclear>ta</unclear>makarā
+
+            <lb n="7" break="no"/>ghūrṇṇ<supplied reason="omitted">i</supplied>tāvarttatoya⟨ḥ⟩</l>
+<l n="b">kṣīrodaḥ kṣīratoyo br̥hadupalacitaẖ karkkaśo vāpi meruḥ</l>
+<l n="c">yāvad v<supplied reason="omitted">ā</supplied> yānti nadya
+
+            <lb n="8" break="no"/>s suvimalasalilas sāgaraṁ toyavatyaḥ</l>    
+<l n="d">tāvat kīrtti<supplied reason="omitted">ḥ</supplied> sthireya<supplied reason="omitted">ṃ</supplied> bhajatu śubhakarīsatsutaṁ puṣyanāmna<supplied reason="omitted">ḥ</supplied></l>
+</lg>
+
+            <lb n="9"/>
+         <p>
+             dāḍhā
+         </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="1">
+                     <lem>tr<choice><sic>a</sic><corr>ai</corr></choice>kūṭakānā<supplied reason="omitted">ṃ</supplied></lem>
+                     <rdg source="bib:Burgess+Indraji1881_01">trikūṭakānāṃ</rdg>
+                     <note>There was likely originally a vowel mātra which was not preserved in the eye-copy, -ai.</note> 
+                  </app>
+                   <app loc="1">
+                     <lem>sa<supplied reason="omitted">ṃ</supplied>vvatsara</lem>
+                     <rdg source="bib:Gokhale1991_01">saṃvatsara</rdg>
+                       <note>Mirashi notes that "There was evidently an <foreign>anusvāra</foreign> on <foreign>sa</foreign> which is responsible for the reduplication (wrong, of course,) of <foreign>v</foreign>.</note>
+                  </app>
+                   <app loc="2">
+                     <lem>grāme kā<unclear>ṇa</unclear>k<supplied reason="omitted">e</supplied></lem>
+                     <rdg source="bib:Burgess+Indraji1881_01">grāme kāṇaka</rdg>
+                     <rdg source="bib:Mirashi1955_01">grāmikāṇaka</rdg>
+                     <rdg source="bib:Gokhale1991_01">grāmikāṇaka</rdg> 
+                       <note>Mirashi translates “the village Kāṇaka”, but this implies grāmakāṇaka. Given the frequent occurrence of vastavya with a locative in inscriptions from across India (cf. EIAD 32 <foreign>kaṃmākaraṭhe gāme toḍatur̥e vathavasa</foreign>; III Sail 1.1 <foreign>dheṇukākaḍe vāthavasa etc</foreign>), it is perhaps best to read the second akṣara as -<foreign>me</foreign> (cf. l. 7 <foreign>meruḥ</foreign>) and supply an <foreign>e</foreign>-mātrā on the final akṣara. The name of the village may perhaps be compared with modern Kanak in Balochistan, as suggested by Pia Brancaccio (personal communication, 14/04/2025).</note>  
+                  </app>
+                   <app loc="2">
+                     <lem>vāstavya suprabhāyāḥ</lem>
+                     <rdg source="bib:Burgess+Indraji1881_01">vāstavya<supplied reason="omitted">ḥ</supplied></rdg>
+                     <rdg source="bib:Mirashi1955_01">vāstavya<supplied reason="omitted">ḥ</supplied></rdg>     
+                     <rdg source="bib:Gokhale1991_01">vāstavya<supplied reason="omitted">ḥ</supplied></rdg>
+                     <note>There is no space on the eye-copy for a visarga, perhaps the words are in compound?</note>
+                  </app>
+                   <app loc="2">
+                     <lem><unclear>pu</unclear>tro</lem>
+                     <note>The first akṣara really rather resembles <foreign>su</foreign>- or <foreign>a</foreign>-. Was the scribe hesitant between <foreign>suto</foreign> and <foreign>putro</foreign>? A comparison with <foreign>suprabhāyāḥ</foreign> earlier in the line seems to rule out a reading of <foreign>su</foreign>-. however it is still difficult to read this as <foreign>pu</foreign>-, especially when compared to l. 4 -<foreign>putrasya</foreign>.</note>  
+                   </app>
+                   <app loc="2">
+                     <lem>daśabalabal<supplied reason="omitted">i</supplied><lb n="3" break="no"/>no</lem>
+                     <note>The first akṣara really resembles <foreign>de-</foreign> or <foreign>o-</foreign>(cf. <foreign>daṃ</foreign>l. 4). We follow Mirashi’s suggestion to restore an <foreign>i</foreign>-mātra to the second <foreign>la</foreign>.</note>
+                  </app>
+                  <app loc="3">
+                     <lem>kāryyabh<supplied reason="omitted">i</supplied><unclear>kṣo</unclear><supplied reason="omitted">ḥ</supplied></lem>
+                     <note>Mirashi says “The superscript <foreign>r</foreign> has been wrongly written like the medial <foreign>i</foreign>. The sign for the medial <foreign>i</foreign> on <foreign>bhi</foreign> has not come out on the lithograph”. He also states that “The superscript <foreign>k</foreign> of <foreign>ksh</foreign> is cursive like that in <foreign>kshiti</foreign>, in line 5 of the Pārḍi plates of Dahrasena (No. 8) [CII IV.1: 24]. Pandit Bhagvanlal proposed to read <foreign>gaṇyo</foreign>, but the first akṣara is probably <foreign>bha</foreign>.” Based on these uncertainties it is worth exploring other possible readings (including the Pandit’s), especially when we compare the two <foreign>kṣ</foreign>-s in l. 7. There is no room for a visarga following the supposed <foreign><unclear>kṣo</unclear></foreign>, although this could just be a flaw in the eye-copy.</note>
+                  </app>
+                   <app loc="3">
+                     <lem>ca<unclear>ra</unclear>ṇaparicaraṇakuśa<unclear>lo</unclear></lem>
+                     <note>Both of the <foreign>ṇa-</foreign>s really resemble <foreign>he-</foreign>s.</note>
+                  </app>
+                   <app loc="5">
+                     <lem><unclear>ndr</unclear></lem>
+                     <note>Mirashi says “The subscript curve appear like that of medial <foreign>r̥i</foreign>, but it is clearly a mistake of the scribe”.</note>
+                  </app>
+                   <app loc="5">
+                     <lem>pritisthiti</lem>
+                     <note>Mirashi says “The subscript curve appear like that of medial <foreign>r̥i</foreign>, but it is clearly a mistake of the scribe”.</note>
+                  </app>
+                   <app loc="5">
+                     <lem>priti</lem>
+                     <rdg source="bib:Burgess+Indraji1881_01">kṣiti</rdg>
+                     <rdg source="bib:Gokhale1991_01">kṣiti</rdg>  
+                     <note>Mirashi suggests that the first akṣara should be <foreign>kṣi</foreign> but still reads <foreign>pri</foreign>.</note>
+                  </app>
+                  <app loc="6">
+                      <lem>p<unclear>ā</unclear>ñcikāryya</lem>
+                      <rdg source="bib:Burgess+Indraji1881_01">pañcikāryya</rdg>
+                      <rdg source="bib:Mirashi1955_01">pañcikāryya</rdg>
+                      <rdg source="bib:Gokhale1991_01">pañcikāryya</rdg>
+                  </app> 
+                   <app loc="6">
+                      <lem>v<unclear>a</unclear>jraṇa<unclear>kh</unclear>ā</lem>
+                      <rdg source="bib:Burgess+Indraji1881_01">vāṅkaṇakā</rdg>
+                      <rdg source="bib:Mirashi1955_01">vāṅkaṇakā</rdg>
+                      <rdg source="bib:Gokhale1991_01">vāṅkaṇakā</rdg>
+                      <note>Understand vajranakhā. Mirashi, struggling to make sense of this term, notes that <foreign>Vāṅkaṇaka</foreign> “may be a follower of Vaṅkaṇa… perhaps, the presiding deity of the Vaṅka mountain mentioned in some Jātakas.” The proposed reading <foreign>Vajranakha</foreign> makes much better sense, although it is not very well attested in early Buddhist literature. In non-Buddhist literature, the term commonly occurs as an epithet of Narasiṃha.</note> 
+                   </app>
+                   <app loc="7">
+                      <lem>vartta</lem>
+                      <rdg source="bib:Burgess+Indraji1881_01">varta</rdg>
+                      <rdg source="bib:Mirashi1955_01">varta</rdg>
+                      <rdg source="bib:Gokhale1991_01">varta</rdg>
+                      <note>The conjunct is clear.</note>
+                  </app>
+                   <app loc="7">
+                      <lem>citaẖ</lem>
+                      <rdg source="bib:Burgess+Indraji1881_01">citaxka</rdg>
+                      <rdg source="bib:Mirashi1955_01">citaxka</rdg>
+                      <rdg source="bib:Gokhale1991_01">cita ka</rdg>
+                      <note>Perhaps the proper reading is <foreign>citam ka-</foreign>.</note>
+                  </app>
+                   <app loc="8">
+                      <lem>satsutaṁ puṣyanāmna<supplied reason="omitted">ḥ</supplied></lem>
+                      <note>This may be taken as an allusion to Śāriputra, who is commonly referred to as Upatiṣya, and understood in Mūlasarvāstivādin sources to be the son of the brahmin Tiṣya. The donor, who is himself the son of Puṣya(varman), seems to play on this, and on the pair that Tiṣya and Puṣya (and thus, Upatiṣya and *Upapuṣya) form.</note>
+                  </app> 
+               </listApp>
+             
+             
+         </div>
+         <div type="translation">
+             <p n="1-4"> Homage to the Omniscient One! In the prosperous reign of the Traikūṭakas, in the year two hundred increased by forty-five, in the Kṛṣṇagiri <foreign>mahāvihāra</foreign>, Buddharuci a resident of the village Kāṇaka, included in the Sindhu <foreign>viṣaya</foreign> (district), the son of the resplendent Buddhaśrī and Puṣyavarman, skilful in serving the feet of the Lord Śākyamuni, who possesses of the ten powers and is perfectly and completely awakened, (and) of the venerable monk who is an accomplished auditor in his <foreign>Dharma</foreign> (i.e. Śāriputra), has erected this <foreign>caitya</foreign> with stones and bricks joined together to last as long as the moon, the sun, the oceans and the earth will last, (which is) dedicated to the venerable Śāradvatīputra, the chief disciple of the very same supreme Muni.</p>
+             <p n="5-6">Therefore, may gods, <foreign>yakṣas</foreign>, <foreign>siddhas</foreign>, <foreign>vidyādharas</foreign>, <foreign>gaṇas</foreign>, Māṇibhadra, Pūrṇabhadra, Pāñcika, the Noble Vajrapāṇi, Vajranakha and others grant their blessing</p>
+             <p n="1" rend="stanza">“As long as the milky ocean, the waters of the whirl-pools of which are whirled by the alligators tossed about by thousands of (its) waves, is an ocean of milk, as long as the rugged Meru is piled with huge rocks, as long as rivers of very clear water flow with (their) water into the ocean – even so long may this lasting and auspicious fame resort to the excellent son of him (who is) named Puṣya!"</p>
+             <p n="9"><foreign>Dāḍhā</foreign>(?)</p>
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+         <p><foreign>Māṇibhadrapūrṇṇabhadrap<unclear>ā</unclear>ñcikā</foreign>: Māṇibhadra, Pūrṇabhadra, and Pāñcika are recognised as three <foreign>yakṣasenāpatis</foreign>, for instance in the <foreign>Suvarṇaprabhā</foreign> (for the first two), see also <foreign>Hōbōgirin,</foreign> s.v. Bishamon. The <foreign>Mmī</foreign>, which we know circulated in Maharashtra, identifies the first two as brothers living in Brahmavatī (not identified, but understood to be near Gandhāra, which is mentioned immediately after in the work), while some versions of the work interestingly locate Pāñcika in Sindh. Cf. <foreign>Mmī</foreign> 20, 22.</p>    
+
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+		<bibl n="B+I"> 
+        	          <ptr target="bib:Burgess+Indraji1881_01"/>
+                    <citedRange unit="page">58</citedRange>
+        	    </bibl>
+        	    	<bibl n="M">
+		    <ptr target="bib:Mirashi1955_01"/>
+		    <citedRange unit="page">29</citedRange>
+		    <citedRange unit="item">10</citedRange>
+		</bibl>
+        	    	<bibl n="G">
+		    <ptr target="bib:Gokhale1991_01"/>
+		    <citedRange unit="page">59</citedRange>
+		    <citedRange unit="item">14</citedRange>
+		</bibl>
+        	</listBibl>
+           <listBibl type="secondary">
+              <bibl/>
+                      <bibl>
+                       <ptr target="bib:Rapson1908_01"/>
+                        <citedRange unit="page">lxiii</citedRange>
+                    </bibl>
+                    <bibl>
+                       <ptr target="bib:Alone2022_01"/>
+                        <citedRange unit="page">31</citedRange>
+                    </bibl>
+                    <bibl>
+                       <ptr target="bib:Brancaccio2022_01"/>
+                        <citedRange unit="page">73-74</citedRange>
+                    </bibl>
+                    
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
