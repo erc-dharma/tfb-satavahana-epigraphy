@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kanheri Cave 5 Cistern Inscription</title>
+              
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                  
+                    <persName ref="part:kema">
+                        <forename>Kelsey</forename>
+                        <surname>Martini</surname>
+                    </persName>
+                    <persName ref="part:vito">
+                        <forename>Vincent</forename>
+                        <surname>Tournier</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Munich</pubPlace>
+                <idno type="filename">DHARMA_INSKI00016</idno>
+        
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Kelsey Martini.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:kema" when="2025-08-29">Initial Encoding of the File</change>
+            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
+            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
+            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
+            <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+            
+        </revisionDesc> 
+    </teiHeader>
+    
+    
+    
+    
+    
+    <text xml:space="preserve">
+      <body>
+          
+         <div type="edition" xml:lang="pra-Latn">
+           <p>  
+           <lb n="1"/><gap reason="lost" quantity="7" unit="character"></gap> <unclear>vā</unclear>s<unclear>i</unclear>ṣṭhiputrasya śri<unclear>s</unclear>ā<unclear>takarṇ</unclear>īs<unclear>ya</unclear> dev<unclear>y</unclear>ā<unclear>ḥ</unclear> kārddamakarājavaṁśapra<supplied reason="lost">bha</supplied>v<unclear>ā</unclear>y<unclear>ā</unclear> mahākṣatraparu<unclear>dra</unclear>putry<unclear>āḥ</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+           <lb n="2"/><gap reason="lost" quantity="6" unit="character"></gap><gap reason="illegible" quantity="1" unit="character"></gap> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"></gap> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya Amātyasya śaterakasya pānīyabhājanaṁ deyadha<unclear>r</unclear>mma<supplied reason="lost">ṃ</supplied>
+          </p> 
+         </div>
+          
+          
+          
+          
+         <div type="apparatus">
+           
+               <listApp>
+                   <app loc="1">
+                      <lem><unclear>vā</unclear>s<unclear>i</unclear>ṣṭhiputrasya śri</lem>                      
+                       <rdg source="bib:Burgess+Buhler1883_01">vāsiṣṭh<unclear>ī</unclear>putrasya śrī</rdg>
+                       <rdg source="bib:Mirashi1981_01">vāsiṣṭh<unclear>ī</unclear>putrasya śrī</rdg>
+                   </app> 
+                  <app loc="1">
+                     <lem>mahākṣatraparu<unclear>dra</unclear>putry<unclear>āḥ</unclear></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">mahākṣatraparu<gap reason="lost" quantity="1" unit="character"></gap>putry<unclear>āḥ</unclear></rdg>
+                     <rdg source="bib:Mirashi1981_01">mahākṣatra<unclear>pa</unclear>ru<supplied reason="lost">dra</supplied><gap reason="lost" quantity="2" unit="character"></gap>putry<unclear>āḥ</unclear></rdg>
+                     <rdg source="bib:Gokhale1991_01">mahākṣatra<unclear>pa</unclear>ru<unclear>p</unclear>utry<unclear>āḥ</unclear></rdg>
+                     <note>The first akṣara is clearly <foreign>cha</foreign> and not 20 and Gokhale’s further restoration is impossible. </note>
+                  </app>
+                  <app loc="2">
+                      <lem><gap reason="lost" quantity="6" unit="character"></gap><gap reason="illegible" quantity="1" unit="character"></gap> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"></gap> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya</lem>                      
+                       <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="14" unit="character"/> sya <gap reason="lost" quantity="3" unit="character"/>v<unclear>i</unclear>śvasyasya</rdg>
+                       <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="6" unit="character"/> <unclear>syāḥ</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>vi</unclear>śvasyasya</rdg>
+                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="8" unit="character"/>sya <gap reason="lost" quantity="3" unit="character"/> v<unclear>i</unclear>śvasyasya</rdg>
+                   </app> 
+               <app loc="2">
+                      <lem>deyadha<unclear>r</unclear>mma<supplied reason="lost">ṃ</supplied>
+</lem>                      
+                       <rdg source="bib:Burgess+Buhler1883_01">deyadharmma<supplied reason="lost">ḥ</supplied></rdg>
+                       <rdg source="bib:Mirashi1981_01">deyadharmma<supplied reason="lost">ḥ</supplied></rdg>
+                        <rdg source="bib:Gokhale1991_01">deyadharmma<supplied reason="lost">ḥ</supplied></rdg>
+                   </app>
+               </listApp> 
+         </div>
+          
+          
+          
+          
+          
+         <div type="translation" resp="part:kema">
+ 	<p>A drinking vessel: the meritorious gift of Śateraka, a confidant minister/relation (<foreign>v<unclear>i</unclear>śvasyasya Amātyasya</foreign>), a <foreign><gap reason="illegible" quantity="1" unit="character"></gap>va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap></foreign>, a royal adviser...of the queen of Vāsiṣṭhiputra Śri-Sātakarṇi, descended from the race of the Kārddamaka kings, daughter of Mahakṣatrapa Ru<unclear>dra</unclear>...</p>    
+         </div>
+          
+          
+          
+          
+         <div type="commentary">
+            <p>The lacuna from the end of l. 1 up to l. 2 <foreign><gap reason="illegible" quantity="1" unit="character"></gap> sa ka</foreign> likely consisted of the name of the Queen and a word ending in <foreign>ka</foreign> that is in compound with the following rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear>. B+B state that “As the connection between the royal lady, mentioned in l. 1, and the minister in l. 2, is not clear, I can do no more than translate the terms literally. It seems, however, probable that the minister executed the work at the command of the queen.” It is rather more likely that this is the donation of the amātya who is listing his relationship with the queen, as is also the interpretation of Mirashi.</p>
+         </div>
+          
+          
+          
+          
+        <div type="bibliography">
+	
+           <p></p>   
+            
+            <listBibl type="primary">
+    		  <bibl n="B+B">
+    		      <ptr target="bib:Burgess+Buhler1883_01"/>
+    			  <citedRange unit="page">78</citedRange>
+    			  <citedRange unit="item">11</citedRange>  
+    		    </bibl>
+    		    <bibl n="G">
+    		      <ptr target="bib:Gokhale1991_01"/>
+    		      <citedRange unit="page">62</citedRange>
+    		      <citedRange unit="item">16</citedRange>  
+    		    </bibl>
+                    <bibl n="M">
+    		      <ptr target="bib:Mirashi1981_01"/>
+    		      <citedRange unit="page">68</citedRange>
+    		      <citedRange unit="item">25</citedRange>  
+    		    </bibl>
+    		</listBibl>
+                
+            <listBibl type="secondary">
+                  <bibl/>
+
+                <bibl>
+                      <ptr target="bib:Buhler1883_03"/>
+                      <citedRange unit="page">272-273</citedRange>
+                  </bibl>
+                <bibl>
+                      <ptr target="bib:Rapson1908_01"/>
+                      <citedRange unit="page">li</citedRange>
+                  </bibl>
+                   <bibl>   
+                     <ptr target="bib:Naik1948_01"/>
+                      <citedRange unit="page">4, 19, 21, 48, 52</citedRange>
+                    </bibl>
+                    <bibl>
+                      <ptr target="bib:Rao1951_01"/>
+                      <citedRange unit="page">52, 55-56</citedRange>
+                  </bibl>
+                
+                <bibl>
+                      <ptr target="bib:Lamotte1958_01"/>
+                      <citedRange unit="page">569</citedRange>
+                  </bibl> 
+                <bibl>
+                      <ptr target="bib:Dehejia1972_01"/>
+                      <citedRange unit="page">26-28, 68</citedRange>
+                  </bibl>
+                <bibl>
+                      <ptr target="bib:Hettiarachchy1973_01"/>
+                      <citedRange unit="page">77-78, 80, 82, 114</citedRange>
+                  </bibl>
+                <bibl>
+                      <ptr target="bib:Damsteegt1978_01"/>
+                      <citedRange unit="page">147 (no. 9), 207, 216</citedRange>
+                  </bibl>
+                                
+                <bibl>
+                      <ptr target="bib:Shah2001_01"/>
+                      <citedRange unit="page">46</citedRange>
+                  </bibl>
+                  <bibl>
+                      <ptr target="bib:Neelis2011_01"/>
+                      <citedRange unit="page">129</citedRange>
+                  </bibl>
+                <bibl>
+                      <ptr target="bib:Efurd2018_01"/>
+                      <citedRange unit="page">394</citedRange>
+                  </bibl>
+                <bibl>
+                      <ptr target="bib:Ollett2018_01"/>
+                      <citedRange unit="page">434</citedRange>
+                  </bibl>
+                
+                
+                   
+            </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
