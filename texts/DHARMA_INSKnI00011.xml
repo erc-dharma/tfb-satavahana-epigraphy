@@ -83,10 +83,10 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p>
-                 <lb n="1"/><supplied reason="lost">ya</supplied>ñasātakaṇ<unclear>i</unclear>sa saṁvachare <num value="10"><unclear><g type="numeral">10</g></unclear></num> gimhānaṁ
-                 <lb n="2"/><supplied reason="lost">pakhe</supplied> <unclear>5</unclear> <unclear>sa</unclear>t<unclear>i</unclear>ka<unclear>ṇa</unclear> mahadatasa dāna chata
-                 <lb n="3"/>mahācetiye <g type="dash"/>
+             <p><lb 
+                 n="1"/><persName type="human" subtype="coronation"><supplied reason="lost">ya</supplied>ñasātakaṇ<unclear>i</unclear>sa</persName> saṁvachare <num value="10"><unclear><g type="numeral">10</g></unclear></num> gimhānaṁ<lb 
+                 n="2"/><supplied reason="lost">pakhe</supplied> <unclear>5</unclear> <unclear>sa</unclear>t<unclear>i</unclear>ka<unclear>ṇa</unclear> mahadatasa dāna chata<lb 
+                 n="3"/>mahācetiye <g type="dash"/>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -96,12 +96,12 @@
                  <app loc="2">
                      <lem><supplied reason="lost">pakhe</supplied> <unclear>5</unclear> <unclear>sa</unclear>t<unclear>i</unclear>ka<unclear>ṇa</unclear> mahadatasa</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">ta<unclear>kā</unclear>na mahaḍatasa</rdg>
-                     <note>The individual mentioned here appears to be the same as Sa(ṁ)tika Mahāsenadatta, occurring as donor in <ref target="DHARMA_INSKnI00099.xml">KnI0099</ref>, <ref target="DHARMA_INSKnI00100.xml">KnI0100</ref>. In <ref target="DHARMA_INSKnI00263.xml">KnI0263</ref>, the donor is similarly called <foreign>mahadata-</foreign>, which may be short for Mahāsenadatta. Also, in both inscriptions, the ending <foreign>satikana</foreign>, as opposed to <foreign>satikena</foreign> in <ref target="DHARMA_INSKnI00100.xml">KnI0100</ref> (and probably in <ref target="DHARMA_INSKnI00099.xml">KnI0099</ref>) may be understood as standing for <foreign>satikāna</foreign>, a genitive plural of belonging.</note>
+                     <note>The individual mentioned here appears to be the same as <persName type="human">Sa(ṁ)tika Mahāsenadatta</persName>, occurring as donor in <ref target="DHARMA_INSKnI00099.xml">KnI0099</ref>, <ref target="DHARMA_INSKnI00100.xml">KnI0100</ref>. In <ref target="DHARMA_INSKnI00263.xml">KnI0263</ref>, the donor is similarly called <foreign>mahadata-</foreign>, which may be short for <persName type="human">Mahāsenadatta</persName>. Also, in both inscriptions, the ending <foreign>satikana</foreign>, as opposed to <foreign>satikena</foreign> in <ref target="DHARMA_INSKnI00100.xml">KnI0100</ref> (and probably in <ref target="DHARMA_INSKnI00099.xml">KnI0099</ref>) may be understood as standing for <foreign>satikāna</foreign>, a genitive plural of belonging.</note>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>… In the 10th year of <supplied reason="subaudible">King Gotamīputta Siri-</supplied>Yaññasātakaṇṇi, in the 5th fortnight of summer. An umbrella for the Great Shrine: the gift of Mahādatta of the Sa(ṁ)tika <supplied reason="subaudible">family</supplied>.</p>
+             <p>… In the 10th year of <supplied reason="subaudible">King</supplied> <persName type="human" subtype="coronation"><supplied reason="subaudible">Gotamīputta Siri-</supplied>Yaññasātakaṇṇi</persName>, in the 5th fortnight of summer. An umbrella for the <placeName type="builtPlace" subtype="temple">Great Shrine</placeName>: the gift of <persName type="human"><roleName type="unknown" subtype="donor">Mahādatta</roleName></persName> of the Sa(ṁ)tika <supplied reason="subaudible">family</supplied>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -121,7 +121,7 @@
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
         	        <citedRange unit="page"></citedRange>
-        	        <citedRange unit="item">256</citedRange><!-- needs to be checked -->
+        	        <citedRange unit="item">256</citedRange>
         	        <citedRange unit="plate"></citedRange>
         	        <citedRange unit="item"></citedRange>
         	        <citedRange unit="plate"></citedRange>

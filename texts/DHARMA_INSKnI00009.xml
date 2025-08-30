@@ -82,7 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>rāya puḷumāvi Ajayatasa Ujeni deti</p>
+             <p><lb n="1"/>rāya <persName type="human"><roleName type="king" subtype="donor">puḷumāvi</roleName></persName> Ajayatasa <placeName type="settlement" subtype="town">Ujeni</placeName> deti</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -90,7 +90,7 @@
              
          </div>
          <div type="translation" resp="part:vito">
-             <p>King Puḷumāvi gives Ujjain to the non-victorious one.</p>
+             <p>King <persName type="human"><roleName type="king" subtype="donor">Puḷumāvi</roleName></persName> gives <placeName type="settlement" subtype="town">Ujjain</placeName> to the non-victorious one.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

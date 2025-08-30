@@ -82,7 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>rāyā sātakaṇ<unclear>i</unclear> <supplied reason="lost">mahā</supplied><unclear>c</unclear><supplied reason="lost">e</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>yasa r<unclear>ū</unclear>pāmayāni payumāni onoyeti</p>
+             <p><lb n="1"/>rāyā <persName type="human" subtype="coronation">sātakaṇ<unclear>i</unclear></persName> <placeName type="builtPlace" subtype="temple"><supplied reason="lost">mahā</supplied><unclear>c</unclear><supplied reason="lost">e</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>yasa</placeName> r<unclear>ū</unclear>pāmayāni payumāni onoyeti</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -107,7 +107,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p>King Sātakarṇi donates silver lotus flowers to the Great Shrine.</p>
+             <p>King <persName type="human" subtype="coronation">Sātakarṇi</persName> donates silver lotus flowers to the <placeName type="builtPlace" subtype="temple">Great Shrine</placeName>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
