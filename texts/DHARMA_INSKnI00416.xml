@@ -72,6 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:fufa" when="2025-09-04">Encoding of the commentary</change>
             <change who="part:fufa" when="2025-07-12">Encoding of the translation</change>
             <change who="part:fufa" when="2025-06-01">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
@@ -148,6 +149,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>This and <ref target="DHARMA_INSKnI00417.xml">KnI0417</ref> may bear two copies of a royal edict — or two distinct edicts issued by the same king — addressed to what we argue, on terminological ground, is a non-Buddhist ascetic community.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">

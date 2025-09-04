@@ -15,13 +15,16 @@
                         <forename>Vincent</forename>
                         <surname>Tournier</surname>
                     </persName>
+                    <persName ref="part:fufa">
+                        <forename>Fu</forename>
+                        <surname>Fan</surname>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
                 <idno type="filename">DHARMA_INSKnI00417</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -72,6 +75,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:fufa" when="2025-09-04">Encoding of the apparatus and commentary</change>
             <change who="part:fufa" when="2025-05-14">Initial encoding</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
@@ -94,9 +98,14 @@
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
+                 <app loc="2">
+                     <lem>dhamāraṃṇe</lem>
+                     <note><bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/></bibl> tentatively interpreted it as <quote>a wilderness, where the Dharma is practiced.</quote> <bibl><ptr target="bib:Ollett2018_01"/><citedRange unit="page">456</citedRange></bibl> noticed the occurrence of the word <foreign xml:lang="san-Latn">dharmāraṇya</foreign> in the first act of <foreign>Abhijñānaśakuntalā</foreign>, referring to the forest where Kaṇva takes refuge: <foreign xml:lang="san-Latn">bhavati vedavid asmi pauraveṇa rājñādharmādhikāre niyuktaḥ so’ham āśramiṇām avighnakriyopalambhāya dharmāraṇyam idam āyātaḥ</foreign> (<foreign>Abhijñānaśakuntala</foreign> 1.125). While Ollett acknowledged that the ascetics mentioned in <ref target="DHARMA_INSKnI00417.xml">KnI0417</ref> <quote>may well have been Brahmins, as in Kaṇva’s hermitage</quote> <bibl><ptr target="bib:Ollett2018_01"/><citedRange unit="page">457</citedRange></bibl>, he argued that Buddhist monks could be referred to as <foreign xml:lang="san-Latn">āraṇyakas</foreign> <quote>wilderness-dwelling</quote>, and that the Buddhist monk Saṅkhalika is, in Śūdraka’s Padmaprābhṛtaka as <foreign xml:lang="san-Latn">dharmāraṇyanivāsī</foreign>, <quote>who lives in the religious wilderness.</quote> Based on this, he suggested that the edicts were likely addressed to Buddhists, although not exclusively to them, given the proximity of <ref target="DHARMA_INSKnI00417.xml">KnI0417</ref> to Kanaganahalli <foreign>stūpa</foreign>. Apart from the first act of <foreign>Abhijñānaśakuntala</foreign>, where <foreign>dharmāraṇya</foreign> was used again (1.181) as a synonym of <foreign xml:lang="san-Latn">tapovana</foreign> (1.182), it is also attested in <foreign>Mahābhārata</foreign> 14.96.13 in the sentence <foreign xml:lang="san-Latn">yajñāni deśān dharmāraṇyāni caiva</foreign>. In <foreign>Mahāvastu</foreign> 2.195, <foreign xml:lang="san-Latn">dharmāraṇya</foreign> is further used to refer to the hermitage of the (non-Buddhist) seer Vaśiṣṭha (<foreign xml:lang="san-Latn">bodhisatvo dharmāraṇyaṃ vaśiṣṭhasya ṛṣisya āśramapadaṃ praviṣṭaḥ</foreign>). The interpretation of <foreign xml:lang="san-Latn">dharmāraṇya</foreign> as a toponym in this context is ruled out, as it is replaced by its synonym <foreign xml:lang="san-Latn">tapovanam</foreign> (<foreign xml:lang="san-Latn">sarvam imaṃ tapovanam obhāsitaṃ</foreign>) in the same paragraph, which attests exactly the similar context in <foreign>Abhijñānaśakuntala</foreign>. Therefore, we can conclude that, at least until the 4th–5th century CE, the term <foreign xml:lang="san-Latn">dharmāraṇya</foreign> most commonly referred to the wilderness used as the shelter by Brahmanical ascetics. In inscriptions from Gandhāra, to be sure, several Buddhist inscriptions use terms corresponding to Skt. <foreign xml:lang="san-Latn">araṇya</foreign> to refer to a monastic residence, with a meaning close to <foreign xml:lang="san-Latn">ārāma</foreign> <bibl><ptr target="bib:Strauch2007_01"/><citedRange unit="page">80</citedRange></bibl>(Strauch 2007: 80).  Other terms in this inscription however reinforce our interpretation that the royal edict concerns a non-Buddhist community.</note>
+                 </app>
                  <app loc="3">
-                     <lem>kaṁdamūla-</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01">ka<unclear>ṁ</unclear>damula-</rdg>
+                     <lem>kaṁdamūlaphaḷa<space/>nivār<unclear>o</unclear></lem>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01">ka<unclear>ṁ</unclear>damulaphaḷanivār<unclear>o</unclear></rdg>
+                     <note>Nakanishi and von Hinüber relate the term to <foreign xml:lang="pli-Latn">kandamūlaphalabhojana</foreign> in canonical Pāli texts. More specifically, in the <foreign xml:lang="pli-Latn">Ambaṭṭhasutta</foreign> of the <foreign xml:lang="pli-Latn">Dīghanikāya</foreign>, the Buddha uses the term to describe a certain group of <foreign xml:lang="san-Latn">śramaṇa</foreign> and <foreign xml:lang="san-Latn">brāhmaṇa</foreign>, who <quote>plunge into the depths of the forest</quote> <foreign xml:lang="pli-Latn">araññe vanam ajjhogāhati</foreign> and <quote>be one of those who live only on bulbs and roots and fruitslive only on bulbs, roots and fruits</quote> (<foreign xml:lang="pli-Latn">kandamūlaphala-bhojano bhavissāmīti</foreign>) (<foreign xml:lang="pli-Latn">Dīghanikāya</foreign> III.2.3). In this context the Buddha refers to this practice as one of the four “leakages” (<foreign xml:lang="pli-Latn">apāyamukha</foreign>) for <foreign xml:lang="san-Latn">śramaṇa</foreign> and <foreign xml:lang="san-Latn">brāhmaṇa</foreign>, i.e. causes of ruin leading to one’s failure attaining the supreme perfection of wisdom and conduct, among other three: living on fruits that have fallen off themselves (<foreign xml:lang="pli-Latn">pavattaphalabhojana</foreign>), serving the fire-shrine, and entertaining other <foreign xml:lang="san-Latn">śramaṇa</foreign> and <foreign xml:lang="san-Latn">brāhmaṇa</foreign>. Thus, in this context <foreign xml:lang="pli-Latn">kandamūlaphalabhojana</foreign> is very clearly associated with non-Buddhists ascetism. A similar term <foreign xml:lang="san-Latn">kandamūlaphalāśin</foreign> is attested in <foreign>Mahābhārata</foreign> 13.14.82, to refer to ascetics (<foreign xml:lang="san-Latn">muni</foreign>) who dwell in the forest (<foreign xml:lang="san-Latn">vane nivasata</foreign>). Combining this with the interpretation of <foreign>dhamāraṃṇa</foreign>, it seems most likely that the community of ascetics (<foreign>tāpasa</foreign>) addressed in this edict are not Buddhist monks, but rather Brahmanical ascetics characterized by a distinct diet and living in the wilderness. At the moment, the fragmentary state of the inscription and <ref target="DHARMA_INSKnI00416.xml">KnI0416</ref> does not allow us to identify more precisely the identity of this group.</note>
                  </app>
                  <app loc="4">
                      <lem>tāpaso <space/> sa</lem>
@@ -109,6 +118,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
+             <p>See also <ref target="DHARMA_INSKnI00416.xml">KnI0416</ref>.</p>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
