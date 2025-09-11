@@ -154,7 +154,7 @@
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
-            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+            <p>This edition by Vincent Tournier. Encoded in XML by Fu Fan in July 2025.</p>
         	<listBibl type="primary">
         	    <bibl n="N+vH">
         	        <ptr target="bib:Nakanishi+Hinuber2014_01"/>
