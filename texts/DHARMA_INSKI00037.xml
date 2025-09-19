@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kanheri Cave 7 Second Cistern Inscription</title>
+                <title>Kanheri Cave 64 Verandah Inscription</title>
               
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
@@ -163,9 +163,12 @@
     		</listBibl>
                 
             <listBibl type="secondary">
-                 <bibl>
 
-                  </bibl>
+<bibl>   
+                     <ptr target="bib:Naik1948_01"/>
+                      <citedRange unit="page">19</citedRange>
+                    </bibl>
+    
                    
             </listBibl>
         </div>
