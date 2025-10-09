@@ -89,11 +89,16 @@
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
+             <listApp>
+                 <app loc="1">
+                     <lem>rājar<supplied reason="lost">ā</supplied>jakasa</lem>
+                     <note>We propose to interpret this epithet as a synonym of rājarāja, used as an epithet of King Gotamīputta Siri-Sātakaṇṇi in <bibl><ptr target="bib:Tsukamoto1996_01"/><citedRange unit="item">Nasik 4</citedRange><citedRange unit="line">1</citedRange></bibl>: <foreign>rājaraño gotamīputasa …</foreign></note>
+                 </app>
+             </listApp>
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-             
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of Rājarājaka. Of the Bhojaka Rājaka…</p>
+             <p>Of the <foreign>rājāka</foreign> Kha‑, the <foreign>bhojaka</foreign> of the king of kings.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

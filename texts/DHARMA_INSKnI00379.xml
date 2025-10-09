@@ -94,7 +94,7 @@
          <div type="apparatus">             
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of the <foreign>ahimarikā</foreign> Nāganikā <supplied reason="explanation"><foreign xml:lang="san-Latn">Nāgaṇṇikā</foreign></supplied>. Of the <foreign>arikā</foreign>-brother, Giridataṇaka <supplied reason="explanation"><foreign xml:lang="san-Latn">Giridattaṇṇaka</foreign></supplied>.</p>
+             <p>Of the <foreign>ahimarikā</foreign> Nāgaṇṇikā. Of the <foreign>arikā</foreign>-brother, Giridattaṇṇaka.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -134,7 +134,7 @@
         	        <citedRange unit="plate">22-A</citedRange>
         	    </bibl>
         	    <bibl>
-        	        <ptr target="AIIS"/><!-- this entry needs reedit -->
+        	        <ptr target="bib:AIIS"/><!-- this entry needs reedit -->
         	        <citedRange unit="figure">054349, 054354, 054353, 054350, 054351</citedRange>
         	    </bibl>
 			</listBibl>
