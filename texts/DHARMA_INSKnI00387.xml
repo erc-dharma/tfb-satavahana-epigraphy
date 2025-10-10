@@ -85,15 +85,19 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>ghariniya sa<seg type="aksara"><unclear>m</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost"/></p>
+             <p><lb n="1"/>ghariniya sa<unclear>m</unclear>aya</p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
-             <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-             <!-- apparatus in rtf file? -->
+             <listApp>
+                 <app loc="1">
+                     <lem>sa<unclear>m</unclear>aya</lem>
+                     <note>The second part of this word broke off, but is visible on the estampage published by <bibl><ptr target="bib:NagarajaRao1985_01"/><citedRange unit="item">11</citedRange></bibl>.</note>
+                 </app>
+             </listApp>
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of the <foreign>gahapati</foreign>-wife Sam-.</p>
+             <p>Of the <foreign xml:lang="san-Latn">gṛhapati</foreign>-wife Samā.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
