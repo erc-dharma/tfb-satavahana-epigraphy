@@ -89,6 +89,12 @@
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
+             <listApp>
+                 <app loc="1">
+                     <lem><gap reason="lost"/> <gap reason="lost" quantity="1" unit="character"/> magilasa</lem>
+                     <note>For the name compare <ref target="DHARMA_INSEIAD00617.xml">EIAD 617</ref></note>
+                 </app>
+             </listApp>
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
          </div>
          <div type="translation" resp="part:vito part:anol">
