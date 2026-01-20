@@ -85,7 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>ṭha</unclear>kārasa nāgareva<gap reason="lost"/></p>
+             <p><lb n="1"/><gap reason="lost"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>ṭha</unclear>kārasa nāgareva<unclear>sa</unclear><gap reason="lost"/></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -103,7 +103,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of the -kāra Nāgareva <supplied reason="explanation" cert="low">Nāgadeva</supplied>.</p>
+             <p>Of the <foreign>-kāra</foreign> Nāgareva <supplied reason="explanation" cert="low">Nāgadeva</supplied>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

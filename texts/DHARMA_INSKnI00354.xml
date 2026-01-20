@@ -85,17 +85,11 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p></p>
+             <p><lb n="1"/>somanami</p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-             <listApp>
-                 <app loc="">
-                     <lem></lem>
-                     <note></note>
-                 </app>
-             </listApp>
          </div>
          <div type="translation" resp="part:vito part:anol">
              <p></p>

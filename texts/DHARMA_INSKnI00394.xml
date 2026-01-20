@@ -93,7 +93,7 @@
              
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of the <foreign>gahapati</foreign>-wife Yakkhā <supplied reason="explanation"><foreign xml:lang="san-Latn">Yakṣā</foreign></supplied>.</p>
+             <p>Of the <foreign>gṛhapati</foreign>-wife Yakkhā <supplied reason="explanation"><foreign xml:lang="san-Latn">Yakṣā</foreign></supplied>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -109,7 +109,7 @@
         	        <citedRange unit="item">B204</citedRange>
         	    </bibl>
         	    <bibl>
-        	        <ptr target="Seshadri1972_01"/>
+        	        <ptr target="bib:Seshadri1972_01"/>
         	        <citedRange unit="plate">24</citedRange>
         	    </bibl>
         	    <bibl>

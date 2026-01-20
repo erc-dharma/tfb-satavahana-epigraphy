@@ -98,7 +98,7 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p>Of Sāmannikā <supplied reason="explanation"><foreign xml:lang="san-Latn">Śyāmaṇṇikā</foreign></supplied>.</p>
+             <p>Of Sāmaṇṇikā <supplied reason="explanation"><foreign xml:lang="san-Latn">Śyāmaṇṇikā</foreign></supplied>.</p>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -110,7 +110,7 @@
             <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
         	    <bibl>
-        	        <ptr target="ARIE1996-1997"/>
+        	        <ptr target="bib:ARIE1996-1997"/>
         	        <citedRange unit="item">B6</citedRange>
         	    </bibl>
         	    <bibl>
