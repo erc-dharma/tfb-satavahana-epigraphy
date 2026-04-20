@@ -89,14 +89,12 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <p>
-                 <lg n="1" met="vasantatilakā">
-                     <l n="a"><lb n="1"/>yas svarggatas sam<unclear>a</unclear>vasṛjya narendralakṣmīṁ</l>
-                     <l n="b">puttrottame sutasahasrasamā<unclear>na</unclear>sāre <space/></l>
-                     <l n="c">rājñā<unclear>ṅ ku</unclear>lakṣayakaraẖ kula <seg met="+-++"><gap reason="lost" quantity="4" unit="character"/></seg></l>
-                     <l n="d"><seg met="+-++---+--+-++"><gap reason="lost" quantity="14" unit="character"/></seg></l>
-                 </lg>
-             </p>
+             <lg n="1" met="vasantatilakā">
+                 <l n="a"><lb n="1"/>yas svarggatas sam<unclear>a</unclear>vasṛjya narendralakṣmīṁ</l>
+                 <l n="b">puttrottame sutasahasrasamā<unclear>na</unclear>sāre <space/></l>
+                 <l n="c">rājñā<unclear>ṅ ku</unclear>lakṣayakaraẖ kula <seg met="+-++"><gap reason="lost" quantity="4" unit="character"/></seg></l>
+                 <l n="d"><seg met="+-++---+--+-++"><gap reason="lost" quantity="14" unit="character"/></seg></l>
+             </lg>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
