@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -115,12 +115,12 @@
                   <app loc="1">
                      <lem><unclear>[vha]</unclear>mitaputasa</lem>
                      <rdg source="bib:Gokhale1991_01">viṇhumitasa</rdg>
-                      <note></note>
+                      <note/>
                   </app>
                   <app loc="1"> 
                      <lem>muḍapālasa</lem>
                      <rdg source="bib:Gokhale1991_01">muṇḍapālasa</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                    <app loc="2">
                      <lem>sahā</lem>
@@ -130,7 +130,7 @@
                   <app loc="2"> 
                      <lem>kuḍubiṇ<unclear>i</unclear>hi</lem>
                      <rdg source="bib:Gokhale1991_01">kuṭubinihi</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                    <app loc="2">
                      <lem>Akhaya<subst><del>vi</del><add place="overstrike">ni</add></subst><unclear>vi</unclear></lem>
@@ -160,7 +160,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

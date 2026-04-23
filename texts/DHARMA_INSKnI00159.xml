@@ -91,13 +91,13 @@
              <listApp>
                  <app loc="1">
                      <lem>dev<unclear>o</unclear>har<unclear>o</unclear>ṇa</lem>
-                     <rdg source="bib:Nakanishi+Hinuber2014_01"></rdg>
+                     <rdg source="bib:Nakanishi+Hinuber2014_01"/>
                      <note>According to <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/></bibl>, understand <foreign>devorohaṇa</foreign>.</note>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

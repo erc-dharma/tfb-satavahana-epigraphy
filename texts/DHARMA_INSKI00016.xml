@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,8 +101,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><gap reason="lost" quantity="7" unit="character"></gap> <unclear>vā</unclear>s<unclear>i</unclear>ṣṭhiputrasya śri<unclear>s</unclear>ā<unclear>takarṇ</unclear>īs<unclear>ya</unclear> dev<unclear>y</unclear>ā<unclear>ḥ</unclear> kārddamakarājavaṁśapra<supplied reason="lost">bha</supplied>v<unclear>ā</unclear>y<unclear>ā</unclear> mahākṣatraparu<unclear>dra</unclear>putry<unclear>āḥ</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
-           <lb n="2"/><gap reason="lost" quantity="6" unit="character"></gap><gap reason="illegible" quantity="1" unit="character"></gap> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"></gap> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya Amātyasya śaterakasya pānīyabhājanaṁ deyadha<unclear>r</unclear>mma<supplied reason="lost">ṃ</supplied>
+           <lb n="1"/><gap reason="lost" quantity="7" unit="character"/> <unclear>vā</unclear>s<unclear>i</unclear>ṣṭhiputrasya śri<unclear>s</unclear>ā<unclear>takarṇ</unclear>īs<unclear>ya</unclear> dev<unclear>y</unclear>ā<unclear>ḥ</unclear> kārddamakarājavaṁśapra<supplied reason="lost">bha</supplied>v<unclear>ā</unclear>y<unclear>ā</unclear> mahākṣatraparu<unclear>dra</unclear>putry<unclear>āḥ</unclear> <gap reason="lost" quantity="3" unit="character"/>
+           <lb n="2"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"/> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"/><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya Amātyasya śaterakasya pānīyabhājanaṁ deyadha<unclear>r</unclear>mma<supplied reason="lost">ṃ</supplied>
           </p> 
          </div>
           
@@ -119,13 +119,13 @@
                    </app> 
                   <app loc="1">
                      <lem>mahākṣatraparu<unclear>dra</unclear>putry<unclear>āḥ</unclear></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">mahākṣatraparu<gap reason="lost" quantity="1" unit="character"></gap>putry<unclear>āḥ</unclear></rdg>
-                     <rdg source="bib:Mirashi1981_01">mahākṣatra<unclear>pa</unclear>ru<supplied reason="lost">dra</supplied><gap reason="lost" quantity="2" unit="character"></gap>putry<unclear>āḥ</unclear></rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01">mahākṣatraparu<gap reason="lost" quantity="1" unit="character"/>putry<unclear>āḥ</unclear></rdg>
+                     <rdg source="bib:Mirashi1981_01">mahākṣatra<unclear>pa</unclear>ru<supplied reason="lost">dra</supplied><gap reason="lost" quantity="2" unit="character"/>putry<unclear>āḥ</unclear></rdg>
                      <rdg source="bib:Gokhale1991_01">mahākṣatra<unclear>pa</unclear>ru<unclear>p</unclear>utry<unclear>āḥ</unclear></rdg>
                      <note>There is clearly only one akṣara following ru and it is clear that it must be read [dra], with this being a shortened form of Rudradāman.</note>
                   </app>
                   <app loc="2">
-                      <lem><gap reason="lost" quantity="6" unit="character"></gap><gap reason="illegible" quantity="1" unit="character"></gap> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"></gap> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya</lem>                      
+                      <lem><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> sa ka rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear><gap reason="illegible" quantity="1" unit="character"/> va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"/><unclear>sya</unclear> v<unclear>i</unclear>śvasyasya</lem>                      
                        <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="14" unit="character"/> sya <gap reason="lost" quantity="3" unit="character"/>v<unclear>i</unclear>śvasyasya</rdg>
                        <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="6" unit="character"/> <unclear>syāḥ</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>vi</unclear>śvasyasya</rdg>
                       <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="8" unit="character"/>sya <gap reason="lost" quantity="3" unit="character"/> v<unclear>i</unclear>śvasyasya</rdg>
@@ -145,14 +145,14 @@
           
           
          <div type="translation" resp="part:kema">
- 	<p>A drinking vessel: the meritorious gift of Śateraka, a confidant minister/relation (<foreign>v<unclear>i</unclear>śvasyasya Amātyasya</foreign>), a <foreign><gap reason="illegible" quantity="1" unit="character"></gap>va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"></gap></foreign>, a royal adviser...of the queen of Vāsiṣṭhiputra Śri-Sātakarṇi, descended from the race of the Kārddamaka kings, daughter of Mahakṣatrapa Ru<unclear>dra</unclear>...</p>    
+ 	<p>A drinking vessel: the meritorious gift of Śateraka, a confidant minister/relation (<foreign>v<unclear>i</unclear>śvasyasya Amātyasya</foreign>), a <foreign><gap reason="illegible" quantity="1" unit="character"/>va<unclear>ś</unclear>ya<gap reason="illegible" quantity="1" unit="character"/></foreign>, a royal adviser...of the queen of Vāsiṣṭhiputra Śri-Sātakarṇi, descended from the race of the Kārddamaka kings, daughter of Mahakṣatrapa Ru<unclear>dra</unclear>...</p>    
          </div>
           
           
           
           
          <div type="commentary">
-            <p>The lacuna from the end of l. 1 up to l. 2 <foreign><gap reason="illegible" quantity="1" unit="character"></gap> sa ka</foreign> likely consisted of the name of the Queen and a word ending in <foreign>ka</foreign> that is in compound with the following rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear>. B+B state that “As the connection between the royal lady, mentioned in l. 1, and the minister in l. 2, is not clear, I can do no more than translate the terms literally. It seems, however, probable that the minister executed the work at the command of the queen.” It is rather more likely that this is the donation of the amātya who is listing his relationship with the queen, as is also the interpretation of Mirashi.</p>
+            <p>The lacuna from the end of l. 1 up to l. 2 <foreign><gap reason="illegible" quantity="1" unit="character"/> sa ka</foreign> likely consisted of the name of the Queen and a word ending in <foreign>ka</foreign> that is in compound with the following rājama<unclear>tr</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>sya</unclear>. B+B state that “As the connection between the royal lady, mentioned in l. 1, and the minister in l. 2, is not clear, I can do no more than translate the terms literally. It seems, however, probable that the minister executed the work at the command of the queen.” It is rather more likely that this is the donation of the amātya who is listing his relationship with the queen, as is also the interpretation of Mirashi.</p>
          </div>
           
           
@@ -160,7 +160,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		  <bibl n="B+B">

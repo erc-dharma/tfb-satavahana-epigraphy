@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,7 +101,7 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-            <lb n="1"/>therāṇaṁ Āyya<gap reason="lost" unit="character" quantity="4"></gap>
+            <lb n="1"/>therāṇaṁ Āyya<gap reason="lost" unit="character" quantity="4"/>
             <lb n="2"/>Arahantāṇaṁ <supplied reason="lost">thubhaṃ</supplied>
           </p> 
          </div>
@@ -113,7 +113,7 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>Āyya<gap reason="lost" unit="character" quantity="4"></gap></lem>
+                     <lem>Āyya<gap reason="lost" unit="character" quantity="4"/></lem>
                      <rdg source="bib:Gokhale1991_01">Āyya</rdg>
                       <note>There are certainly 3-4 akṣaras missing which would have been the monk's name</note>
                   </app>
@@ -140,7 +140,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			

@@ -90,7 +90,7 @@
                  <app loc="1">
                      <lem>se<unclear>r</unclear><supplied reason="lost">i</supplied>v<supplied reason="lost">ā</supplied>y<supplied reason="lost">i</supplied><unclear>k</unclear><supplied reason="lost">ā</supplied>ya</lem>
                      <rdg source="bib:Poonacha2011_01">se<unclear>ṭi</unclear>vayikāya</rdg>
-                     <note>Cf. <ref target="DHARMA_INSKnI00062.xml">KnI0062</ref>, <ref target="DHARMA_INSKnI00084.xml">KnI0084</ref>, <ref target="DHARMA_INSKnI00294.xml">KnI0294</ref>, and <bibl><ptr target="bib:Poonacha2011_01"/><citedRange unit="item">155</citedRange></bibl>, all reading <foreign>seḍivayikāya</foreign>. The monastic donor may in fact be the same as the one in <ref target="DHARMA_INSKnI00220.xml">KnI0220</ref>. On the intervocalic development <foreign>ḍ</foreign> > <foreign>r</foreign>, see ÄMÜ § 201<!-- recheck reference -->.</note>
+                     <note>Cf. <ref target="DHARMA_INSKnI00062.xml">KnI0062</ref>, <ref target="DHARMA_INSKnI00084.xml">KnI0084</ref>, <ref target="DHARMA_INSKnI00294.xml">KnI0294</ref>, and <bibl><ptr target="bib:Poonacha2011_01"/><citedRange unit="item">155</citedRange></bibl>, all reading <foreign>seḍivayikāya</foreign>. The monastic donor may in fact be the same as the one in <ref target="DHARMA_INSKnI00220.xml">KnI0220</ref>. On the intervocalic development <foreign>ḍ</foreign> &gt; <foreign>r</foreign>, see ÄMÜ § 201<!-- recheck reference -->.</note>
                  </app>
                  <app loc="1">
                      <lem>dānā</lem>
@@ -99,11 +99,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -112,15 +112,15 @@
         	<listBibl type="primary">
         	    <bibl n="P">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">193</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

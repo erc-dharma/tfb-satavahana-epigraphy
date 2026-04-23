@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,9 +102,9 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>ther<supplied reason="lost">āṇaṁ</supplied><gap reason="lost" quantity="2" unit="character"></gap>
-           <lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap><supplied reason="lost">Ara</supplied>
-           <lb break ="no" n="3"/>hantāṇaṁ thūbhaṁ   
+           <lb n="1"/>ther<supplied reason="lost">āṇaṁ</supplied><gap reason="lost" quantity="2" unit="character"/>
+           <lb n="2"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">Ara</supplied>
+           <lb break="no" n="3"/>hantāṇaṁ thūbhaṁ   
           </p> 
          </div>
           
@@ -120,7 +120,7 @@
                   </app>
                   <app loc="2">
                       <lem><supplied reason="lost">Ara</supplied>
-           <lb break ="no" n="3"/>hantāṇaṁ thūbhaṁ</lem>
+           <lb break="no" n="3"/>hantāṇaṁ thūbhaṁ</lem>
                    <rdg source="bib:Gokhale1991_01">hantāṇaṃ thubhaṃ</rdg>      
                   </app> 
                </listApp>
@@ -146,7 +146,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

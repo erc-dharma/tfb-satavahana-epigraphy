@@ -82,10 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><unclear>s</unclear><supplied reason="lost">i</supplied>dhaṁ <space quantity="1" unit="character"/> therāna bhayatabudhatātānaṁ Atavāsisa <unclear>bha</unclear>yatasihasa deyadhama pa<supplied reason="lost">yapaṭo</supplied><lb 
-                 n="2"/>mahācetiE <space quantity="1" unit="character"/> saha AcāriyaUpajhaEhi <space quantity="1" unit="character"/> saha <space quantity="1" unit="character"/> mātāpitahi <space quantity="1" unit="character"/> saha va Ate<unclear>v</unclear>ā<lb 
-                 n="3" break="no"/>sikehi <space quantity="1" unit="character"/> lo<unclear>takhā</unclear>va<unclear>h</unclear><seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg> <gap reason="lost" quantity="1" unit="character"/>
+             <p><lb n="1"/><unclear>s</unclear><supplied reason="lost">i</supplied>dhaṁ <space quantity="1" unit="character"/> therāna bhayatabudhatātānaṁ Atavāsisa <unclear>bha</unclear>yatasihasa deyadhama pa<supplied reason="lost">yapaṭo</supplied><lb n="2"/>mahācetiE <space quantity="1" unit="character"/> saha AcāriyaUpajhaEhi <space quantity="1" unit="character"/> saha <space quantity="1" unit="character"/> mātāpitahi <space quantity="1" unit="character"/> saha va Ate<unclear>v</unclear>ā<lb n="3" break="no"/>sikehi <space quantity="1" unit="character"/> lo<unclear>takhā</unclear>va<unclear>h</unclear><seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg> <gap reason="lost" quantity="1" unit="character"/>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>

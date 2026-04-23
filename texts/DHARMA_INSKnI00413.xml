@@ -94,7 +94,7 @@
                  <app loc="1">
                      <lem><gap reason="illegible" quantity="1" unit="character"/> <unclear>ṭha</unclear>kārasa</lem>
                      <rdg source="bib:Sarma+VaraPrasadaRao1993_01">ṭhakadasa</rdg>
-                     <note></note>
+                     <note/>
                  </app>
                  <app loc="1">
                      <lem>nāgareva</lem>
@@ -107,7 +107,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -136,7 +136,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

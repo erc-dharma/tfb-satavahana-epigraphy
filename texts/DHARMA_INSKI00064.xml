@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -125,7 +125,7 @@
                   </app>
                   <app loc="3">
                       <lem><unclear>thū</unclear>bha<supplied reason="lost">ṃ</supplied></lem>
-                   <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"></gap>ṇaṃ thu(<supplied reason="lost">bha</supplied></rdg>      
+                   <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"/>ṇaṃ thu(<supplied reason="lost">bha</supplied></rdg>      
                   </app> 
                </listApp>
          </div>
@@ -150,7 +150,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

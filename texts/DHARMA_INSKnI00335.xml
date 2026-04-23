@@ -85,14 +85,14 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>banikasa rayā<seg type="aksara"><unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg></p>
+             <p><lb n="1"/>banikasa rayā<seg type="aksara"><unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem>rayā<seg type="aksara"><unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg></lem>
+                     <lem>rayā<seg type="aksara"><unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg></lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">rayana<supplied reason="lost">sa</supplied></rdg>
                  </app>
              </listApp>
@@ -102,7 +102,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -117,7 +117,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

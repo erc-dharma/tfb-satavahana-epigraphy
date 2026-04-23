@@ -98,11 +98,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -115,7 +115,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

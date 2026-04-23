@@ -120,7 +120,7 @@
         	        <citedRange unit="item">51</citedRange>
         	        <citedRange unit="plate">CXXXIV</citedRange>
         	        <citedRange unit="item">5</citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

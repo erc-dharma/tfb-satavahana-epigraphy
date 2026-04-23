@@ -100,10 +100,10 @@
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in July 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

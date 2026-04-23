@@ -85,7 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>i</seg>ya samāya <gap reason="lost"/></p>
+             <p><lb n="1"/><gap reason="lost"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>ya samāya <gap reason="lost"/></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -96,17 +96,17 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

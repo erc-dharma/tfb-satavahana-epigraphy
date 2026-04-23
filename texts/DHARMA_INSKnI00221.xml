@@ -81,9 +81,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><seg type="aksara">p<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg></seg>tiga<unclear>ṁ</unclear>bhigāya bhikuniya veliya<lb 
-                 n="2" break="no"/>yāy<unclear>a</unclear> pāyako sasujiko d<unclear>e</unclear>yadhaṁma
+             <p><lb n="1"/><seg type="aksara">p<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg></seg>tiga<unclear>ṁ</unclear>bhigāya bhikuniya veliya<lb n="2" break="no"/>yāy<unclear>a</unclear> pāyako sasujiko d<unclear>e</unclear>yadhaṁma
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -115,11 +113,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -128,15 +126,15 @@
         	<listBibl type="primary">
         	    <bibl n="P">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">156</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

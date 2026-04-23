@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -103,7 +103,7 @@
            <p>  
             <lb n="1"/>therāṇaṁ Āryadhammase
             <lb break="no" n="2"/>nāṇaṁ Arahantāṇaṁ ga
-            <lb break="no" n="3"/>ṇācariyāṇaṁ thūbhaṁ <g type="dash"></g>
+            <lb break="no" n="3"/>ṇācariyāṇaṁ thūbhaṁ <g ref="sym:dash" type="punctuation">.</g>
           </p> 
          </div>
           
@@ -120,7 +120,7 @@
                   <app loc="2"> 
                      <lem>Arahantāṇaṁ</lem>
                      <rdg source="bib:Gokhale1991_01">Arahantaṇaṁ</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                   <app loc="3">
                   <lem>ga<lb break="no" n="3"/>ṇācariyāṇaṁ</lem> 
@@ -149,7 +149,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

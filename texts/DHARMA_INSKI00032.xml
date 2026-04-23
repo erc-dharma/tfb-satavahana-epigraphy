@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,8 +101,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-            <lb n="1"/><unclear>s</unclear><supplied reason="lost">o</supplied><unclear>para</unclear><space type="defect"></space><unclear>ka</unclear>sa <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ga</supplied>
-            <lb n="2" break="no"/><supplied reason="lost">ha</supplied><space type="defect"></space>pa<space type="defect"></space>tisa sethisa <unclear>p</unclear>u <gap reason="lost" quantity="1" unit="character"/>
+            <lb n="1"/><unclear>s</unclear><supplied reason="lost">o</supplied><unclear>para</unclear><space type="defect"/><unclear>ka</unclear>sa <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ga</supplied>
+            <lb n="2" break="no"/><supplied reason="lost">ha</supplied><space type="defect"/>pa<space type="defect"/>tisa sethisa <unclear>p</unclear>u <gap reason="lost" quantity="1" unit="character"/>
             <lb n="3" break="no"/>ṇakasa <space type="defect"/> talāke deyadhaṃma
           </p> 
          </div>
@@ -114,12 +114,12 @@
            
                <listApp>
                   <app loc="1">
-                     <lem><unclear>s</unclear><supplied reason="lost">o</supplied><unclear>para</unclear><space type="defect"></space><unclear>ka</unclear>sa <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ga</supplied></lem>
+                     <lem><unclear>s</unclear><supplied reason="lost">o</supplied><unclear>para</unclear><space type="defect"/><unclear>ka</unclear>sa <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ga</supplied></lem>
                      <rdg source="bib:Gokhale1991_01"><gap reason="illegible" quantity="5" unit="character"/></rdg>
                      <rdg source="bib:Tsukamoto1996-2003_01"><gap reason="illegible" quantity="10" unit="character"/></rdg>
                   </app>
                   <app loc="2">
-                     <lem><supplied reason="lost">ha</supplied><space type="defect"></space>pa<space type="defect"></space>tisa sethisa <unclear>p</unclear>u <gap reason="lost" quantity="1" unit="character"/></lem>
+                     <lem><supplied reason="lost">ha</supplied><space type="defect"/>pa<space type="defect"/>tisa sethisa <unclear>p</unclear>u <gap reason="lost" quantity="1" unit="character"/></lem>
                      <rdg source="bib:Gokhale1991_01">patisa sethisa pu</rdg>
                      <rdg source="bib:Tsukamoto1996-2003_01">patisa sethisa pu</rdg> 
                   </app> 
@@ -131,14 +131,14 @@
           
           
          <div type="translation">
- 	<p>A tank/pond: the meritorious gift of <unclear>P</unclear>u<gap reason="lost" quantity="1" unit="character"></gap>ṇaka, a <foreign>seṭhi</foreign> and householder of Sopāra….</p>
+ 	<p>A tank/pond: the meritorious gift of <unclear>P</unclear>u<gap reason="lost" quantity="1" unit="character"/>ṇaka, a <foreign>seṭhi</foreign> and householder of Sopāra….</p>
          </div>
           
           
           
           
          <div type="commentary">
-             <p></p>
+             <p/>
          </div>
           
           
@@ -146,7 +146,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			

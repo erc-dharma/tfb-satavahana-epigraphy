@@ -89,11 +89,11 @@
              
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -102,15 +102,15 @@
         	<listBibl type="primary">
         	    <bibl n="P">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">168</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

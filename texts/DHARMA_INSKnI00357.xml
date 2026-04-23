@@ -85,10 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>golāya <gap reason="lost"/><lb 
-                 n="2"/>sāmakasu<gap reason="lost"/><lb 
-                 n="3"/>dhamāya <gap reason="lost"/>
+             <p><lb n="1"/>golāya <gap reason="lost"/><lb n="2"/>sāmakasu<gap reason="lost"/><lb n="3"/>dhamāya <gap reason="lost"/>
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -100,17 +97,17 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,7 +104,7 @@
            <p>  
            <lb n="1"/><supplied reason="lost">sidhaṃ kali</supplied><unclear>A</unclear>ṇikāya bhoIgiy<unclear>ā</unclear>A
            <lb n="2"/><supplied reason="lost">pava</supplied><unclear>I</unclear>takāya dāmilāya leṇaṁ 
-           <lb n="3"/><supplied reason="lost">po</supplied><unclear>ḍhi</unclear> ca kaṇhasele deyadhamaṁ<g type="svastikaLeft"></g>    
+           <lb n="3"/><supplied reason="lost">po</supplied><unclear>ḍhi</unclear> ca kaṇhasele deyadhamaṁ<g ref="sym:san-svastika-left" type="symbol">*</g>    
           </p> 
          </div>
           
@@ -144,7 +144,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

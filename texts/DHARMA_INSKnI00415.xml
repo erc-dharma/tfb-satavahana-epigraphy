@@ -81,9 +81,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> nasa <space/> Anubhūtativagapha<unclear>lo</unclear><gap reason="lost"/><lb 
-                 n="2"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> kali <space/> Anamosi vasi<gap reason="lost"/>
+             <p><lb n="1"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> nasa <space/> Anubhūtativagapha<unclear>lo</unclear><gap reason="lost"/><lb n="2"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> kali <space/> Anamosi vasi<gap reason="lost"/>
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -97,21 +95,21 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition by Vincent Tournier. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

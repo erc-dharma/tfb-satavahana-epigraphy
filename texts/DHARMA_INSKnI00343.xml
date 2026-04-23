@@ -85,9 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <p><lb 
-                 n="1"/>svasti śrīA<unclear>c</unclear>usu <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg><gap reason="lost"/><lb 
-                 n="2"/><gap reason="lost" quantity="2" unit="character"/> ḍi <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/><gap reason="lost"/>
+             <p><lb n="1"/>svasti śrīA<unclear>c</unclear>usu <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg><gap reason="lost"/><lb n="2"/><gap reason="lost" quantity="2" unit="character"/> ḍi <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/><gap reason="lost"/>
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -96,11 +94,11 @@
              
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -113,7 +111,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

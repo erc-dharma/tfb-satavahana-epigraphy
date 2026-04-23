@@ -81,24 +81,24 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>dhamarakhitāya misinaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>i</seg> <gap reason="illegible" quantity="1" unit="character"/> bhagin<unclear>i</unclear><gap reason="lost"/></p>
+             <p><lb n="1"/>dhamarakhitāya misinaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <gap reason="illegible" quantity="1" unit="character"/> bhagin<unclear>i</unclear><gap reason="lost"/></p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem>misinaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>i</seg></lem>
+                     <lem>misinaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg></lem>
                      <rdg source="bib:Poonacha2011_01">misina <gap reason="lost" unit="character" quantity="1"/></rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -107,15 +107,15 @@
         	<listBibl type="primary">
         	    <bibl n="P">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">167</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

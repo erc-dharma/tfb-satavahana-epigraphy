@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,16 +102,16 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>sidha kāliya<supplied reason="lost">ṇavaṭha</supplied><unclear>va</unclear>sa <unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa s<unclear>e</unclear>vamitasa putasa nega 
-           <lb n="2"/>masa dhama <gap reason="lost" quantity="7" unit="character"></gap> budhakeṇa saha ca sa<space type="defect"/>veṇa parīvā
+           <lb n="1"/>sidha kāliya<supplied reason="lost">ṇavaṭha</supplied><unclear>va</unclear>sa <unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa s<unclear>e</unclear>vamitasa putasa nega 
+           <lb n="2"/>masa dhama <gap reason="lost" quantity="7" unit="character"/> budhakeṇa saha ca sa<space type="defect"/>veṇa parīvā
            <lb break="no" n="3"/>reṇa bava<supplied reason="lost">t</supplied><unclear>e</unclear> <supplied reason="lost">kaṇha</supplied><unclear>s</unclear><supplied reason="lost">e</supplied>le leṇaṁ <space/> pāṇiyapoḍhi Āsaṇaṃpeḍhikā
            <lb break="no" n="4"/>yo pādho <unclear>Ā</unclear><supplied reason="lost">saṇo</supplied> cakamo ca deyadhaṃmaṃ cātudise bhikhusa<unclear>ṃ</unclear>ghe pa
            <lb break="no" n="5"/>tiṭhāpita <unclear>m</unclear><supplied reason="lost">āt</supplied>āpitāro Udisa sāvasatuhitasughatha<unclear>ṃ</unclear>
            <lb n="6"/>Etha ca <space/> Akhayanivī ca datā
            <lb n="7"/>Eto ca <space/> vāsārate vasaṃtasa bhikhuṇo cīvarikaṃ kāhāpaṇā solasa pāte la
-           <lb break = "no" n="8"/>sa Upāha<add place="below">ṇā</add>ṇaṁ ca kahāpaṇo Utukāle <space type="defect"/> <unclear>ca</unclear> <space type="defect"/>  paḍiko māse vasaṁtasa dā
+           <lb break="no" n="8"/>sa Upāha<add place="below">ṇā</add>ṇaṁ ca kahāpaṇo Utukāle <space type="defect"/> <unclear>ca</unclear> <space type="defect"/>  paḍiko māse vasaṁtasa dā
            <lb break="no" n="9"/> tavo seseṇa leṇaṃ paḍiAgitavaṃ <unclear>kāl</unclear><supplied reason="lost">i</supplied>yaṇe ca vihāre gaṃdhārikābha<unclear>ṭhī</unclear>
-           <lb break ="no" n="10"/>yaṁ b<unclear>i</unclear>gabhaṁ bhojaṇacātusālaṃ ca deyadhaṃmaṃ Etes<unclear>a</unclear> pi Akh<unclear>a</unclear><supplied reason="omitted">ya</supplied>nivī datā mukuḍasiva
+           <lb break="no" n="10"/>yaṁ b<unclear>i</unclear>gabhaṁ bhojaṇacātusālaṃ ca deyadhaṃmaṃ Etes<unclear>a</unclear> pi Akh<unclear>a</unclear><supplied reason="omitted">ya</supplied>nivī datā mukuḍasiva
            <lb break="no" n="11"/>yi<space type="defect"/>yaṁ nivesaṇaṃ Eto be bhākā bigabhasa bhākā cāt<unclear>u</unclear>sālasa vihāra dasakāni
 cīvar<unclear>i</unclear>    
            <lb break="no" n="12"/>kāni cāt<unclear>u</unclear>s<unclear>ā</unclear>la ca <unclear>bhā</unclear>ka    
@@ -125,9 +125,9 @@ cīvar<unclear>i</unclear>
            
                <listApp>
                   <app loc="1">
-                     <lem>sidha kāliya<supplied reason="lost">ṇavaṭha</supplied><unclear>va</unclear>sa <unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">s<unclear>i</unclear>dha<unclear>ṃ</unclear> kāliya<unclear>ña</unclear> <gap reason="lost" quantity="2" unit="character"></gap> sa <gap reason="illegible" quantity="3" unit="character"></gap> ṇa</rdg>
-                     <rdg source="bib:Gokhale1991_01">s<unclear>i</unclear>dha<unclear>ṃ</unclear> kāliya<unclear>ña</unclear> <gap reason="lost" quantity="3" unit="character"></gap> sa <gap reason="illegible" quantity="2" unit="character"></gap> ṇa</rdg>
+                     <lem>sidha kāliya<supplied reason="lost">ṇavaṭha</supplied><unclear>va</unclear>sa <unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa</lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">s<unclear>i</unclear>dha<unclear>ṃ</unclear> kāliya<unclear>ña</unclear> <gap reason="lost" quantity="2" unit="character"/> sa <gap reason="illegible" quantity="3" unit="character"/> ṇa</rdg>
+                     <rdg source="bib:Gokhale1991_01">s<unclear>i</unclear>dha<unclear>ṃ</unclear> kāliya<unclear>ña</unclear> <gap reason="lost" quantity="3" unit="character"/> sa <gap reason="illegible" quantity="2" unit="character"/> ṇa</rdg>
                   </app>
                
                   <app loc="1">
@@ -137,20 +137,20 @@ cīvar<unclear>i</unclear>
                   </app>
           
                   <app loc="2">
-                     <lem>dhama <gap reason="lost" quantity="7" unit="character"></gap> budhakeṇa</lem>
+                     <lem>dhama <gap reason="lost" quantity="7" unit="character"/> budhakeṇa</lem>
                      <note>B+B counts 8 missing akṣaras here, G counts 6.</note>
                   </app>
                
                   <app loc="3">
                      <lem>bava<supplied reason="lost">t</supplied><unclear>e</unclear> <supplied reason="lost">kaṇha</supplied><unclear>s</unclear><supplied reason="lost">e</supplied>le leṇaṁ</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">bavā <gap reason="lost" quantity="4" unit="character"></gap> la<unclear>ya</unclear>naṁ</rdg>
-                     <rdg source="bib:Gokhale1991_01">bavā <gap reason="lost" quantity="6" unit="character"></gap> la<unclear>ya</unclear>naṁ</rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01">bavā <gap reason="lost" quantity="4" unit="character"/> la<unclear>ya</unclear>naṁ</rdg>
+                     <rdg source="bib:Gokhale1991_01">bavā <gap reason="lost" quantity="6" unit="character"/> la<unclear>ya</unclear>naṁ</rdg>
                   </app>
                
                   <app loc="4">
                      <lem>pādho <unclear>Ā</unclear><supplied reason="lost">saṇo</supplied> cakamo</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">pidho A <gap reason="lost" quantity="3" unit="character"></gap> ca kamo</rdg>
-                     <rdg source="bib:Gokhale1991_01">pīḍho A <gap reason="lost" quantity="5" unit="character"></gap> cakamo</rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01">pidho A <gap reason="lost" quantity="3" unit="character"/> ca kamo</rdg>
+                     <rdg source="bib:Gokhale1991_01">pīḍho A <gap reason="lost" quantity="5" unit="character"/> cakamo</rdg>
                   </app>
                
                   <app loc="4">
@@ -164,7 +164,7 @@ cīvar<unclear>i</unclear>
                      <rdg source="bib:Gokhale1991_01">Etha</rdg>
                   </app>
                    <app loc="7">
-                     <lem>la<lb break = "no" n="8"/>sa</lem>
+                     <lem>la<lb break="no" n="8"/>sa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">l<unclear>e</unclear>sa</rdg>
                      <rdg source="bib:Gokhale1991_01">l<unclear>e</unclear>sa</rdg>
                   </app>
@@ -178,7 +178,7 @@ cīvar<unclear>i</unclear>
                      <note>The first akṣara has no discernible trace of a horizontal line and thus resembles a <foreign>rā-</foreign> and the <foreign>-li-</foreign> has an unusual shape, but this all seems to be due to the irregularity of the stone.</note>
                   </app>
                    <app loc="9">
-                     <lem>gaṃdhārikābha<unclear>ṭhī</unclear><lb break ="no" n="10"/>yaṁ</lem>
+                     <lem>gaṃdhārikābha<unclear>ṭhī</unclear><lb break="no" n="10"/>yaṁ</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">gaṃdhārikābhamiyaṃ</rdg>
                      <rdg source="bib:Gokhale1991_01">gaṃdhārikābhamiyaṃ</rdg>
                   </app>  
@@ -194,7 +194,7 @@ cīvar<unclear>i</unclear>
           
           
          <div type="translation">
- 	<p n="1-4">Success! On mount Kaṇhasela, a cave, drinking cistern, plinths for sitting, a path, a seat, and an ambulatory, the meritorious gift of the market councillor Dhama…, son of Sevamita amongst the <foreign><unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>a</unclear>s</foreign>…[and] resident of Kalyan. [Together] with …buddhaka and together with the entire retinue.</p>
+ 	<p n="1-4">Success! On mount Kaṇhasela, a cave, drinking cistern, plinths for sitting, a path, a seat, and an ambulatory, the meritorious gift of the market councillor Dhama…, son of Sevamita amongst the <foreign><unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>a</unclear>s</foreign>…[and] resident of Kalyan. [Together] with …buddhaka and together with the entire retinue.</p>
     <p n="4-6">[This was] established for the universal order of monks, on behalf of [his] parents, for the purpose of the welfare and happiness of all beings. And with respect to this an <foreign>akṣayanīvī</foreign> is given.</p>
     <p n="7-9">And from this [permanent endowment], for the monk who resides during the rains, sixteen <foreign>kahāpaṇas</foreign> as cloth money and a <foreign>kahāpaṇa</foreign> for shoes and for <foreign>lasa</foreign> in the alms bowl is given. And a <foreign>paḍika</foreign> per month is to be given to the dweller in the dry season. With the remainder the cave is to be maintained.</p>
     <p n="9-11">And in the <foreign>Gaṃdhārikābhaṭhī vihāra</foreign> in Kalyan two cells and a quadrangular dining-hall are a meritorious gift. And for these an <foreign>akṣayanīvī</foreign> is given, a dwelling in Mukuḍasivayi.</p>     
@@ -207,7 +207,7 @@ cīvar<unclear>i</unclear>
          <div type="commentary">
            <p>B+B and G make no note of the spaces throughout the inscription.</p> 
            <p>The inscription is physically divided into two distinct blocks separated by an empty line, the first running from ll. 1-6 and the second from ll. 7-12. The former contains the record of the donation of the cave and an accompanying akṣayanīvī while the latter contains the details of the disbursement of accrued funds from the akṣayanīvī and, beginning in l. 9, a record of an apparently unrelated donation of architecture at a different location in Kalyan with an accompanying akṣayanīvī. It is possible that the second donation was added simply to make use of the available space.</p>  
-           <p n="1"><foreign><unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa</foreign> This is most likely some form of family or corporate name, as indicated by the genitive plural.</p> 
+           <p n="1"><foreign><unclear>dha</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>]y<unclear>ā</unclear>ṇa</foreign> This is most likely some form of family or corporate name, as indicated by the genitive plural.</p> 
            <p n="12"><foreign>kāni cāt<unclear>u</unclear>s<unclear>ā</unclear>la ca <unclear>bhā</unclear>ka</foreign> This line is engraved to the left of the beginning of line 11 on an area of unprepared stone due to a lack of space.</p>  
          </div>
           
@@ -216,7 +216,7 @@ cīvar<unclear>i</unclear>
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,8 +102,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>therāṇaṁ <gap reason="lost" quantity="1" unit="character"></gap> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye
-           <lb break="no" n="2"/><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"></space><space type="defect"/> th<unclear>ūbhaṁ</unclear>
+           <lb n="1"/>therāṇaṁ <gap reason="lost" quantity="1" unit="character"/> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye
+           <lb break="no" n="2"/><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"/><space type="defect"/> th<unclear>ūbhaṁ</unclear>
           </p> 
          </div>
           
@@ -114,11 +114,11 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>therāṇaṁ <gap reason="lost" quantity="1" unit="character"></gap> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye</lem>
+                     <lem>therāṇaṁ <gap reason="lost" quantity="1" unit="character"/> <unclear>k</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>t</unclear>īye</lem>
                      <rdg source="bib:Gokhale1991_01">Āyyavahiṇṇāgrāṇaṁ</rdg>
                   </app>
                   <app loc="2">
-                      <lem><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"></space><space type="defect"/> th<unclear>ūbhaṁ</unclear></lem>
+                      <lem><unclear>Ara</unclear>ha<unclear>ṃ</unclear>tāṇaṁ <space type="defect"/><space type="defect"/> th<unclear>ūbhaṁ</unclear></lem>
                    <rdg source="bib:Gokhale1991_01">Arahantaṇaṃ</rdg>      
                   </app>
                </listApp>
@@ -144,7 +144,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

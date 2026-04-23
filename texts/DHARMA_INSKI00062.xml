@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,7 +102,7 @@
          <div type="edition" xml:lang="pra-Latn">
            <p>  
             <lb n="1"/>therāṇaṁ <space/> Ayya
-<lb break="no" n="2"/>khemakarāṇaṁ thūbhaṁ <g type="ddanda"></g><g type="ddanda"></g>
+<lb break="no" n="2"/>khemakarāṇaṁ thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g>
           </p> 
          </div>
           
@@ -118,9 +118,9 @@
                      <rdg source="bib:Gokhale1991_01">Āyyakhemakāṇaṁ </rdg>
                   </app>
                   <app loc="2"> 
-                     <lem>thūbhaṁ <g type="ddanda"></g><g type="ddanda"></g></lem>
+                     <lem>thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g></lem>
                      <rdg source="bib:Gokhale1991_01">thubhaṁ</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                </listApp>
          </div>
@@ -145,7 +145,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
 

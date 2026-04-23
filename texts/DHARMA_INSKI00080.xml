@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,9 +102,9 @@
          <div type="edition" xml:lang="pra-Latn">
            <p>  
            <lb n="1"/>bahusuvaṇakasa sivataṇasa bālīk<unclear>o</unclear> jamādevik<unclear>a</unclear>sa
-               <lb n="2"/>pavaItik<unclear>a</unclear>jamaṇasa ṇa <gap reason="illegible" quantity="3" unit="character"></gap> p<unclear>ā</unclear>ṇ<unclear>i</unclear>yap<unclear>o</unclear>ḍhi <supplied reason="lost">deyadha</supplied>ma
-               <lb n="3"/>saha <gap reason="illegible" quantity="1" unit="character"></gap> pa ra <gap reason="illegible" quantity="2" unit="character"></gap>ma<gap reason="lost" quantity="4" unit="character"></gap><gap reason="illegible" quantity="4" unit="character"></gap> <gap reason="lost" quantity="1" unit="character"></gap><unclear>sa</unclear><gap reason="illegible" quantity="1" unit="character"></gap>
-           <lb n="4"/><unclear>ya</unclear> sa ma <gap reason="illegible" quantity="1" unit="character"></gap><unclear>pa va ṇa pu</unclear><gap reason="illegible" quantity="1" unit="character"></gap><gap reason="lost" quantity="12" unit="character"></gap>
+               <lb n="2"/>pavaItik<unclear>a</unclear>jamaṇasa ṇa <gap reason="illegible" quantity="3" unit="character"/> p<unclear>ā</unclear>ṇ<unclear>i</unclear>yap<unclear>o</unclear>ḍhi <supplied reason="lost">deyadha</supplied>ma
+               <lb n="3"/>saha <gap reason="illegible" quantity="1" unit="character"/> pa ra <gap reason="illegible" quantity="2" unit="character"/>ma<gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><unclear>sa</unclear><gap reason="illegible" quantity="1" unit="character"/>
+           <lb n="4"/><unclear>ya</unclear> sa ma <gap reason="illegible" quantity="1" unit="character"/><unclear>pa va ṇa pu</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="12" unit="character"/>
           </p> 
          </div>
           
@@ -120,17 +120,17 @@
                      <note>There are at least two akṣaras before the <foreign>suvaṇa</foreign>, these are seen in both the eyecopy and photographs. The most likely reading is <foreign>bahu-</foreign>, this can be compared with Skt. <foreign>bahusuvarṇaka</foreign> “costing or possessing much gold”; cf. EIAD 53.2-3 <foreign>agniṣṭo<supplied reason="omitted">ḥ</supplied>mavājaveyāśvamedhabahusuvarṇṇakayājinaḥ</foreign></note> 
                   </app>
                   <app loc="2"> 
-                     <lem>pavaItik<unclear>a</unclear>jamaṇasa ṇa <gap reason="illegible" quantity="3" unit="character"></gap> p<unclear>ā</unclear>ṇ<unclear>i</unclear>yap<unclear>o</unclear>ḍhi <supplied reason="lost">deyadha</supplied>ma</lem>
-                     <rdg source="bib:Gokhale1991_01">pavaItikā jamanasa <gap reason="lost" quantity="3" unit="character"></gap> pāniyapoḍhi <supplied reason="lost">deyadhama</supplied></rdg> 
-                     <note></note> 
+                     <lem>pavaItik<unclear>a</unclear>jamaṇasa ṇa <gap reason="illegible" quantity="3" unit="character"/> p<unclear>ā</unclear>ṇ<unclear>i</unclear>yap<unclear>o</unclear>ḍhi <supplied reason="lost">deyadha</supplied>ma</lem>
+                     <rdg source="bib:Gokhale1991_01">pavaItikā jamanasa <gap reason="lost" quantity="3" unit="character"/> pāniyapoḍhi <supplied reason="lost">deyadhama</supplied></rdg> 
+                     <note/> 
                   </app>
                   <app loc="3">
-                     <lem>saha <gap reason="illegible" quantity="1" unit="character"></gap> pa ra <gap reason="illegible" quantity="2" unit="character"></gap>ma<gap reason="lost" quantity="4" unit="character"></gap><gap reason="illegible" quantity="4" unit="character"></gap> <gap reason="lost" quantity="1" unit="character"></gap><unclear>sa</unclear><gap reason="illegible" quantity="1" unit="character"></gap></lem>
-                     <rdg source="bib:Gokhale1991_01">saha para <unclear>ri</unclear> Ium<gap reason="lost" quantity="3" unit="character"></gap></rdg>
-                      <note></note>
+                     <lem>saha <gap reason="illegible" quantity="1" unit="character"/> pa ra <gap reason="illegible" quantity="2" unit="character"/>ma<gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="4" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><unclear>sa</unclear><gap reason="illegible" quantity="1" unit="character"/></lem>
+                     <rdg source="bib:Gokhale1991_01">saha para <unclear>ri</unclear> Ium<gap reason="lost" quantity="3" unit="character"/></rdg>
+                      <note/>
                   </app>
                   <app loc="4"> 
-                     <lem><unclear>ya</unclear> sa ma <gap reason="illegible" quantity="1" unit="character"></gap><unclear>pa va ṇa pu</unclear><gap reason="illegible" quantity="1" unit="character"></gap><gap reason="lost" quantity="12" unit="character"></gap></lem>
+                     <lem><unclear>ya</unclear> sa ma <gap reason="illegible" quantity="1" unit="character"/><unclear>pa va ṇa pu</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="12" unit="character"/></lem>
                      <rdg source="bib:Gokhale1991_01">yasama pavanau</rdg> 
                   </app> 
                </listApp>
@@ -141,7 +141,7 @@
           
           
          <div type="translation">
- 	<p></p>
+ 	<p/>
          </div>
           
           
@@ -156,7 +156,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

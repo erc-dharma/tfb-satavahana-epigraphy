@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -105,7 +105,7 @@
            <lb n="1"/> sidhaṁ kal<unclear>ī</unclear>Aṇakasa negamasa golaṇakaputasa negamasa Isipālasa
            <lb n="2"/>saparivārasa mātāpituṇa 
            <lb n="3"/>puyaṭha leṇa poḍhi ca deyadha
-           <lb break="no" n="4"/>ma <g type="ddanda">.</g> Akhayanivi ca dinā gāme
+           <lb break="no" n="4"/>ma <g ref="sym:doubleBar" type="punctuation">.</g> Akhayanivi ca dinā gāme
            <lb n="5"/>saphāUsu kheta dhap<unclear>e</unclear>ti Eto
            <lb n="6"/>ca vasaUthasa civarika bārasaka
            <lb n="7"/>gimh<unclear>ā</unclear>su paḍiko m<unclear>ā</unclear>se seseṇa
@@ -169,7 +169,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

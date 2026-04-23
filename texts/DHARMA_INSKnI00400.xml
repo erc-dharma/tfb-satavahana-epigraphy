@@ -85,9 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>Amacaputasa Anekakātuyājisa<lb 
-                 n="2"/><unclear>kaṇha</unclear>dāsasa
+             <p><lb n="1"/>Amacaputasa Anekakātuyājisa<lb n="2"/><unclear>kaṇha</unclear>dāsasa
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -105,7 +103,7 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -120,7 +118,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

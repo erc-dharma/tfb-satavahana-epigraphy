@@ -83,7 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/>da <gap reason="illegible" unit="character" quantity="1"/> sa dāna<unclear>ṁ</unclear> <g type="nandyāvarta"/></p>
+             <p><lb n="1"/>da <gap reason="illegible" unit="character" quantity="1"/> sa dāna<unclear>ṁ</unclear> <g ref="sym:san-nandyavarta" type="symbol">*</g></p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -94,7 +94,7 @@
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><gap reason="lost" unit="character" extent="unknown"/>da<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>e</unclear></seg> sa</rdg>
                  </app>
                  <app loc="1">
-                     <lem>dāna<unclear>ṁ</unclear> <g type="nandyāvarta"/></lem>
+                     <lem>dāna<unclear>ṁ</unclear> <g ref="sym:san-nandyavarta" type="symbol">*</g></lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">dāna</rdg>
                  </app>
              </listApp>
@@ -121,11 +121,11 @@
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">216</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

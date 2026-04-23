@@ -91,7 +91,7 @@
              
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
@@ -112,8 +112,8 @@
         	        <citedRange unit="page">477</citedRange>
         	        <citedRange unit="item">243</citedRange>
         	        <citedRange unit="plate">LXXVII</citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

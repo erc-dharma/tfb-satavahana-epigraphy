@@ -86,15 +86,8 @@
       <body>
          <div type="edition" xml:lang="pra-Latn">
              <p>
-                 <milestone n="A" unit="face" type="pagelike"/><lb 
-                     n="1"/><supplied reason="lost">vāseṭhi</supplied>puto <space/> sivasiripuḷu<unclear>m</unclear><supplied reason="lost">āvi</supplied><lb 
-                     n="2"/><gap reason="lost"/><seg type="aksara"><unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg>su <space/> kinādikesu <space/> kadamūla<supplied reason="lost">phala</supplied><lb 
-                     n="3"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> ya <space/> ya <gap reason="illegible" quantity="1" unit="character"/> te<unclear>lasa</unclear><lb 
-                     n="4"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> <unclear>tā</unclear>pāna <space/> karetena <space/> na va<unclear>s</unclear>i<gap reason="lost"/>
-                 <milestone n="B" unit="face" type="pagelike"/><lb 
-                     n="1"/><gap reason="lost"/> Atāpasana vā <space/> na vasitava <space/> d<unclear>ā</unclear>rapal<unclear>e</unclear><gap reason="lost"/><lb 
-                     n="2"/><gap reason="lost"/>tavo <space/> sudhāvāsikena Ekaratiparivuthe<unclear>na</unclear><gap reason="lost"/><lb 
-                     n="3"/><gap reason="lost"/><gap reason="lost" quantity="4" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="12" unit="character"/><gap reason="lost"/>
+                 <milestone n="A" unit="face" type="pagelike"/><lb n="1"/><supplied reason="lost">vāseṭhi</supplied>puto <space/> sivasiripuḷu<unclear>m</unclear><supplied reason="lost">āvi</supplied><lb n="2"/><gap reason="lost"/><seg type="aksara"><unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>su <space/> kinādikesu <space/> kadamūla<supplied reason="lost">phala</supplied><lb n="3"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> ya <space/> ya <gap reason="illegible" quantity="1" unit="character"/> te<unclear>lasa</unclear><lb n="4"/><gap reason="lost"/> <gap reason="illegible" quantity="1" unit="character"/> <unclear>tā</unclear>pāna <space/> karetena <space/> na va<unclear>s</unclear>i<gap reason="lost"/>
+                 <milestone n="B" unit="face" type="pagelike"/><lb n="1"/><gap reason="lost"/> Atāpasana vā <space/> na vasitava <space/> d<unclear>ā</unclear>rapal<unclear>e</unclear><gap reason="lost"/><lb n="2"/><gap reason="lost"/>tavo <space/> sudhāvāsikena Ekaratiparivuthe<unclear>na</unclear><gap reason="lost"/><lb n="3"/><gap reason="lost"/><gap reason="lost" quantity="4" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="12" unit="character"/><gap reason="lost"/>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -106,7 +99,7 @@
                      <rdg source="bib:Nakanishi+Hinuber2014_01">siva siri puḍum<supplied reason="lost">āvi</supplied></rdg>
                  </app>
                  <app loc="A.2">
-                     <lem><gap reason="lost"/><seg type="aksara"><unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg>su <space/> kinādikesu</lem>
+                     <lem><gap reason="lost"/><seg type="aksara"><unclear>n</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>su <space/> kinādikesu</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><unclear>na</unclear>sukinādikesu</rdg>
                  </app>
                  <app loc="A.2">

@@ -85,9 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>bhojakasa mugurakoṇhasa <space/> bhojikiniya kāmāya<lb 
-                 n="2"/>lekhakaputasa <space/> <unclear>ka</unclear>ṇ<unclear>ha</unclear>koṭavasa
+             <p><lb n="1"/>bhojakasa mugurakoṇhasa <space/> bhojikiniya kāmāya<lb n="2"/>lekhakaputasa <space/> <unclear>ka</unclear>ṇ<unclear>ha</unclear>koṭavasa
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -101,7 +99,7 @@ Of the scribe-son Kaṇhakoṭava <supplied reason="explanation" cert="low">= K�
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -120,7 +118,7 @@ Of the scribe-son Kaṇhakoṭava <supplied reason="explanation" cert="low">= K�
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

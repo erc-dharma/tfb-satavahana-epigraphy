@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,7 +104,7 @@
            <lb n="1"/>kaliya<unclear>ṇā</unclear>to
            <lb n="2"/>nadasa kamā
            <lb n="3" break="no"/>rasa patho de
-           <lb n="4" break="no"/>yadha<space type="defect"/>ma <g type="dotDouble"/>    
+           <lb n="4" break="no"/>yadha<space type="defect"/>ma <g ref="sym:bullet-double" type="punctuation">.</g>    
           </p> 
          </div>
           
@@ -139,7 +139,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

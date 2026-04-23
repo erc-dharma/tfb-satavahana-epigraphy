@@ -82,10 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>bhagavā <space unit="character" quantity="1"/> budho vesabhū <space unit="character" quantity="1"/> vāgāḍhicanaṁ <space unit="character" quantity="1"/> visaghena saputakena kāritā <space unit="character" quantity="1"/> selavaḍhakisa Āsadevisa  <lb 
-                 n="2"/>panatukena <space unit="character" quantity="1"/> samināgasa <space unit="character" quantity="1"/> nātukena <space unit="character" quantity="1"/> māḍhasa putena <space unit="character" quantity="1"/> rāyāmacena bodhigutena  <lb 
-                 n="3"/>kato
+             <p><lb n="1"/>bhagavā <space unit="character" quantity="1"/> budho vesabhū <space unit="character" quantity="1"/> vāgāḍhicanaṁ <space unit="character" quantity="1"/> visaghena saputakena kāritā <space unit="character" quantity="1"/> selavaḍhakisa Āsadevisa  <lb n="2"/>panatukena <space unit="character" quantity="1"/> samināgasa <space unit="character" quantity="1"/> nātukena <space unit="character" quantity="1"/> māḍhasa putena <space unit="character" quantity="1"/> rāyāmacena bodhigutena  <lb n="3"/>kato
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>

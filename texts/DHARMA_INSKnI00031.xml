@@ -84,7 +84,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><g type="śrīvatsa"/> dhamasiriya paṭa<unclear>ṁ</unclear> dānaṁ <g type="śrīvatsa"/></p>
+             <p><lb n="1"/><g ref="sym:san-srivatsa" type="symbol">*</g> dhamasiriya paṭa<unclear>ṁ</unclear> dānaṁ <g ref="sym:san-srivatsa" type="symbol">*</g></p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -119,7 +119,7 @@
         	        <citedRange unit="item">63</citedRange>
         	        <citedRange unit="plate">CXXXV</citedRange>
         	        <citedRange unit="item">5</citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

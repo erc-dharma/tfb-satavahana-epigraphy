@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,7 +101,7 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>sidhaṃ <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g>
+           <lb n="1"/>sidhaṃ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g>
            <lb n="2"/>raño gotamiputasa sāmisiriyañas<unclear>a</unclear>takaṇi<add place="below">sa</add> savachar<unclear>e</unclear> <num value="14"><g type="numeral">10</g><g type="numeral">4</g></num> gi
            <lb n="3" break="no"/>mh<unclear>ā</unclear>ṇa pakh<unclear>e</unclear> <num value="1">1</num> d<unclear>i</unclear>vas<unclear>e</unclear> <num value="5">5</num> <space/> kāl<unclear>i</unclear>yaṇavāṭhavasa <space/> negamasa <space/> <unclear>Ā</unclear>ṇa
            <lb n="4" break="no"/>daputasa <space/> U<unclear>pā</unclear>sakasa <space/> Apareṇusa <space/> saparivārasa <space/> sah<unclear>ā</unclear> 
@@ -109,7 +109,7 @@
            <lb n="6"/>saha ca suṇh<unclear>ā</unclear>hi <space/> <unclear>A</unclear>ṇa<supplied reason="lost">dena mā</supplied><unclear>t</unclear><supplied reason="lost">u</supplied>l<unclear>eṇa</unclear> s<unclear>a</unclear>ha ca <space/> dhāmadevāya
            <lb n="7"/>saha <unclear>ca</unclear> sa<space type="defect"/><unclear>ve</unclear>ṇa <space/> Ahavi Āpano <space/> Āmāpitār<unclear>o</unclear> <space/> Udise
            <lb n="8"/>pāvate kāṇhase<space type="defect"/>le <space/> leṇaṁ <space/> koḍhi ca <space/> deyadhāmaṁ <space/> cā<unclear>t</unclear>udise  
-           <lb n="9"/>bh<unclear>i</unclear>khusaghe <space/> padiṭhāpitaṃ <space/> sāvasa<space type="defect"/>taṇ<unclear>i</unclear> hitasughatha <g type="svastikaLeft"></g>
+           <lb n="9"/>bh<unclear>i</unclear>khusaghe <space/> padiṭhāpitaṃ <space/> sāvasa<space type="defect"/>taṇ<unclear>i</unclear> hitasughatha <g ref="sym:san-svastika-left" type="symbol">*</g>
            <lb n="10" break="no"/>Etasa ca Akhayanivi datā kāhāpaṇāna<unclear>ṃ</unclear> satāni be <num value="200"><g type="numeral">200</g></num> 
            <lb n="11" break="no"/>saghasa yeva hathe paḍike sate Etha ca Ādhapaṇaṁ
            <lb n="12"/>khetayasa kheta gāme magalaṭh<unclear>ā</unclear><space type="defect"/>ne bhojā kapati Eto
@@ -125,9 +125,9 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>sidhaṃ <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">sidhaṃ <g type="danda">.</g><g type="danda">.</g></rdg>
-                     <rdg source="bib:Mirashi1981_01">sidhaṃ <g type="danda">.</g><g type="danda">.</g></rdg>
+                     <lem>sidhaṃ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01">sidhaṃ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></rdg>
+                     <rdg source="bib:Mirashi1981_01">sidhaṃ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></rdg>
                      <rdg source="bib:Gokhale1991_01">sidhaṃ</rdg>   
                      <note>Although perhaps unexpected, the triple <foreign>daṇḍa</foreign> is clear.</note> 
                   </app>
@@ -159,9 +159,9 @@
                   </app>
                    <app loc="6">
                      <lem><unclear>A</unclear>ṇa<supplied reason="lost">dena mā</supplied><unclear>t</unclear><supplied reason="lost">u</supplied>l<unclear>eṇa</unclear> s<unclear>a</unclear>ha ca</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">Aṇa <gap reason="lost" quantity="3" unit="character"></gap> la <gap reason="lost" quantity="1" unit="character"></gap> sipeca</rdg>
-                     <rdg source="bib:Mirashi1981_01">Aṇa <gap reason="lost" quantity="2" unit="character"></gap> la <gap reason="lost" quantity="1" unit="character"></gap> sipe ca</rdg>  
-                     <rdg source="bib:Gokhale1991_01">Aṇa <gap reason="lost" quantity="5" unit="character"></gap> la <gap reason="lost" quantity="5" unit="character"></gap> sipeca</rdg> 
+                     <rdg source="bib:Burgess+Buhler1883_01">Aṇa <gap reason="lost" quantity="3" unit="character"/> la <gap reason="lost" quantity="1" unit="character"/> sipeca</rdg>
+                     <rdg source="bib:Mirashi1981_01">Aṇa <gap reason="lost" quantity="2" unit="character"/> la <gap reason="lost" quantity="1" unit="character"/> sipe ca</rdg>  
+                     <rdg source="bib:Gokhale1991_01">Aṇa <gap reason="lost" quantity="5" unit="character"/> la <gap reason="lost" quantity="5" unit="character"/> sipeca</rdg> 
                        <note>This reconstructed reading is somewhat uncertain however it fits the context well.</note>
                   </app>
                   
@@ -179,9 +179,9 @@
                   </app>
                    <app loc="7">
                      <lem>sa<space type="defect"/><unclear>ve</unclear>ṇa</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="3" unit="character"></gap>veṇa</rdg>
-                     <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="3" unit="character"></gap>veṇa</rdg>  
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"></gap>veṇa</rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="3" unit="character"/>veṇa</rdg>
+                     <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="3" unit="character"/>veṇa</rdg>  
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="3" unit="character"/>veṇa</rdg>
                      <note>West notes that “The spaces in the [seventh] and [eighth] lines are probably blank”, a correct observation given that we have <foreign>kāṇhase<space type="defect"/>le</foreign> in l. 8.</note>  
                   </app>
                    <app loc="7">
@@ -208,7 +208,7 @@
                      <rdg source="bib:Burgess+Buhler1883_01">kāhāpaṇān<unclear>i</unclear></rdg>
                      <rdg source="bib:Mirashi1981_01">kāhāpaṇān<unclear>i</unclear></rdg>  
                      <rdg source="bib:Gokhale1991_01">kāhāpaṇān<unclear>i</unclear></rdg>
-                     <note>There is no i-mātra on the final akṣara, however this may be compared with <ref target="DHARMA_INSKI00035.xml">KI00035 l. 3</ref> <foreign>Akhayanivi ca dinā kāhāpaṇāṇaṁ</foreign> and <ref target="DHARMA_INSKI00033.8.xml">KI00033 l. 8</ref> <foreign>kahāvaṇāṇaṁ śatāni <space/> <num value="16"><g type="numeral">10</g><unclear><g type="numeral">6</g></unclear></num></foreign> (perhaps cf. EIAD 200.13 <foreign>kāhāpanāna ca purānasahasa Akhayaniv(<supplied reason="lost">i</supplied></foreign> and EIAD 201.14 <foreign>purāna kāhāpanāna Akhanivi <gap reason="lost" quantity="3" unit="character"></gap></foreign>.</note>   
+                     <note>There is no i-mātra on the final akṣara, however this may be compared with <ref target="DHARMA_INSKI00035.xml">KI00035 l. 3</ref> <foreign>Akhayanivi ca dinā kāhāpaṇāṇaṁ</foreign> and <ref target="DHARMA_INSKI00033.8.xml">KI00033 l. 8</ref> <foreign>kahāvaṇāṇaṁ śatāni <space/> <num value="16"><g type="numeral">10</g><unclear><g type="numeral">6</g></unclear></num></foreign> (perhaps cf. EIAD 200.13 <foreign>kāhāpanāna ca purānasahasa Akhayaniv(<supplied reason="lost">i</supplied></foreign> and EIAD 201.14 <foreign>purāna kāhāpanāna Akhanivi <gap reason="lost" quantity="3" unit="character"/></foreign>.</note>   
                        
                   </app>
                    <app loc="10">
@@ -269,7 +269,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

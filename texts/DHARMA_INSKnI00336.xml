@@ -85,28 +85,28 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost"/> <seg type="aksara">s<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg> dha <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost"/></p>
+             <p><lb n="1"/><gap reason="lost"/> <seg type="aksara">s<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> dha <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost"/></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

@@ -83,12 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>sidha <g type="dash"/> namo bhegavato budhasa <space unit="character" quantity="1"/> sākamuṇisa <space quantity="1" unit="character"/> paḍim<unclear>ā</unclear> <space unit="character" quantity="1"/> thāvitā muth<unclear>i</unclear>kumāra<unclear>sa</unclear><lb 
-                 n="2" rend="tb-rotated"/>bhājāya <space unit="character" quantity="1"/> radhāya<lb 
-                 n="3" rend="tb-rotated"/>sunhāya <space unit="character" quantity="1"/> <unclear>kha</unclear>ṁdagopiya<lb 
-                 n="4" rend="tb-rotated"/><unclear>du</unclear>hasenakumārasa kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied><lb 
-                 n="5" rend="tb-rotated"/>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya
+             <p><lb n="1"/>sidha <g ref="sym:dash" type="punctuation">.</g> namo bhegavato budhasa <space unit="character" quantity="1"/> sākamuṇisa <space quantity="1" unit="character"/> paḍim<unclear>ā</unclear> <space unit="character" quantity="1"/> thāvitā muth<unclear>i</unclear>kumāra<unclear>sa</unclear><lb n="2" rend="tb-rotated"/>bhājāya <space unit="character" quantity="1"/> radhāya<lb n="3" rend="tb-rotated"/>sunhāya <space unit="character" quantity="1"/> <unclear>kha</unclear>ṁdagopiya<lb n="4" rend="tb-rotated"/><unclear>du</unclear>hasenakumārasa kuḍu<unclear>ṁb</unclear>i<unclear>n</unclear><supplied reason="lost">iya</supplied><lb n="5" rend="tb-rotated"/>kār<supplied reason="lost">i</supplied><unclear>t</unclear><supplied reason="lost">ā</supplied> <unclear>saval</unclear><supplied reason="lost">o</supplied><unclear>ka</unclear><space unit="character" quantity="1"/>hitasu<unclear>ghā</unclear>ya
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -96,7 +91,7 @@
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem>sidha <g type="dash"/></lem>
+                     <lem>sidha <g ref="sym:dash" type="punctuation">.</g></lem>
                      <note>The punctuation sign is composed of a wavy horizontal stroke under a dot. It is similar, for instance, to that following <foreign>sidhaṁ</foreign> in <ref target="DHARMA_INSEIAD00020">EIAD 20</ref>, l. 1.</note>
                  </app>
                  <app loc="1">

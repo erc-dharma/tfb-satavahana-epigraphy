@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,9 +102,9 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>therāṇaṁ Ayyavasi<gap reason="illegible" quantity="1" unit="character"></gap>ṇā
-           <lb break="no" n="2"/><unclear>tā</unclear>ṇaṁ <unclear>Ara</unclear>hantāṇaṁ ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"></gap>
-           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"></gap>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied>   
+           <lb n="1"/>therāṇaṁ Ayyavasi<gap reason="illegible" quantity="1" unit="character"/>ṇā
+           <lb break="no" n="2"/><unclear>tā</unclear>ṇaṁ <unclear>Ara</unclear>hantāṇaṁ ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"/>
+           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"/>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied>   
           </p> 
          </div>
           
@@ -115,13 +115,13 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>Ayyavasi<gap reason="illegible" quantity="1" unit="character"></gap>ṇā
+                     <lem>Ayyavasi<gap reason="illegible" quantity="1" unit="character"/>ṇā
            <lb break="no" n="2"/><unclear>tā</unclear>ṇaṁ</lem>
                      <rdg source="bib:Gokhale1991_01">Āyyavahiṇṇāgrāṇaṁ</rdg>
                   </app>
                   <app loc="2">
-                      <lem>ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"></gap>
-           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"></gap>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied></lem>
+                      <lem>ti<unclear>sa</unclear><gap reason="illegible" quantity="2" unit="character"/>
+           <lb n="3"/><supplied reason="lost">cha</supplied><unclear>labhiñāṇaṁ</unclear><gap reason="illegible" quantity="2" unit="character"/>th<unclear>ū</unclear><supplied reason="lost">bhaṁ</supplied></lem>
                    <rdg source="bib:Gokhale1991_01">tilapālakāṇaṁ thubhaṁ</rdg>      
                   </app>
                </listApp>
@@ -147,7 +147,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

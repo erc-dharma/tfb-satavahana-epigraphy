@@ -102,7 +102,7 @@
                   </app>
                   <app loc="B">
                       <lem>sa<supplied reason="lost">bhag</supplied>inikesa</lem>
-                      <rdg source="bib:Nakanishi+Hinuber2014_01">sa<gap reason="lost" extent="unknown" unit="character"></gap></rdg>
+                      <rdg source="bib:Nakanishi+Hinuber2014_01">sa<gap reason="lost" extent="unknown" unit="character"/></rdg>
                   </app>
                   <app loc="D">
                       <lem>saduhu<supplied reason="lost">takasa sanatukasa</supplied></lem>

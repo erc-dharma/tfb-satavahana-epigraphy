@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,11 +104,11 @@
            <lb n="1"/>sidha ra<unclear>ño</unclear> ma<supplied reason="lost">ḍhariputasa</supplied> sv<unclear>ā</unclear>misa<unclear>ka</unclear><supplied reason="lost">se</supplied>
            <lb n="2" break="no"/><supplied reason="lost">nasa savachare <g type="numeral">8</g></supplied> <unclear>gi</unclear> pa <unclear><g type="numeral">5</g> di</unclear>v<unclear>ā</unclear> <g type="numeral">10</g> et<unclear>ā</unclear>ya
            <lb n="3" break="no"/><supplied reason="lost">pūvāya kali</supplied><unclear>ya</unclear><supplied reason="lost">ṇe</supplied> vathavasa v<unclear>e</unclear>ṇhu<unclear>nadi</unclear>puta
-           <lb n="4" break="no"/><supplied reason="lost">sa negamasa</supplied> <gap reason="lost" quantity="3" unit="character"></gap> <unclear>ti</unclear>sa bhājāya hālaṇikā le
+           <lb n="4" break="no"/><supplied reason="lost">sa negamasa</supplied> <gap reason="lost" quantity="3" unit="character"/> <unclear>ti</unclear>sa bhājāya hālaṇikā le
            <lb n="5" break="no"/><supplied reason="lost">ṇa patiṭhāpita sa</supplied>h<unclear>ā</unclear> Āyyakena lā<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>i<unclear>na</unclear> sa<unclear>ha</unclear> sa
-           <lb n="6" break="no"/><supplied reason="lost">hā</supplied> <gap reason="lost" quantity="6" unit="character"></gap> <supplied reason="lost">sa</supplied>h<unclear>a</unclear> p<unclear>u</unclear>t<unclear>e</unclear>ṇa dhāmaye<unclear>ṇa saha</unclear>
-           <lb n="7" break="no"/><gap reason="lost" quantity="8" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> buddhakayena sahā v<seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>ta <gap reason="lost" quantity="1" unit="character"></gap>
-           <lb n="8"/><gap reason="lost" quantity="8" unit="character"></gap> <supplied reason="lost">sa</supplied>hā <gap reason="lost" quantity="3" unit="character"></gap> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i <gap reason="lost" quantity="4" unit="character"></gap>
+           <lb n="6" break="no"/><supplied reason="lost">hā</supplied> <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">sa</supplied>h<unclear>a</unclear> p<unclear>u</unclear>t<unclear>e</unclear>ṇa dhāmaye<unclear>ṇa saha</unclear>
+           <lb n="7" break="no"/><gap reason="lost" quantity="8" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> buddhakayena sahā v<seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>ta <gap reason="lost" quantity="1" unit="character"/>
+           <lb n="8"/><gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">sa</supplied>hā <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i <gap reason="lost" quantity="4" unit="character"/>
    
    
           </p> 
@@ -142,7 +142,7 @@
                   </app>
                    
                    <app loc="4">
-                     <lem><supplied reason="lost">sa negamasa</supplied> <gap reason="lost" quantity="3" unit="character"></gap> <unclear>ti</unclear>sa</lem>
+                     <lem><supplied reason="lost">sa negamasa</supplied> <gap reason="lost" quantity="3" unit="character"/> <unclear>ti</unclear>sa</lem>
                      <rdg source="bib:Burgess+Buhler1883_01"><supplied reason="lost">sa</supplied> <gap reason="lost" quantity="8" unit="character"/> sa</rdg>
                      <rdg source="bib:Mirashi1981_01"><supplied reason="lost">sa</supplied> <gap reason="lost" quantity="8" unit="character"/> sa</rdg>  
                      <rdg source="bib:Gokhale1991_01"><supplied reason="lost">sa</supplied> <gap reason="lost" quantity="6" unit="character"/> sa</rdg>     
@@ -157,20 +157,20 @@
 
                   </app>
                    <app loc="6">
-                     <lem><supplied reason="lost">hā</supplied> <gap reason="lost" quantity="6" unit="character"></gap> <supplied reason="lost">sa</supplied>h<unclear>a</unclear> p<unclear>u</unclear>t<unclear>e</unclear>ṇa dhāmaye<unclear>ṇa saha</unclear></lem>
+                     <lem><supplied reason="lost">hā</supplied> <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">sa</supplied>h<unclear>a</unclear> p<unclear>u</unclear>t<unclear>e</unclear>ṇa dhāmaye<unclear>ṇa saha</unclear></lem>
                      <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="10" unit="character"/> dhāmaye <gap reason="lost" quantity="10" unit="character"/></rdg>
                      <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="10" unit="character"/> dhāmaye <gap reason="lost" quantity="10" unit="character"/></rdg>  
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="6" unit="character"/> vasatena dhāmaye saha</rdg>   
                   </app>
                    <app loc="6">
-                     <lem><gap reason="lost" quantity="8" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> buddhakayena sahā v<seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>ta <gap reason="lost" quantity="1" unit="character"></gap></lem>
+                     <lem><gap reason="lost" quantity="8" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> buddhakayena sahā v<seg type="aksara"><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>ta <gap reason="lost" quantity="1" unit="character"/></lem>
                      <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="4" unit="character"/> buddhakayena sahā vi <gap reason="lost" quantity="4" unit="character"/></rdg>
                      <rdg source="bib:Mirashi1981_01"><gap reason="lost" quantity="5" unit="character"/> buddhakayena sahā vi <gap reason="lost" quantity="5" unit="character"/></rdg>  
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="7" unit="character"/> buddhakayena sahā vi <gap reason="lost" quantity="6" unit="character"/></rdg>   
                   </app>
                    
                    <app loc="8">
-                     <lem><gap reason="lost" quantity="8" unit="character"></gap> <supplied reason="lost">sa</supplied>hā <gap reason="lost" quantity="3" unit="character"></gap> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i <gap reason="lost" quantity="4" unit="character"></gap></lem>
+                     <lem><gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">sa</supplied>hā <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i <gap reason="lost" quantity="4" unit="character"/></lem>
                      <note>Prior editors do not acknowledge this line.</note>  
                   </app>
                </listApp>
@@ -182,7 +182,7 @@
           
          <div type="translation">
  	<p n="1-3">Success! On the tenth day of the fifth fortnight of the hot season in the eighth year of the king Maḍhariputa Svāmisakaseṇa. On the above (date)..</p>
-    <p n="3-5">A cave was established of (by) Hālanikā the wife of the market councillor <gap reason="lost" quantity="3" unit="character"></gap>ti, son of Venhunadi, a resident of Kalyan.</p>
+    <p n="3-5">A cave was established of (by) Hālanikā the wife of the market councillor <gap reason="lost" quantity="3" unit="character"/>ti, son of Venhunadi, a resident of Kalyan.</p>
     <p n="5-7">Together with the noble Lā<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>i<unclear>na</unclear>, together with….together with the son Dhāmaya…(together with) Buddhakaya, together with…together with…</p>         
          </div>
           
@@ -197,7 +197,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

@@ -83,13 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><milestone type="pagelike" unit="face" 
-                 n="A"/><lb 
-                 n="A.1"/>dāraghāḍhikehi bhagavato<lb 
-                 n="A.2"/>budhasa paḍimā k<choice><sic>a</sic><corr>ā</corr></choice>rit<unclear>ā</unclear><milestone type="pagelike" unit="face" 
-                 n="B"/><lb 
-                 n="B.1"/><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina Upajhāyāna natukena veṇh<unclear>u</unclear>na Upajhāyāna<lb 
-                 n="B.2"/>putena nādikeṇa <space unit="character" quantity="1"/> kato
+             <p><milestone type="pagelike" unit="face" n="A"/><lb n="A.1"/>dāraghāḍhikehi bhagavato<lb n="A.2"/>budhasa paḍimā k<choice><sic>a</sic><corr>ā</corr></choice>rit<unclear>ā</unclear><milestone type="pagelike" unit="face" n="B"/><lb n="B.1"/><supplied reason="lost">A</supplied><unclear>s</unclear><supplied reason="lost">a</supplied>bhūtina Upajhāyāna natukena veṇh<unclear>u</unclear>na Upajhāyāna<lb n="B.2"/>putena nādikeṇa <space unit="character" quantity="1"/> kato
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>

@@ -99,7 +99,7 @@
       <body>
          <div type="edition" xml:lang="pra-Latn">
          <p>
-         <lb n="1"/>sidha <g type="danda">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa
+         <lb n="1"/>sidha <g ref="sym:bar" type="punctuation">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa
          <lb n="2"/>gahapatisa seṭhisa A<unclear>ya</unclear>lasa ghariṇi
          <lb break="no" n="3"/><unclear>la</unclear>vaṇikāya saparivārāya deyadhama leṇ<unclear>aṃ</unclear> 
          <lb n="4"/>p<unclear>ā</unclear>n<unclear>ī</unclear>yapoḍhi nhāṇapoḍhi kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear>
@@ -108,7 +108,7 @@
          <lb break="no" n="7"/>se vase tiṇi <unclear>hā</unclear> va<unclear>se</unclear> bh<unclear>ā</unclear>tā<unclear>ṇ</unclear>i yāg<unclear>u</unclear>pāṇ<unclear>ā</unclear>ṇi ca <unclear>ci</unclear>
          <lb break="no" n="8"/>vārikehi paḍijagītav<unclear>āṇi</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>pa</unclear>c<unclear>ā</unclear> deyadhama<unclear>pa</unclear>
          <lb break="no" n="9"/>ric<unclear>ā</unclear>k<unclear>ā</unclear> cātudise bhikhusagh<unclear>e</unclear> paricāg<supplied reason="lost">ā</supplied> m<unclear>ā</unclear>t<unclear>āpi</unclear>tūṇa
-         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha <g type="dotDouble"></g>
+         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha <g ref="sym:bullet-double" type="punctuation">.</g>
          </p>
          </div>
          <div type="apparatus">
@@ -116,7 +116,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                    
                   <app loc="1">
-                     <lem>sidha <g type="danda">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa</lem>
+                     <lem>sidha <g ref="sym:bar" type="punctuation">.</g> Upāsakasa kalīAṇakasa <gap reason="illegible" quantity="1" unit="character" precision="low"/>danapu<unclear>ta</unclear>sa</lem>
                      <rdg source="bib:Gokhale1991_01">sidhaṁ Upāsakasa kaliaṇasa nadaṇaputasa</rdg>
                   </app>
 
@@ -131,7 +131,7 @@
                   </app>
 
                   <app loc="4">
-                     <lem>>p<unclear>ā</unclear>n<unclear>ī</unclear>yapoḍhi</lem>
+                     <lem>&gt;p<unclear>ā</unclear>n<unclear>ī</unclear>yapoḍhi</lem>
                      <rdg source="bib:Gokhale1991_01">pānipapoḍhi</rdg>
                   </app>
 
@@ -159,7 +159,7 @@
 
                   <app loc="8">
                      <lem>deyadhama<unclear>pa</unclear><lb break="no" n="9"/>ric<unclear>ā</unclear>k<unclear>ā</unclear> cātudise bhikhusagh<unclear>e</unclear> paricāg<supplied reason="lost">ā</supplied> m<unclear>ā</unclear>t<unclear>āpi</unclear>tūṇa
-         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha<g type="dotDouble"></g></lem>
+         <lb n="10"/>puyatha savasatahi<space type="defect"/>tasughatha<g ref="sym:bullet-double" type="punctuation">.</g></lem>
                      <rdg source="bib:Gokhale1991_01">deyadhama civarika cātudisa bhikhusagha mātapitunā puñatha savasatahita sughatha</rdg>
                   </app>
 
@@ -182,10 +182,10 @@ Success! A cave, drinking cistern, bathing cistern, a dwelling house in Abālīk
  	
          </div>
          <div type="commentary">            
-           <p n="4-5"><foreign>kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear><unclear>miya ni</unclear>vesaṇa</foreign>This must be compared with KI 6 <foreign>kālīAṇe Abālikāvihare c<unclear>e</unclear>ti<supplied reason="lost">Agha</supplied>)r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear> Ovarakāni</foreign>as well as KI 28.10-11 <foreign>mukuḍasivayi<space type='defect'></space>yaṁ nivesaṇaṁ</foreign><!-- Change to Links once inscriptions are on dharmalekha.info -->. The first word of the latter has been correctly interpreted (if incorrectly read) by ASWI V as a “district” of Kalyan in which the nivesaṇaṃ was located, while the term <foreign>Abālikā-</foreign> has been interpreted as the name of the <foreign>vihāra</foreign> (and subsequently identified with the Ambivali caves 8km south-east from modern Kalyan). However, it is perhaps better to interpret it as the name of a “district” of Kalyan in which both the <foreign>vihāra</foreign> and this <foreign>nivesaṇa</foreign> were located. In KI 28 the nivesaṇa serves as the basis of an akṣayanīvī, with the accrued rent being distributed to provide provisions and repairs. It is likely that the nivesaṇa here serves a similar function (although it is not labeled as an akṣayanīvī) rather than being intended for use by the Saṃgha.
+           <p n="4-5"><foreign>kalīvāṇ<unclear>e</unclear> Abālīkas<unclear>a</unclear><unclear>miya ni</unclear>vesaṇa</foreign>This must be compared with KI 6 <foreign>kālīAṇe Abālikāvihare c<unclear>e</unclear>ti<supplied reason="lost">Agha</supplied>)r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear> Ovarakāni</foreign>as well as KI 28.10-11 <foreign>mukuḍasivayi<space type="defect"/>yaṁ nivesaṇaṁ</foreign><!-- Change to Links once inscriptions are on dharmalekha.info -->. The first word of the latter has been correctly interpreted (if incorrectly read) by ASWI V as a “district” of Kalyan in which the nivesaṇaṃ was located, while the term <foreign>Abālikā-</foreign> has been interpreted as the name of the <foreign>vihāra</foreign> (and subsequently identified with the Ambivali caves 8km south-east from modern Kalyan). However, it is perhaps better to interpret it as the name of a “district” of Kalyan in which both the <foreign>vihāra</foreign> and this <foreign>nivesaṇa</foreign> were located. In KI 28 the nivesaṇa serves as the basis of an akṣayanīvī, with the accrued rent being distributed to provide provisions and repairs. It is likely that the nivesaṇa here serves a similar function (although it is not labeled as an akṣayanīvī) rather than being intended for use by the Saṃgha.
 </p>
           <p n="6-7">Although difficult to fully understand, this sequence details the amount of interest that accrues from the invested funds. Given that interest is typically calculated monthly in ancient India, it is tempting to interpret vase vase as a mistake for <foreign>māse māse</foreign>, especially because of the vase immediately following the <foreign><unclear>hā</unclear></foreign>.
-The use here of a reduplicated noun as a means of expressing indefiniteness may be compared with IBH III Maha 3.6 <foreign>kāraṇakāraṇe</foreign> “With regard to whichever reason/task” (cf. Martini 2023: 209) and KI 33.9 <foreign><unclear>pā</unclear>kkh<unclear>e</unclear> <unclear>p</unclear><supplied reason="lost">ā</supplied>kkh<unclear>e</unclear> <gap reason="illegible" quantity="2" unit="character"></gap> kāhhā<unclear>va</unclear>ṇ<unclear>a</unclear> kāhhāvaṇ<unclear>a</unclear> leṇe c<unclear>c</unclear>āv<unclear>i</unclear>tavva<unclear>ṁ</unclear></foreign> “whatever kahāpaṇas (accrue) every fortnight, the cave is to be maintained”. (cf. EIAD 56.4 <foreign>akhayanīvi<unclear>ṁ</unclear> ca kat<unclear>ū</unclear>ṇa mas<unclear>anu</unclear>mas<unclear>ika</unclear>sa <unclear>vi</unclear>dhi</foreign>).  
+The use here of a reduplicated noun as a means of expressing indefiniteness may be compared with IBH III Maha 3.6 <foreign>kāraṇakāraṇe</foreign> “With regard to whichever reason/task” (cf. Martini 2023: 209) and KI 33.9 <foreign><unclear>pā</unclear>kkh<unclear>e</unclear> <unclear>p</unclear><supplied reason="lost">ā</supplied>kkh<unclear>e</unclear> <gap reason="illegible" quantity="2" unit="character"/> kāhhā<unclear>va</unclear>ṇ<unclear>a</unclear> kāhhāvaṇ<unclear>a</unclear> leṇe c<unclear>c</unclear>āv<unclear>i</unclear>tavva<unclear>ṁ</unclear></foreign> “whatever kahāpaṇas (accrue) every fortnight, the cave is to be maintained”. (cf. EIAD 56.4 <foreign>akhayanīvi<unclear>ṁ</unclear> ca kat<unclear>ū</unclear>ṇa mas<unclear>anu</unclear>mas<unclear>ika</unclear>sa <unclear>vi</unclear>dhi</foreign>).  
           </p>
           <p n="7-8">The sequence <foreign>bh<unclear>ā</unclear>tā<unclear>ṇ</unclear>i yāg<unclear>u</unclear>pāṇ<unclear>ā</unclear>ṇi ca </foreign> is unparalleled in the early epigraphic record but it might be compared with the variations of <foreign>yāgupāne saṃghabhatte</foreign> found sporadically in the Pali vinaya (cf. CKM 1 78.c yaüdaeṇa). The final term is equivalent with the <foreign>paḍiAgitavaṁ</foreign> of KI 28.9 and 40.8, regarding which ASWI V (p. 81) states “<foreign>Paḍiagitava</foreign> is the fut. part. pass. of a denominative, derived from Sanskrit <foreign>pratyaṅga</foreign>, Pali <foreign>pachchaṅga</foreign>”. This is instead the gerundive of Pali paṭijaggati/BHS pratijāgarti “to watch over, nourish, take care of”. This may be compared with Visuddhimagga IV.5 <foreign>jiṇṇavihāre pana bahuṃ paṭijaggitabba</foreign> “in a dilapidated monastery there is much that needs repair”, cited by Silk (2008: 78) in his discussion on the term navakarmika.
           </p>

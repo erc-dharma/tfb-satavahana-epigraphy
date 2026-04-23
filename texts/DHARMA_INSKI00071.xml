@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,7 +104,7 @@
            <p>  
            <lb n="1"/>therāṇaṁ kh<unclear>emakar</unclear><supplied reason="lost">āṇaṁ</supplied>
            <lb n="2"/>jayiṇaṃ tiṇha<supplied reason="lost">ṃ</supplied><supplied reason="lost">A</supplied><unclear>ra</unclear>ha
-           <lb break ="no" n="3"/><unclear>nta</unclear>satāṇaṃ thūbh<unclear>aṃ</unclear><g type="svastikaLeft"></g>
+           <lb break="no" n="3"/><unclear>nta</unclear>satāṇaṃ thūbh<unclear>aṃ</unclear><g ref="sym:san-svastika-left" type="symbol">*</g>
           </p> 
          </div>
           
@@ -116,7 +116,7 @@
                <listApp>
                   <app loc="1">
                      <lem>kh<unclear>emakar</unclear><supplied reason="lost">āṇaṁ</supplied></lem>
-                     <rdg source="bib:Gokhale1991_01">bha<unclear>danta</unclear> <gap reason="lost" quantity="4" unit="character"></gap></rdg>
+                     <rdg source="bib:Gokhale1991_01">bha<unclear>danta</unclear> <gap reason="lost" quantity="4" unit="character"/></rdg>
                      <note>This hypothetical reading is supported by <ref target="DHARMA_INSKI00062.xml">KI00062</ref>, l. 2: <foreign>khemakarāṇaṁ</foreign></note> 
                   </app>
                   <app loc="2">
@@ -127,11 +127,11 @@
                     
                     <app loc="2">
                       <lem><supplied reason="lost">A</supplied><unclear>ra</unclear>ha
-           <lb break ="no" n="3"/><unclear>nta</unclear>satāṇaṃ</lem>
+           <lb break="no" n="3"/><unclear>nta</unclear>satāṇaṃ</lem>
                    <rdg source="bib:Gokhale1991_01"><unclear>A</unclear>raha<unclear>ntā</unclear>ṇaṃ</rdg>
                   </app> 
                     <app loc="3">
-                      <lem>thūbh<unclear>aṃ</unclear><g type="svastikaLeft"></g></lem>
+                      <lem>thūbh<unclear>aṃ</unclear><g ref="sym:san-svastika-left" type="symbol">*</g></lem>
                    <rdg source="bib:Gokhale1991_01">thūbhaṃ</rdg>
                   </app> 
                </listApp>
@@ -157,7 +157,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

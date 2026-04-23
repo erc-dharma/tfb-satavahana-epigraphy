@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,11 +104,11 @@
            <lb n="1"/>sidhaṃ raño <unclear>ma</unclear>ḍh<unclear>a</unclear>riputasa svāmisakase<unclear>ṇasa</unclear>
            <lb n="2"/>savachara <g type="numeral">8</g> gi pa <g type="numeral">5</g> diva <g type="numeral">10</g> Etāya <unclear>pu</unclear>vāya ka
            <lb n="3" break="no"/>l<unclear>i</unclear>yaṇakasa nekama<unclear>sa</unclear> veṇhuna<unclear>d</unclear>isa putasa nega
-           <lb n="4" break="no"/>masa gahapatisa <gap reason="lost" quantity="2" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> t<unclear>i</unclear>sa leṇa pa<supplied reason="lost">ti</supplied>ṭhā<unclear>p</unclear>i 
+           <lb n="4" break="no"/>masa gahapatisa <gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> t<unclear>i</unclear>sa leṇa pa<supplied reason="lost">ti</supplied>ṭhā<unclear>p</unclear>i 
            <lb n="5" break="no"/>ta sahā Āyyakeṇa <space type="defect"/> <unclear>nad</unclear>ena sahā pituṇa veṇhuna
            <lb n="6" break="no"/><space type="defect"/> din<unclear>ā</unclear> sahā mātuya bo<space type="defect"/>dhisamāya sahā bh<unclear>ā</unclear>
-           <lb n="7" break="no"/><supplied reason="lost">tunā</supplied> <gap reason="lost" quantity="1" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>ha</unclear>thin<unclear>ā</unclear> sah<unclear>ā</unclear> sāveṇa <unclear>ni</unclear>kasabadhi
-           <lb n="8" break="no"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/> 
+           <lb n="7" break="no"/><supplied reason="lost">tunā</supplied> <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ha</unclear>thin<unclear>ā</unclear> sah<unclear>ā</unclear> sāveṇa <unclear>ni</unclear>kasabadhi
+           <lb n="8" break="no"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
    
    
           </p> 
@@ -124,7 +124,7 @@
                      <lem>svāmisakase<unclear>ṇasa</unclear></lem>
                      <rdg source="bib:Burgess+Buhler1883_01">svāmisakasenasa</rdg>
                      <rdg source="bib:Mirashi1981_01">svāmisakasenasa</rdg>
-                     <rdg source="bib:Gokhale1991_01">svāmisakasenasa <gap reason="lost" quantity="3" unit="character"></gap></rdg>   
+                     <rdg source="bib:Gokhale1991_01">svāmisakasenasa <gap reason="lost" quantity="3" unit="character"/></rdg>   
                   </app>
                    <app loc="3">
                      <lem>veṇhuna<unclear>d</unclear>isa</lem>
@@ -135,13 +135,13 @@
 
                    <app loc="4">
                      <lem>pa<supplied reason="lost">ti</supplied>ṭhā<unclear>p</unclear>i<lb n="5" break="no"/>ta</lem>
-                     <rdg source="bib:Gokhale1991_01">pa<supplied reason="lost">ti</supplied>thāpi <gap reason="lost" quantity="3" unit="character"></gap> ta</rdg>     
+                     <rdg source="bib:Gokhale1991_01">pa<supplied reason="lost">ti</supplied>thāpi <gap reason="lost" quantity="3" unit="character"/> ta</rdg>     
                   </app>
                <app loc="5">
                      <lem><space type="defect"/> <unclear>nad</unclear>ena</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="illegible" quantity="1" unit="character"></gap> sena</rdg>
-                     <rdg source="bib:Mirashi1981_01"><gap reason="illegible" quantity="1" unit="character"></gap> sena</rdg>  
-                     <rdg source="bib:Gokhale1991_01"><gap reason="illegible" quantity="4" unit="character"></gap> sena</rdg>     
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="illegible" quantity="1" unit="character"/> sena</rdg>
+                     <rdg source="bib:Mirashi1981_01"><gap reason="illegible" quantity="1" unit="character"/> sena</rdg>  
+                     <rdg source="bib:Gokhale1991_01"><gap reason="illegible" quantity="4" unit="character"/> sena</rdg>     
                   </app>
                    
                    <app loc="5">
@@ -153,7 +153,7 @@
                    
                    <app loc="5">
                      <lem>veṇhuna</lem>
-                     <rdg source="bib:Gokhale1991_01">venhuna <gap reason="lost" unit="character" quantity="3"></gap></rdg>     
+                     <rdg source="bib:Gokhale1991_01">venhuna <gap reason="lost" unit="character" quantity="3"/></rdg>     
                   </app>
                   
                    <app loc="7">
@@ -170,7 +170,7 @@
                      <rdg source="bib:Gokhale1991_01">Āpaṇā</rdg>   
                   </app>
                    <app loc="8">
-                     <lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/></lem>
+                     <lem><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem>
                      <note>It would appear that this inscription has an eighth line that has hitherto gone unnoticed. It is largely illegible and it is uncertain for how long it once extended, but traces of a few akṣaras can be seen on the photographs and RTIa, underneath the large crack below l. 7 <foreign>sāveṇa nika-</foreign>. This is expected as the final word of l. 7 is incomplete.</note>  
                   </app>
                </listApp>
@@ -183,7 +183,7 @@
          <div type="translation">
  	<p n="1-2">Success! On the 10th day of the 5th fortnight of the hot season in the 8th year of the king Maḍhariputa Svāmisakaseṇa. On the above (date).</p>
     <p n="3-5">A cave is established of (by) the market councilor and householder ++?ti, son of the market councilor Veṇhunadi of Kalyan.</p>
-    <p n="5-7">Together with the noble Nada, together with the father Veṇhunadi, together with the mother Bodhisamā, together with the brother <gap reason="lost" quantity="1" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> <unclear>ha</unclear>thi, together with the entire (group) of his own relatives….</p>         
+    <p n="5-7">Together with the noble Nada, together with the father Veṇhunadi, together with the mother Bodhisamā, together with the brother <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <unclear>ha</unclear>thi, together with the entire (group) of his own relatives….</p>         
          </div>
           
           
@@ -197,7 +197,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

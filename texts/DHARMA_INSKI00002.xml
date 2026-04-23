@@ -100,8 +100,8 @@
       <body>
          <div type="edition" xml:lang="pra-Latn">
          <p>
-         <lb n = "1"/><g type="svastikaLeft"/>nāsikakasa nāka
-         <lb break ="no" n = "2"/>ṇakasa sata deyadhama
+         <lb n="1"/><g ref="sym:san-svastika-left" type="symbol">*</g>nāsikakasa nāka
+         <lb break="no" n="2"/>ṇakasa sata deyadhama
          </p>
          </div>
          <div type="apparatus">

@@ -81,10 +81,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>siddha<unclear>ṁ</unclear> <space/> raño vāseṭh<unclear>ī</unclear>putasa <space/> sirisā<unclear>da</unclear><supplied reason="lost">kaṇisa</supplied><lb 
-                 n="2"/><unclear>pa</unclear>vajitena <space/> nāgabu<unclear>dh</unclear>i<unclear>n</unclear><supplied reason="lost">ā <space/></supplied>) <gap reason="illegible" quantity="2" unit="character"/> <unclear>raI</unclear>] <gap reason="illegible" quantity="1" unit="character"/> de <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>i</seg><gap reason="lost"/><lb 
-                 n="3"/>yakh<supplied reason="lost">i</supplied>yāya <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost"/>
+             <p><lb n="1"/>siddha<unclear>ṁ</unclear> <space/> raño vāseṭh<unclear>ī</unclear>putasa <space/> sirisā<unclear>da</unclear><supplied reason="lost">kaṇisa</supplied><lb n="2"/><unclear>pa</unclear>vajitena <space/> nāgabu<unclear>dh</unclear>i<unclear>n</unclear><supplied reason="lost">ā <space/></supplied>) <gap reason="illegible" quantity="2" unit="character"/> <unclear>raI</unclear>] <gap reason="illegible" quantity="1" unit="character"/> de <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost"/><lb n="3"/>yakh<supplied reason="lost">i</supplied>yāya <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost"/>
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -108,7 +105,7 @@
                      <note>See <ref target="DHARMA_INSKnI00010.xml">KnI0010</ref>, l. 1: <foreign>s<unclear>i</unclear>ris<unclear>ā</unclear>dakaṇi<unclear>sa</unclear></foreign>.</note>
                  </app>
                  <app loc="2">
-                     <lem><gap reason="illegible" quantity="2" unit="character"/> <unclear>raI</unclear>] <gap reason="illegible" quantity="1" unit="character"/> de <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>i</seg></lem>
+                     <lem><gap reason="illegible" quantity="2" unit="character"/> <unclear>raI</unclear>] <gap reason="illegible" quantity="1" unit="character"/> de <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg></lem>
                      <rdg source="bib:NagarajaRao1985_01">Antevāsiniya bhikhuṇiyā</rdg>
                      <rdg source="bib:Nakanishi+Hinuber2014_01">Atevāsiniya bhikhuniyā</rdg>
                      <note>The reading is unclear, but the reconstruction suggested by <bibl><ptr target="bib:NagarajaRao1985_01"/></bibl> and accepted in later publications is impossible and, as stressed by <bibl><ptr target="bib:Nakanishi+Hinuber2014_01"/><citedRange unit="page">19-20</citedRange></bibl>, it <quote>does not make sense.</quote></note>
@@ -116,11 +113,11 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
@@ -145,7 +142,7 @@
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -129,7 +129,7 @@
                   </app>
                    <app loc="3">
                      <lem>ga<lb n="4" break="no"/>hapati<supplied reason="lost">sa</supplied> <gap reason="lost" quantity="10" unit="character"/>sa leṇaṁ</lem>
-                     <rdg source="bib:Gokhale1991_01"> gahapati <gap reason="lost" quantity="5" unit="character"></gap> leṇaṁ</rdg>     
+                     <rdg source="bib:Gokhale1991_01"> gahapati <gap reason="lost" quantity="5" unit="character"/> leṇaṁ</rdg>     
                   </app>
                    <app loc="4">
                      <lem>pā
@@ -158,21 +158,21 @@
           
           
          <div type="translation">
- 	<p></p>
+ 	<p/>
          </div>
           
           
           
           
          <div type="commentary">
-      <p></p>
+      <p/>
          </div> 
           
           
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

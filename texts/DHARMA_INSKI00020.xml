@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,7 +102,7 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><g type="svastikaLeft"/>cemulakasa heraṇikasa rohiṇi 
+           <lb n="1"/><g ref="sym:san-svastika-left" type="symbol">*</g>cemulakasa heraṇikasa rohiṇi 
            <lb break="no" n="2"/>mitasa putasa dhamaṇakasa patho
            <lb n="3"/>deyadhaṁma
         
@@ -143,7 +143,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

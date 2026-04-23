@@ -83,24 +83,24 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>ā</seg>yano <space/> māyā <unclear>ca</unclear></p>
+             <p><lb n="1"/><gap reason="lost"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg>yano <space/> māyā <unclear>ca</unclear></p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
              <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
              <listApp>
                  <app loc="1">
-                     <lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>ā</seg>yano</lem>
+                     <lem><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg>yano</lem>
                      <rdg source="bib:Nakanishi+Hinuber2014_01"><gap reason="illegible" quantity="1" unit="character"/>yano</rdg>
                  </app>
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">

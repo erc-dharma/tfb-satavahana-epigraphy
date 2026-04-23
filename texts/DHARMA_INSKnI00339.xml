@@ -85,7 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost"/> <seg type="aksara"><unclear>th</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg> <seg type="aksara"><unclear>r</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"></gap></seg></seg> A <gap reason="illegible" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"></gap></seg>ā</seg> <gap reason="illegible" quantity="1" unit="character"/> <unclear>chili</unclear> <gap reason="illegible" quantity="1" unit="character"/></p>
+             <p><lb n="1"/><gap reason="lost"/> <seg type="aksara"><unclear>th</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> <seg type="aksara"><unclear>r</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg> A <gap reason="illegible" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg> <gap reason="illegible" quantity="1" unit="character"/> <unclear>chili</unclear> <gap reason="illegible" quantity="1" unit="character"/></p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -93,21 +93,21 @@
              
          </div>
          <div type="translation" resp="part:vito part:anol">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition by Vincent Tournier and Andrew Ollett. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

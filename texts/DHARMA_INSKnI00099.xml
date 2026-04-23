@@ -82,11 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><unclear>na</unclear>mo bhaga<unclear>va</unclear>to <space/> budha<unclear>sa</unclear><gap reason="lost"/><lb 
-                 n="2"/><gap reason="lost"/><unclear>to ca</unclear> tha<unclear>bho</unclear> be dam<unclear>u</unclear><supplied reason="lost">r</supplied><unclear>ī</unclear><gap reason="lost"/><lb 
-                 n="3"/><gap reason="lost"/>kārapitaṁ <space/> sa<unclear>ṁ</unclear>gha<gap reason="lost"/><lb 
-                 n="4"/><supplied reason="lost">sat</supplied><unclear>ike</unclear>na mahāsena<unclear>date</unclear><supplied reason="lost">na</supplied>
+             <p><lb n="1"/><unclear>na</unclear>mo bhaga<unclear>va</unclear>to <space/> budha<unclear>sa</unclear><gap reason="lost"/><lb n="2"/><gap reason="lost"/><unclear>to ca</unclear> tha<unclear>bho</unclear> be dam<unclear>u</unclear><supplied reason="lost">r</supplied><unclear>ī</unclear><gap reason="lost"/><lb n="3"/><gap reason="lost"/>kārapitaṁ <space/> sa<unclear>ṁ</unclear>gha<gap reason="lost"/><lb n="4"/><supplied reason="lost">sat</supplied><unclear>ike</unclear>na mahāsena<unclear>date</unclear><supplied reason="lost">na</supplied>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>

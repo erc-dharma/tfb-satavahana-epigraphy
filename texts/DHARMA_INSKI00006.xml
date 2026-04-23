@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -111,7 +111,7 @@
            <lb n="8"/><supplied reason="lost"><num value="13"><g type="numeral">10</g> <g type="numeral">3</g></num></supplied> saAkha<supplied reason="omitted">ya</supplied>nivik<unclear>ā r</unclear>ājatalāka paIṭhāṇapathe  
            <lb n="9"/><unclear>A</unclear>saṇe culik<unclear>api</unclear>yakuṭi koḍhi ca khāṇitā sa<unclear>ṁ</unclear>de
            <lb n="10" break="no"/>s<unclear>e</unclear> vā<unclear>ṇu</unclear>gha <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>rā</unclear><unclear>ro</unclear></choice> saghārāmo saAkhayaniviko kā
-           <lb n="11" break="no"/>rāpito pu<supplied reason="lost">ñaṭha</supplied> <unclear>ca</unclear> deyadhamāṇi ca Ānāni pi <unclear>k</unclear><supplied reason="lost">ā</supplied><unclear>r</unclear><supplied reason ="lost">i</supplied>tāni
+           <lb n="11" break="no"/>rāpito pu<supplied reason="lost">ñaṭha</supplied> <unclear>ca</unclear> deyadhamāṇi ca Ānāni pi <unclear>k</unclear><supplied reason="lost">ā</supplied><unclear>r</unclear><supplied reason="lost">i</supplied>tāni
           </p> 
          </div>
           
@@ -128,18 +128,18 @@
                   </app>
                    <app loc="2">
                      <lem><gap reason="lost" quantity="7" unit="character"/> Aka<unclear>sa</unclear></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="1" unit="character"></gap></rdg>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="2" unit="character"></gap></rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="1" unit="character"/></rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/> Aka<gap reason="illegible" quantity="2" unit="character"/></rdg>
                      <note>It is unclear if the <foreign>-sa</foreign> in this sequence and the following <foreign>cetiAsa</foreign> is the genitive singular ending or the particle <foreign>sa-</foreign> “together with”.</note>  
                   </app>
                    <app loc="3">
                      <lem><gap reason="lost" quantity="5" unit="character"/>lakārasu <unclear>ca</unclear></lem>
                      <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="5" unit="character"/>lakāresu <unclear>ca</unclear></rdg>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/>lakārasa<gap reason="illegible" quantity="1" unit="character"></gap></rdg>     
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/>lakārasa<gap reason="illegible" quantity="1" unit="character"/></rdg>     
                   </app>
                    <app loc="4">
                      <lem>ha<lb n="5" break="no"/><supplied reason="lost">lāṇi</supplied></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">hā<gap reason="lost" quantity="3" unit="character"></gap></rdg>    
+                     <rdg source="bib:Burgess+Buhler1883_01">hā<gap reason="lost" quantity="3" unit="character"/></rdg>    
                   </app>
                    <app loc="5">
                      <lem>kālīAṇe</lem>
@@ -148,7 +148,7 @@
                   </app>
                    <app loc="5">
                      <lem>c<unclear>e</unclear>ti<lb n="6" break="no"/><supplied reason="lost">Agha</supplied>r<unclear>o</unclear>pathāṇas<unclear>ā</unclear>l<unclear>ā</unclear></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01">ce ti <gap reason="lost" quantity="3" unit="character"></gap> Upathāṇasāl<unclear>ā</unclear></rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01">ce ti <gap reason="lost" quantity="3" unit="character"/> Upathāṇasāl<unclear>ā</unclear></rdg>
                      <rdg source="bib:Gokhale1991_01">cetiUpathāṇasāl<unclear>ā</unclear></rdg>
                       <note>The reading <foreign>Upa</foreign> is entirely impossible for the bottom of the <foreign>-ra-</foreign> is still visible today. The o-mātra of the proposed <foreign>ro</foreign> is partly preserved on the eye copy.</note> 
                   </app>
@@ -163,8 +163,8 @@
                      <rdg source="bib:Gokhale1991_01">vihātigupasadari<unclear>ya</unclear></rdg>  
                   </app>
                    <app loc="8">
-                     <lem>><supplied reason="lost"><num value="13"><g type="numeral">10</g> <g type="numeral">3</g></num></supplied></lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="3" unit="character"></gap></rdg>
+                     <lem>&gt;<supplied reason="lost"><num value="13"><g type="numeral">10</g> <g type="numeral">3</g></num></supplied></lem>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="3" unit="character"/></rdg>
                      <note>G does not acknowledge these missing akṣaras.</note>  
                   </app>
                    <app loc="8">
@@ -173,7 +173,7 @@
                   </app>
                    <app loc="9">
                      <lem><unclear>A</unclear>saṇe</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="illegible" quantity="1" unit="character"></gap>saṇa</rdg>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="illegible" quantity="1" unit="character"/>saṇa</rdg>
                      <rdg source="bib:Gokhale1991_01">saṇa</rdg>  
                      <note>The e-mātra is clear on both the eye copy and photographs, however the first akṣara could be a <foreign>ka/ra</foreign> as only the hooked bottom is preserved on the eye-copy. It is also possible that another akṣara preceded it.</note>  
                   </app>
@@ -206,9 +206,9 @@
           
           
          <div type="translation">
- 	<p n="1-5">… amongst the <foreign>…khabhālakaras</foreign>, half … of the shrine (<foreign>cetiya</foreign>) … And for the <foreign>ya<gap reason="lost" quantity="3" unit="character"></gap></foreign> renunciants amongst the <foreign>…lakāras</foreign>  an <foreign>akṣayanīvī</foreign> is given: In the Sopāraka district, three – 3 – <foreign>ha<supplied reason="lost">la</supplied>s</foreign></p>
+ 	<p n="1-5">… amongst the <foreign>…khabhālakaras</foreign>, half … of the shrine (<foreign>cetiya</foreign>) … And for the <foreign>ya<gap reason="lost" quantity="3" unit="character"/></foreign> renunciants amongst the <foreign>…lakāras</foreign>  an <foreign>akṣayanīvī</foreign> is given: In the Sopāraka district, three – 3 – <foreign>ha<supplied reason="lost">la</supplied>s</foreign></p>
         <p n="5-6"> At the <foreign>Abālikavihāra</foreign> in Kalyan, an apsidal shrine <foreign>cetiyaghara</foreign>, entrance hall, and cells.</p>
-             <p n="6-8"> At the <foreign>vihāra</foreign> in Patiṭhāṇa, at <foreign><gap reason="lost" quantity="1" unit="character"></gap>ṭigupasadarī</foreign> (or in the <foreign>+ṭipasadarī vihāra</foreign>), an apsidal shrine [as well as] thirteen – 13 – cells – which are [provided] with a <foreign>akṣayanīvīs</foreign>.</p>
+             <p n="6-8"> At the <foreign>vihāra</foreign> in Patiṭhāṇa, at <foreign><gap reason="lost" quantity="1" unit="character"/>ṭigupasadarī</foreign> (or in the <foreign>+ṭipasadarī vihāra</foreign>), an apsidal shrine [as well as] thirteen – 13 – cells – which are [provided] with a <foreign>akṣayanīvīs</foreign>.</p>
              <p n="8-9">At Asana, at the royal tank on the path to Païṭhāṇa, a small hut for allowable goods and store room (<foreign>koḍhi</foreign>) were excavated.</p>
         <p n="9-11"> At Sandesa, the <foreign>vāṇugha+ra</foreign>monastic compound <foreign>saṅghārama</foreign> – which is [provided] with an <foreign>akṣayanīvī</foreign> — was caused to be built.</p>             
 <p n="11">And [these] meritorious gifts and others were caused to be made for the purpose of [acquiring] merit.</p>
@@ -225,7 +225,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

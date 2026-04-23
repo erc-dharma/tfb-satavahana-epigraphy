@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -118,7 +118,7 @@
                      <note>This Gen. Pl. ending is attested in AMg, cf. Pischel § 440. As stressed by Pischel § 246, <foreign>-ṇh-</foreign> perhaps arose from a confusion between <foreign>-ṇṇ-</foreign> and <foreign>-h-</foreign> &lt; <foreign>-s-</foreign> from the pronominal genitive plural ending in -<foreign>saṃ</foreign>. See also Norman 1992: 201.<!-- this needs to be added to Zotero --></note> 
                   </app>
                   <app loc="2"> 
-                     <lem>Arahanta<lb break="no" n="2"/>śatāṇaṃ></lem>
+                     <lem>Arahanta<lb break="no" n="2"/>śatāṇaṃ&gt;</lem>
                      <rdg source="bib:Gokhale1991_01">Arahant<unclear>ā</unclear>gratāṇaṁ</rdg> 
                      <note>Compare III Bhaj 11 which according to my new edition reads <foreign>paṃca<unclear>n</unclear>naṁ vasibhūtasatānaṁ thū<unclear>po</unclear></foreign>. The <foreign>-po</foreign> in III Bhaj 11 is engraved below the base-line, due to an irregularity of the stone.</note> 
                   </app>
@@ -145,7 +145,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

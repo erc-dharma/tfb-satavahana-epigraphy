@@ -112,7 +112,7 @@
         	        <citedRange unit="item">240</citedRange>
         	        <citedRange unit="plate">CXI</citedRange>
         	        <citedRange unit="item">A</citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

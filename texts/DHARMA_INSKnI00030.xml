@@ -122,9 +122,9 @@
         	        <ptr target="bib:Poonacha2011_01"/>
         	        <citedRange unit="page">474</citedRange>
         	        <citedRange unit="item">217</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

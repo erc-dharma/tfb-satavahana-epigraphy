@@ -84,7 +84,7 @@
       <body>
          <div type="edition" xml:lang="pra-Latn">
              <p>
-                 <lb n="1"/>sidhaṁ <g type="ddanda"/> raño gotamiputasa <space/> siriyañasātakaṇisa <space/> sa<unclear>va</unclear> <num value="11"><g type="numeral">10</g> 1</num>
+                 <lb n="1"/>sidhaṁ <g ref="sym:doubleBar" type="punctuation">.</g> raño gotamiputasa <space/> siriyañasātakaṇisa <space/> sa<unclear>va</unclear> <num value="11"><g type="numeral">10</g> 1</num>
                  <lb n="2"/>hematāna <space/> pakhe <num value="1">1</num> diva <num value="1">1</num> <space/> bhikhusa <space/> dhamakadhikasa <space/> bodhikayasa
                  <lb n="3"/>chata deyadhama <space/> sahā mātāpitūhi <space/> sahā ca <space/> bhātūbhaginihi
                  <lb n="4"/>savalokahitāya

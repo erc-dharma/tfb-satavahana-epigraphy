@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -104,7 +104,7 @@
            <p>  
            <lb n="1"/>therāṇaṃ Āryya<unclear>sām</unclear>i
            <lb break="no" n="2"/>lāṇaṃ Arahantāṇaṃ A<unclear>pa</unclear>
-           <lb break="no" n="3"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>ce</unclear>tī<unclear>ṇa</unclear><supplied reason="lost">ṃ</supplied> thū<unclear>bha</unclear>ṃ <g type="doubleDanda"></g>
+           <lb break="no" n="3"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>ce</unclear>tī<unclear>ṇa</unclear><supplied reason="lost">ṃ</supplied> thū<unclear>bha</unclear>ṃ <g ref="sym:doubleDanda"/>
           </p> 
          </div>
           
@@ -128,8 +128,8 @@
                    <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="7" unit="character"/> </rdg>
                   </app> 
                    <app loc="3">
-                      <lem>thū<unclear>bha</unclear>ṃ <g type="doubleDanda"></g></lem>
-                   <rdg source="bib:Gokhale1991_01">thubhaṃ></rdg>
+                      <lem>thū<unclear>bha</unclear>ṃ <g ref="sym:doubleDanda"/></lem>
+                   <rdg source="bib:Gokhale1991_01">thubhaṃ&gt;</rdg>
                   </app> 
                </listApp>
                 
@@ -147,7 +147,7 @@
           
           
          <div type="commentary">
-            <p></p>  
+            <p/>  
          </div>
           
           
@@ -155,7 +155,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

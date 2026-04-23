@@ -82,9 +82,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>sidha <g type="ddanda"/> namo bha<unclear>ga</unclear><supplied reason="lost">vato</supplied> <gap reason="lost" extent="unknown" unit="character"/> deyadhama<lb 
-                 n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> yāya</p>
+             <p><lb n="1"/>sidha <g ref="sym:doubleBar" type="punctuation">.</g> namo bha<unclear>ga</unclear><supplied reason="lost">vato</supplied> <gap reason="lost" extent="unknown" unit="character"/> deyadhama<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> yāya</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">

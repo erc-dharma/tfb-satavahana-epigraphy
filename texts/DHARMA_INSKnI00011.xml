@@ -83,10 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><persName type="human" subtype="coronation"><supplied reason="lost">ya</supplied>ñasātakaṇ<unclear>i</unclear>sa</persName> saṁvachare <num value="10"><unclear><g type="numeral">10</g></unclear></num> gimhānaṁ<lb 
-                 n="2"/><supplied reason="lost">pakhe</supplied> <unclear>5</unclear> <unclear>sa</unclear>t<unclear>i</unclear>ka<unclear>ṇa</unclear> mahadatasa dāna chata<lb 
-                 n="3"/>mahācetiye <g type="dash"/>
+             <p><lb n="1"/><persName type="human" subtype="coronation"><supplied reason="lost">ya</supplied>ñasātakaṇ<unclear>i</unclear>sa</persName> saṁvachare <num value="10"><unclear><g type="numeral">10</g></unclear></num> gimhānaṁ<lb n="2"/><supplied reason="lost">pakhe</supplied> <unclear>5</unclear> <unclear>sa</unclear>t<unclear>i</unclear>ka<unclear>ṇa</unclear> mahadatasa dāna chata<lb n="3"/>mahācetiye <g ref="sym:dash" type="punctuation">.</g>
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -120,11 +117,11 @@
         	    </bibl>
         	    <bibl n="MASI">
         	        <ptr target="bib:Poonacha2011_01"/>
-        	        <citedRange unit="page"></citedRange>
+        	        <citedRange unit="page"/>
         	        <citedRange unit="item">256</citedRange>
-        	        <citedRange unit="plate"></citedRange>
-        	        <citedRange unit="item"></citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
+        	        <citedRange unit="item"/>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

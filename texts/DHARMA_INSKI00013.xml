@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,7 +101,7 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>k<unclear>ā</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> kava
+           <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>k<unclear>ā</unclear> <gap reason="illegible" quantity="1" unit="character"/> kava
            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ttehi
           </p> 
          </div>
@@ -113,7 +113,7 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>k<unclear>ā</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> kava</lem>
+                     <lem>k<unclear>ā</unclear> <gap reason="illegible" quantity="1" unit="character"/> kava</lem>
                      <rdg source="bib:Gokhale1991_01">ka A kava</rdg> 
                   </app>
                </listApp>
@@ -124,7 +124,7 @@
           
           
          <div type="translation">
- 	<p></p>
+ 	<p/>
          </div>
           
           
@@ -139,7 +139,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

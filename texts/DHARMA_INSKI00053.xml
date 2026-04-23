@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -103,7 +103,7 @@
            <p>  
            <lb n="1"/>therāṇaṁ Ayyamahāṇaṁ Ara
            <lb break="no" n="2"/>hantāṇaṁ chalabhiṁñ<unclear>ā</unclear>ṇaṁ paṭi
-           <lb break="no" n="3"/><unclear>saṁ</unclear>bhidapattāṇaṁ thūbhaṁ <g type="ddanda"></g><g type="danda"></g> <g type="floret"></g>  
+           <lb break="no" n="3"/><unclear>saṁ</unclear>bhidapattāṇaṁ thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g>  
           </p> 
          </div>
           
@@ -115,7 +115,7 @@
                <listApp>
                   <app loc="1">
                      <lem>Ayyamahāṇaṁ</lem>
-                     <rdg source="bib:Gokhale1991_01">Āyyamahāṇaṁ></rdg>
+                     <rdg source="bib:Gokhale1991_01">Āyyamahāṇaṁ&gt;</rdg>
                       <note>It is the left portion of this line which is missing, not the right.</note>
                   </app>
                   <app loc="2">
@@ -127,7 +127,7 @@
                    <rdg source="bib:Gokhale1991_01">paṭisaṃbhidapāttāṇaṁ</rdg>      
                   </app>
                   <app loc="3">
-                      <lem>thūbhaṁ <g type="ddanda"></g><g type="danda"></g> <g type="floret"></g></lem>
+                      <lem>thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g></lem>
                    <rdg source="bib:Gokhale1991_01">thubhaṃ</rdg>      
                   </app> 
                </listApp>
@@ -153,7 +153,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

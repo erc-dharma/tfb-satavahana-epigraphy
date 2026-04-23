@@ -85,11 +85,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><supplied reason="lost">gi</supplied><unclear>mh</unclear><supplied reason="lost">ā</supplied>na <space/> pakh<unclear>e</unclear> 6 <space/> d<unclear>i</unclear><supplied reason="lost">vasa</supplied><lb 
-                 n="2"/><gap reason="lost"/> <unclear>ra</unclear>peḍhīkā <gap reason="lost"/><lb 
-                 n="3"/><gap reason="lost"/> <unclear>la</unclear>chiya <space/> bo <gap reason="illegible" unit="character" quantity="1"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <gap reason="lost"/><lb 
-                 n="4"/><gap reason="lost"/> gahi <gap reason="lost"/> 
+             <p><lb n="1"/><supplied reason="lost">gi</supplied><unclear>mh</unclear><supplied reason="lost">ā</supplied>na <space/> pakh<unclear>e</unclear> 6 <space/> d<unclear>i</unclear><supplied reason="lost">vasa</supplied><lb n="2"/><gap reason="lost"/> <unclear>ra</unclear>peḍhīkā <gap reason="lost"/><lb n="3"/><gap reason="lost"/> <unclear>la</unclear>chiya <space/> bo <gap reason="illegible" unit="character" quantity="1"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <gap reason="lost"/><lb n="4"/><gap reason="lost"/> gahi <gap reason="lost"/> 
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -103,21 +99,21 @@
              </listApp>
          </div>
          <div type="translation" resp="part:vito">
-             <p></p>
+             <p/>
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in August 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

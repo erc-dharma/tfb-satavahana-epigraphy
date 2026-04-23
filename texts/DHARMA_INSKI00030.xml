@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,8 +101,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>sidhaṃ ĀcariĀ<unclear>na</unclear> bhayatavirāṇaṃ bhatuno pavajitasa Āṇa<space type="defect"></space>dasaa
-           <lb n="2"/>le<space type="defect"></space>ṇa deyadhamaṃ saṃghe Akhayanivi dinā Eto civarikaṁ dāta
+           <lb n="1"/>sidhaṃ ĀcariĀ<unclear>na</unclear> bhayatavirāṇaṃ bhatuno pavajitasa Āṇa<space type="defect"/>dasaa
+           <lb n="2"/>le<space type="defect"/>ṇa deyadhamaṃ saṃghe Akhayanivi dinā Eto civarikaṁ dāta
            <lb n="3" break="no"/><unclear>va</unclear> <space/> cha ka <unclear>d</unclear><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><choice><unclear>ka</unclear><unclear>na</unclear></choice><unclear>ṃ</unclear><space/> sah<unclear>ā</unclear> savehi nāti<unclear>h</unclear>i
            
           </p> 
@@ -148,7 +148,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

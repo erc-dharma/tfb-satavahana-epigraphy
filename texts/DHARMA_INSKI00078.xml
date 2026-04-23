@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -124,15 +124,15 @@
                   </app>
                   <app loc="2"> 
                      <lem><gap reason="lost" quantity="2" unit="character" precision="low"/>ṇayasa<gap reason="lost" quantity="1" unit="character" precision="low"/> <seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>i</unclear>vanakasa</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="6" unit="character"></gap>ṇayasa<gap reason="lost" quantity="3" unit="character"></gap><unclear>m</unclear>itanakasa</rdg>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="6" unit="character"></gap>ṇayasa<gap reason="lost" quantity="3" unit="character"></gap><unclear>m</unclear>itanakasa</rdg> 
-                     <note></note> 
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="6" unit="character"/>ṇayasa<gap reason="lost" quantity="3" unit="character"/><unclear>m</unclear>itanakasa</rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="6" unit="character"/>ṇayasa<gap reason="lost" quantity="3" unit="character"/><unclear>m</unclear>itanakasa</rdg> 
+                     <note/> 
                   </app>
                   <app loc="3">
                      <lem><gap reason="lost" quantity="3" unit="character" precision="low"/> dhaka<unclear>sa</unclear> <unclear>l</unclear>e<supplied reason="lost">ṇa</supplied> pānīyapoḍhī ca</lem>
-                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="9" unit="character"></gap> lena <gap reason="lost" quantity="3" unit="character"></gap> pānīyapoḍhi ca </rdg>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"></gap> leṇa <gap reason="lost" quantity="3" unit="character"></gap> pāniya poḍhi ca</rdg>
-                      <note></note>
+                     <rdg source="bib:Burgess+Buhler1883_01"><gap reason="lost" quantity="9" unit="character"/> lena <gap reason="lost" quantity="3" unit="character"/> pānīyapoḍhi ca </rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/> leṇa <gap reason="lost" quantity="3" unit="character"/> pāniya poḍhi ca</rdg>
+                      <note/>
                   </app>
                   <app loc="6"> 
                      <lem>nivāṇasabhāra<lb break="no" n="7"/>tha</lem>
@@ -148,7 +148,7 @@
           
           
          <div type="translation">
- 	<p>A cave and drinking cistern: the meritorious gift of the ascetic <gap reason="lost" quantity="3" unit="character"></gap>dhaka [and] the <gap reason="lost" quantity="2" unit="character"></gap><foreign>ṇaya</foreign> <gap reason="lost" quantity="1" unit="character"></gap><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ivaṇaka, the pupil of the reverend elder <gap reason="lost" quantity="2" unit="character"></gap>pāla. Established for the universal order of monks. Assigned to the mother and father, for the purpose of the welfare and happiness of all beings and for the purpose of his own equipment for <foreign>nirvāṇa</foreign>. And for this an <foreign>akṣayanīvī</foreign> is given. 
+ 	<p>A cave and drinking cistern: the meritorious gift of the ascetic <gap reason="lost" quantity="3" unit="character"/>dhaka [and] the <gap reason="lost" quantity="2" unit="character"/><foreign>ṇaya</foreign> <gap reason="lost" quantity="1" unit="character"/><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ivaṇaka, the pupil of the reverend elder <gap reason="lost" quantity="2" unit="character"/>pāla. Established for the universal order of monks. Assigned to the mother and father, for the purpose of the welfare and happiness of all beings and for the purpose of his own equipment for <foreign>nirvāṇa</foreign>. And for this an <foreign>akṣayanīvī</foreign> is given. 
 </p>
          </div>
           
@@ -164,7 +164,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

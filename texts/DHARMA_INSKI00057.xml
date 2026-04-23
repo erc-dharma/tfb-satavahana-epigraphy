@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -116,7 +116,7 @@
                   <app loc="1">
                      <lem><supplied reason="lost">the</supplied><unclear>r</unclear><supplied reason="lost">āṇaṁ <space/> Ayya</supplied>[bo]dh[i]-
            <lb break="no" n="2"/><supplied reason="lost">p</supplied><unclear>ā</unclear>lāṇaṁ</lem>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"></gap>dhi <gap reason="lost" quantity="1" unit="character"></gap> lānaṃ</rdg>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/>dhi <gap reason="lost" quantity="1" unit="character"/> lānaṃ</rdg>
                       <note>Gokhale argues that this was once <foreign>dhitimūla</foreign> and provides a (seemingly irrelevant) reference to <foreign>Aṭṭḥasālini</foreign> 3.285. This seems incorrect.</note>
                   </app>
                   <app loc="2">
@@ -125,7 +125,7 @@
                   </app>
                   <app loc="3">
                       <lem>thūbhaṁ</lem>
-                   <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"></gap> thubhaṃ</rdg>
+                   <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"/> thubhaṃ</rdg>
                       <note>There are no missing akṣaras, rather the word <foreign>thūbhaṃ</foreign> is directly below the end of the second line.</note>
                   </app> 
                </listApp>
@@ -151,7 +151,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

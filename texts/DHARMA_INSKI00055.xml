@@ -53,11 +53,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -100,7 +100,7 @@
            <lb n="1"/>th<unclear>e</unclear>rāṇaṃ Ayya<unclear>I</unclear>
            <lb break="no" n="2"/>ndaseṇapamukhāṇaṃ pa
            <lb break="no" n="3"/>ñcāṇhaṃ Arahanta
-           <lb break="no" n="4"/>satā<space type="defect"></space>ṇaṃ th<unclear>ū</unclear>bhaṃ  
+           <lb break="no" n="4"/>satā<space type="defect"/>ṇaṃ th<unclear>ū</unclear>bhaṃ  
           </p> 
          </div>
           
@@ -119,7 +119,7 @@
                      <rdg source="bib:Gokhale1991_01">pabhiṇāṇaṁ</rdg>
                   </app>
                    <app loc="3">
-                     <lem>Arahanta<lb break="no" n="4"/>satā<space type="defect"></space>ṇaṃ</lem>
+                     <lem>Arahanta<lb break="no" n="4"/>satā<space type="defect"/>ṇaṃ</lem>
                      <rdg source="bib:Gokhale1991_01">arahantāṇaṁ satāṇaṁ</rdg>
                   </app>
                </listApp>
@@ -145,7 +145,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

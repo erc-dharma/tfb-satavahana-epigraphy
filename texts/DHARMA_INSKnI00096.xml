@@ -83,10 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/>sidha <g type="ddanda"/> namo bhagavato budhasa <space/> bhikhusa <space/> budhikayasa <space/> chataṁ deyadhamaṁ <lb 
-                 n="2"/>sahā mātāpitūhi <lb 
-                 n="3"/>sahā ca bhaginihi golā<supplied reason="omitted">A</supplied> ca bodhiA ca sava<add place="below">lo</add>kahitāya
+             <p><lb n="1"/>sidha <g ref="sym:doubleBar" type="punctuation">.</g> namo bhagavato budhasa <space/> bhikhusa <space/> budhikayasa <space/> chataṁ deyadhamaṁ <lb n="2"/>sahā mātāpitūhi <lb n="3"/>sahā ca bhaginihi golā<supplied reason="omitted">A</supplied> ca bodhiA ca sava<add place="below">lo</add>kahitāya
              </p>
             <!--edition encoded as per EGD §§2−7-->
          </div>

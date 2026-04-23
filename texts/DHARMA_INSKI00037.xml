@@ -58,11 +58,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,10 +102,10 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>si <unclear>ri sa ra</unclear> <gap reason="lost" quantity="2" unit="character"></gap> <gap reason="illegible" quantity="1" unit="character"></gap> <gap reason="lost" quantity="4" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/> 
-           <lb n="2"/><gap reason="illegible" quantity="1" unit="character"></gap> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i va sa ga<unclear>ha</unclear><supplied reason="lost">patisa</supplied> <gap reason="lost" quantity="2" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/>
-           <lb n="3"/>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/>
-           <lb n="4"/><gap reason="illegible" quantity="1" unit="character"></gap> nāṇa Āt<unclear>e</unclear>vas<unclear>i</unclear>ṇa<unclear>ya</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <gap reason="lost" quantity="1" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/>
+           <lb n="1"/>si <unclear>ri sa ra</unclear> <gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+           <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg></seg>i va sa ga<unclear>ha</unclear><supplied reason="lost">patisa</supplied> <gap reason="lost" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+           <lb n="3"/>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+           <lb n="4"/><gap reason="illegible" quantity="1" unit="character"/> nāṇa Āt<unclear>e</unclear>vas<unclear>i</unclear>ṇa<unclear>ya</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
            <lb n="5"/><unclear>dh</unclear>iya deyadhama leṇa pāniya<unclear>ka</unclear><gap reason="lost" extent="unknown" unit="character"/>
           </p> 
          </div>
@@ -117,16 +117,16 @@
            
                <listApp>
                   <app loc="3">
-                     <lem>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/></lem>
+                     <lem>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem>
                      <rdg source="bib:Gokhale1991_01">sa samakasa dhutu<unclear>sa</unclear></rdg>   
                   </app>
                    <app loc="4">
-                     <lem><gap reason="illegible" quantity="1" unit="character"></gap> nāṇa Āt<unclear>e</unclear>vas<unclear>i</unclear>ṇa<unclear>ya</unclear> <gap reason="illegible" quantity="1" unit="character"></gap> <gap reason="lost" quantity="1" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/></lem>
-                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"></gap> ka vasatasa</rdg>   
+                     <lem><gap reason="illegible" quantity="1" unit="character"/> nāṇa Āt<unclear>e</unclear>vas<unclear>i</unclear>ṇa<unclear>ya</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem>
+                     <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="5" unit="character"/> ka vasatasa</rdg>   
                   </app>
                    <app loc="5">
-                     <lem>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"></gap><gap reason="lost" extent="unknown" unit="character"/></lem>
-                     <rdg source="bib:Gokhale1991_01">leṇa deyadhama  <gap reason="lost" quantity="4" unit="character"></gap> pāniya</rdg>
+                     <lem>sa s<unclear>ā</unclear>makasa dhat<unclear>u</unclear>ya <gap reason="lost" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem>
+                     <rdg source="bib:Gokhale1991_01">leṇa deyadhama  <gap reason="lost" quantity="4" unit="character"/> pāniya</rdg>
                       <note>Although we expect pāniyapoḍhi, the curved bottom of the vertical stem of an akṣara is clearly visible (as are traces of the horizontal stem). This can be compared with <ref target="DHARMA_INSKI00003.xml">KI00003</ref>, l. 2 <foreign>pani<space type="defect"/>ka</foreign>.</note> 
                   </app>
                </listApp>
@@ -144,7 +144,7 @@
           
           
          <div type="commentary">
-         <p>Gokhale only reads L. 3-5, presumably because that is all that is currently preserved. West informs us that 2-3 additional lines have been peeled away from the top of this inscription.></p>   
+         <p>Gokhale only reads L. 3-5, presumably because that is all that is currently preserved. West informs us that 2-3 additional lines have been peeled away from the top of this inscription.&gt;</p>   
          </div>
           
           
@@ -152,7 +152,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

@@ -118,7 +118,7 @@
         	        <citedRange unit="item">21</citedRange>
         	        <citedRange unit="plate">CXXXI</citedRange>
         	        <citedRange unit="item">12</citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

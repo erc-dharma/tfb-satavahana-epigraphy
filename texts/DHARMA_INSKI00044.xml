@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,13 +101,13 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/>saghasa h<unclear>i</unclear> <unclear>su</unclear> <gap reason="lost" unit="character" quantity="12"></gap>
-           <lb n="2"/>pāl<unclear>a</unclear> nāvikeṇ<unclear>a</unclear> vase <gap reason="lost" unit="character" quantity="11"></gap>
-           <lb n="3"/>teṇa bha<add place="below">tu</add>ṇā c<unclear>e</unclear>va <unclear>Ama</unclear><gap reason="illegible" unit="character" quantity="1"></gap> <gap reason="lost" unit="character" quantity="1"></gap><supplied reason="lost"> bha</supplied>tuṇ<unclear>ā</unclear> ceva <unclear>ne</unclear>ga<unclear>meṇa</unclear>
-           <lb n="4"/>Aḍaṇa<unclear>bha</unclear>tu<unclear>ṇā</unclear> ceva negam<unclear>e</unclear>ṇa <unclear>v</unclear>ituk<unclear>eṇa</unclear> <space type="defect"></space> <unclear>saha</unclear> 
+           <lb n="1"/>saghasa h<unclear>i</unclear> <unclear>su</unclear> <gap reason="lost" unit="character" quantity="12"/>
+           <lb n="2"/>pāl<unclear>a</unclear> nāvikeṇ<unclear>a</unclear> vase <gap reason="lost" unit="character" quantity="11"/>
+           <lb n="3"/>teṇa bha<add place="below">tu</add>ṇā c<unclear>e</unclear>va <unclear>Ama</unclear><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" unit="character" quantity="1"/><supplied reason="lost"> bha</supplied>tuṇ<unclear>ā</unclear> ceva <unclear>ne</unclear>ga<unclear>meṇa</unclear>
+           <lb n="4"/>Aḍaṇa<unclear>bha</unclear>tu<unclear>ṇā</unclear> ceva negam<unclear>e</unclear>ṇa <unclear>v</unclear>ituk<unclear>eṇa</unclear> <space type="defect"/> <unclear>saha</unclear> 
            <lb n="5" break="no"/><unclear>ca</unclear> mā<unclear>tu</unclear>ya pava<unclear>I</unclear>tik<unclear>ā</unclear>ya <unclear>ja</unclear>mayāya yeva A<unclear>kha</unclear>
-           <lb n="6" break="no"/><unclear>ya</unclear>nivi <space type="defect"></space> la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"></space><unclear> sa ma sa</unclear>vasat<unclear>ā</unclear>ṇa hitasu
-           <lb n="7" break="no"/>ghathā A<unclear>kha</unclear>yanivi ca d<unclear>i</unclear><supplied reason="lost">nā</supplied><g type="svastikaLeft"></g>
+           <lb n="6" break="no"/><unclear>ya</unclear>nivi <space type="defect"/> la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"/><unclear> sa ma sa</unclear>vasat<unclear>ā</unclear>ṇa hitasu
+           <lb n="7" break="no"/>ghathā A<unclear>kha</unclear>yanivi ca d<unclear>i</unclear><supplied reason="lost">nā</supplied><g ref="sym:san-svastika-left" type="symbol">*</g>
    
           </p> 
          </div>      
@@ -115,20 +115,20 @@
            
                <listApp>
                   <app loc="1">
-                     <lem>saghasa h<unclear>i</unclear> <unclear>su</unclear> <gap reason="lost" unit="character" quantity="12"></gap></lem>
+                     <lem>saghasa h<unclear>i</unclear> <unclear>su</unclear> <gap reason="lost" unit="character" quantity="12"/></lem>
                      <rdg source="bib:Gokhale1991_01">sa <gap reason="lost" quantity="4" unit="character"/></rdg>     
                   </app>
                    <app loc="2">
-                     <lem>vase <gap reason="lost" unit="character" quantity="11"></gap></lem>
-                     <rdg source="bib:Gokhale1991_01">vasa <gap reason="lost" unit="character" quantity="4"></gap></rdg>     
+                     <lem>vase <gap reason="lost" unit="character" quantity="11"/></lem>
+                     <rdg source="bib:Gokhale1991_01">vasa <gap reason="lost" unit="character" quantity="4"/></rdg>     
                   </app>
                    <app loc="3">
-                     <lem>teṇa bha<add place="below">tu</add>ṇā c<unclear>e</unclear>va <unclear>Ama</unclear><gap reason="illegible" unit="character" quantity="1"></gap> <gap reason="lost" unit="character" quantity="1"></gap><supplied reason="lost"> bha</supplied>tuṇ<unclear>ā</unclear> ceva <unclear>ne</unclear>ga<unclear>meṇa</unclear></lem>
-                     <rdg source="bib:Gokhale1991_01">tanāttaṇā ca vi <gap reason="lost" quantity="3" unit="character"></gap> su <gap reason="lost" quantity="3" unit="character"></gap> maha <gap reason="lost" quantity="3" unit="character"></gap></rdg>     
+                     <lem>teṇa bha<add place="below">tu</add>ṇā c<unclear>e</unclear>va <unclear>Ama</unclear><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" unit="character" quantity="1"/><supplied reason="lost"> bha</supplied>tuṇ<unclear>ā</unclear> ceva <unclear>ne</unclear>ga<unclear>meṇa</unclear></lem>
+                     <rdg source="bib:Gokhale1991_01">tanāttaṇā ca vi <gap reason="lost" quantity="3" unit="character"/> su <gap reason="lost" quantity="3" unit="character"/> maha <gap reason="lost" quantity="3" unit="character"/></rdg>     
                   </app>
                    <app loc="4">
-                     <lem>Aḍaṇa<unclear>bha</unclear>tu<unclear>ṇā</unclear> ceva negam<unclear>e</unclear>ṇa <unclear>v</unclear>ituk<unclear>eṇa</unclear> <space type="defect"></space> <unclear>saha</unclear></lem>
-                     <rdg source="bib:Gokhale1991_01">Aṭanasa saghārtha ca negama navinakeṇa <gap reason="lost" quantity="3" unit="character"></gap> saha</rdg>     
+                     <lem>Aḍaṇa<unclear>bha</unclear>tu<unclear>ṇā</unclear> ceva negam<unclear>e</unclear>ṇa <unclear>v</unclear>ituk<unclear>eṇa</unclear> <space type="defect"/> <unclear>saha</unclear></lem>
+                     <rdg source="bib:Gokhale1991_01">Aṭanasa saghārtha ca negama navinakeṇa <gap reason="lost" quantity="3" unit="character"/> saha</rdg>     
                   </app>
                    <app loc="5">
                      <lem>pava<unclear>I</unclear>tik<unclear>ā</unclear>ya <unclear>ja</unclear>mayāya</lem>
@@ -136,7 +136,7 @@
                   </app>
                    <app loc="5">
                      <lem>A<unclear>kha</unclear>
-           <lb n="6" break="no"/><unclear>ya</unclear>nivi <space type="defect"></space> la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"></space><unclear> sa ma</unclear></lem>
+           <lb n="6" break="no"/><unclear>ya</unclear>nivi <space type="defect"/> la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"/><unclear> sa ma</unclear></lem>
                      <rdg source="bib:Gokhale1991_01">Akhanivi ca leṇaṁ datāni</rdg>     
                   </app>
                </listApp>
@@ -147,7 +147,7 @@
           
           
          <div type="translation">
- 	<p></p>
+ 	<p/>
          </div>
           
           
@@ -155,14 +155,14 @@
           
          <div type="commentary">
         <p>According to West at least two lines preceded l. 1. Only a single akṣara is visible on the eye copy and none remain visible on the stone now.</p>
-        <p n="6"><foreign>la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"></space><unclear> sa ma </unclear></foreign>. This most likely signifies either the basis of the <foreign>akṣayanivi</foreign> or the manner in which funds are to be dispersed, however we are unable to currently explain it.</p>     
+        <p n="6"><foreign>la <unclear>sa</unclear> tu <unclear>ra cha</unclear> hi<space type="defect"/><unclear> sa ma </unclear></foreign>. This most likely signifies either the basis of the <foreign>akṣayanivi</foreign> or the manner in which funds are to be dispersed, however we are unable to currently explain it.</p>     
          </div> 
           
           
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

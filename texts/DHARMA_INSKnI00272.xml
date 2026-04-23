@@ -81,9 +81,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb 
-                 n="1"/><supplied reason="lost">gotamip</supplied><milestone n="a" unit="fragment"/><unclear>uta</unclear>sa <space/> sir<unclear>i</unclear>v<unclear>ijaya</unclear><supplied reason="lost">sātaka</supplied><milestone n="b" unit="fragment"/><supplied reason="lost">ni</supplied>sa <space/> savachara <num value="4"><g type="numeral">4</g></num> <space/> gimhāna pākha <num value="2"><g type="numeral">2</g></num> <space/> <unclear>di</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost"/><lb 
-                 n="2"/><gap reason="lost"/><milestone n="a" unit="fragment"/>ya <space/> budhāya ya sisi<gap reason="lost" quantity="5" unit="character"/><milestone n="b" unit="fragment"/><unclear>ya</unclear> <space/> sisiniA <space/> toḍhikheḍikāA <space/> pava<seg type="aksara"><unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg><gap reason="lost"/>
+             <p><lb n="1"/><supplied reason="lost">gotamip</supplied><milestone n="a" unit="fragment"/><unclear>uta</unclear>sa <space/> sir<unclear>i</unclear>v<unclear>ijaya</unclear><supplied reason="lost">sātaka</supplied><milestone n="b" unit="fragment"/><supplied reason="lost">ni</supplied>sa <space/> savachara <num value="4"><g type="numeral">4</g></num> <space/> gimhāna pākha <num value="2"><g type="numeral">2</g></num> <space/> <unclear>di</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost"/><lb n="2"/><gap reason="lost"/><milestone n="a" unit="fragment"/>ya <space/> budhāya ya sisi<gap reason="lost" quantity="5" unit="character"/><milestone n="b" unit="fragment"/><unclear>ya</unclear> <space/> sisiniA <space/> toḍhikheḍikāA <space/> pava<seg type="aksara"><unclear>y</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg><gap reason="lost"/>
              </p>
              <!--edition encoded as per EGD §§2−7-->
          </div>
@@ -105,17 +103,17 @@
              <!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-             <p></p>
+             <p/>
              <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
 	        <!--bibliography encoded as per section §9.4 -->
             <p>This edition, based on photographs, by Vincent Tournier. Encoded in XML by Fu Fan in July 2025.</p>
         	<listBibl type="primary">
-        	    <bibl></bibl>
+        	    <bibl/>
 			</listBibl>
             <listBibl type="secondary">
-                <bibl></bibl>
+                <bibl/>
             </listBibl>
         </div>
       </body>

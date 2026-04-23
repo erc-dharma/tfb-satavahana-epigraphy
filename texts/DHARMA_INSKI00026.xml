@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -105,7 +105,7 @@
            <lb n="2"/>Atevā<unclear>s</unclear>iṇ<unclear>i</unclear>ya pavajitik<unclear>ā</unclear>ya s<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character"/>
            <lb n="3"/>l<unclear>eṇa</unclear> cāt<unclear>u</unclear><supplied reason="lost">dise</supplied> <unclear>bh</unclear>i<supplied reason="lost">khu</supplied>saghe pat<unclear>i</unclear>ṭhap<unclear>i</unclear><supplied reason="lost">ta de</supplied>
            <lb n="4" break="no"/>yadhama <gap reason="illegible" quantity="2" unit="character"/> <unclear>sa</unclear> dayeṇa sa <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya ṇa</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>
-           <lb n="5"/>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g type="svastikLeft"></g>    
+           <lb n="5"/>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g ref="sym:san-svastika-left" type="symbol">*</g>    
           </p> 
          </div>
           
@@ -118,27 +118,27 @@
                   <app loc="1">
                      <lem>sidha <space type="defect"/> therāṇa bhayat<unclear>āṇa gha</unclear>ma <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ṇa</supplied></lem>
                      <rdg source="bib:Gokhale1991_01">sidhaṁ therāṇāṁ sagha</rdg>
-                      <note></note>
+                      <note/>
                   </app>
                   <app loc="2"> 
-                     <lem>>Atevā<unclear>s</unclear>iṇ<unclear>i</unclear>ya pavajitik<unclear>ā</unclear>ya s<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character"/></lem>
+                     <lem>&gt;Atevā<unclear>s</unclear>iṇ<unclear>i</unclear>ya pavajitik<unclear>ā</unclear>ya s<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character"/></lem>
                      <rdg source="bib:Gokhale1991_01"><gap reason="lost" quantity="4" unit="character"/> antevāsiniya pavajitikāyā</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                    <app loc="3">
                      <lem>l<unclear>eṇa</unclear> cāt<unclear>u</unclear><supplied reason="lost">dise</supplied> <unclear>bh</unclear>i<supplied reason="lost">khu</supplied>saghe pat<unclear>i</unclear>ṭhap<unclear>i</unclear><supplied reason="lost">ta de</supplied></lem>
-                     <rdg source="bib:Gokhale1991_01"></rdg>
+                     <rdg source="bib:Gokhale1991_01"/>
                       <note>Gokhale does not read this line at all.</note>
                   </app>
                   <app loc="4"> 
                      <lem>yadhama <gap reason="illegible" quantity="2" unit="character"/> <unclear>sa</unclear> dayeṇa sa <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya ṇa</unclear> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/></lem>
                      <rdg source="bib:Gokhale1991_01">deyadhama <gap reason="lost" quantity="3" unit="character"/>saghaṁ pāniya<unclear>(podhi)</unclear></rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                    <app loc="5"> 
-                     <lem>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g type="svastikLeft"></g></lem>
+                     <lem>layeṇa <gap reason="illegible" quantity="5" unit="character"/><g ref="sym:san-svastika-left" type="symbol">*</g></lem>
                      <rdg source="bib:Gokhale1991_01">layana</rdg> 
-                     <note></note> 
+                     <note/> 
                   </app>
                </listApp>
          </div>
@@ -163,7 +163,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

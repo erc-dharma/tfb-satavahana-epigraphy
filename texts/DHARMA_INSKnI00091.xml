@@ -83,7 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="pra-Latn">
-             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ā</unclear></seg>ya deyadhaṁmaṁ</p>
+             <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ā</unclear></seg>ya deyadhaṁmaṁ</p>
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
@@ -114,7 +114,7 @@
         	        <citedRange unit="item">18</citedRange>
         	        <citedRange unit="plate">CXXXI</citedRange>
         	        <citedRange unit="item">10</citedRange>
-        	        <citedRange unit="plate"></citedRange>
+        	        <citedRange unit="plate"/>
         	    </bibl>
 			</listBibl>
             <listBibl type="secondary">

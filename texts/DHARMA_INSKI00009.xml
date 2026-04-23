@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -121,8 +121,8 @@
            
                <listApp>
                   <app loc="line">
-                     <lem></lem>
-                     <rdg source="bib:AuthorYear_01"> --></rdg>
+                     <lem/>
+                     <rdg source="bib:AuthorYear_01"> --&gt;</rdg>
                   </app>
                </listApp>
          </div>
@@ -146,7 +146,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

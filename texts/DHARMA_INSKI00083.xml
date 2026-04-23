@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -101,8 +101,8 @@
           
          <div type="edition" xml:lang="pra-Latn">
            <p>  
-           <lb n="1"/><g type="svastikaRight"></g> sidhaṁ therānaṁ bhaya<unclear>ṁ</unclear>tamitabh<unclear>ū</unclear>tinaṁ
-           <lb n="2"/>leṇaṁ sāgarapaloganaṁ deyadhama<g type="svastikaLeft"></g>    
+           <lb n="1"/><g ref="sym:san-svastika-right" type="symbol">*</g> sidhaṁ therānaṁ bhaya<unclear>ṁ</unclear>tamitabh<unclear>ū</unclear>tinaṁ
+           <lb n="2"/>leṇaṁ sāgarapaloganaṁ deyadhama<g ref="sym:san-svastika-left" type="symbol">*</g>    
           </p> 
          </div>
           
@@ -146,7 +146,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     			<bibl n="B+B">

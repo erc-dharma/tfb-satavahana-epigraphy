@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -102,7 +102,7 @@
          <div type="edition" xml:lang="pra-Latn">
            <p>  
            <lb n="1"/><supplied reason="lost">therāṇaṁ Ayya</supplied> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>āṇaṁ
-           <lb break="no" n="2"/><supplied reason="lost">A</supplied><unclear>ra</unclear>hantāṇaṁ jhāyiṇaṁ thūbhaṁ <g type="ddanda"></g>
+           <lb break="no" n="2"/><supplied reason="lost">A</supplied><unclear>ra</unclear>hantāṇaṁ jhāyiṇaṁ thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g>
           </p> 
          </div>
           
@@ -114,11 +114,11 @@
                <listApp>
                   <app loc="1">
                      <lem>Ā<supplied reason="lost">therāṇaṁ Ayya</supplied> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>āṇaṁ</lem>
-                     <rdg source="bib:Gokhale1991_01"><supplied reason="lost">the</supplied>rāṇaṃ <gap reason="lost" quantity="4" unit="character"></gap></rdg>
+                     <rdg source="bib:Gokhale1991_01"><supplied reason="lost">the</supplied>rāṇaṃ <gap reason="lost" quantity="4" unit="character"/></rdg>
                       <note>It is the left portion of this line which is missing, not the right.</note>
                   </app>
                   <app loc="3">
-                      <lem>thūbhaṁ <g type="ddanda"></g></lem>
+                      <lem>thūbhaṁ <g ref="sym:doubleBar" type="punctuation">.</g></lem>
                    <rdg source="bib:Gokhale1991_01">thubhaṁ</rdg>      
                   </app>
                </listApp>
@@ -144,7 +144,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="G">

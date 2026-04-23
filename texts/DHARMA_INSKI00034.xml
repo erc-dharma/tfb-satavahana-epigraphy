@@ -57,11 +57,11 @@
                     </msIdentifier>
                     
                     <msContents>
-                        <summary></summary> 
+                        <summary/> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             
                         </handDesc>
                     </physDesc>
@@ -108,7 +108,7 @@
            <lb n="5" break="no"/>dis<unclear>e</unclear> bhikhusaghe patiṭhapitā m<unclear>ā</unclear><space type="defect"/><unclear>tāp</unclear><supplied reason="lost">itaro</supplied>
            <lb n="6" break="no"/>sa Akhayanivi ca saghasa dinā kāhāpaṇa satāni <unclear>be</unclear>
            <lb n="7"/>Eto ciArika solasaka paḍik<unclear>o</unclear> mās<unclear>e</unclear> ca Utuk<unclear>ā</unclear>le sava
-           <lb n="8"/>l<unclear>o</unclear>ka<unclear>sa</unclear> hitasughatha <g type="svastikLeft"/>
+           <lb n="8"/>l<unclear>o</unclear>ka<unclear>sa</unclear> hitasughatha <g ref="sym:san-svastika-left" type="symbol">*</g>
           </p> 
          </div>
           
@@ -122,7 +122,7 @@
                      <lem>Ātevāsiniya</lem>
                      <rdg source="bib:Burgess+Buhler1883_01">Atevāsiṇiye</rdg> 
                      <rdg source="bib:Gokhale1991_01">Atevāsiṇiye</rdg>
-                      <note></note>
+                      <note/>
                   </app>
                   <app loc="3"> 
                      <lem><space type="defect"/> p<unclear>ā</unclear>ṇiyapoḍhi</lem>
@@ -176,7 +176,7 @@
           
         <div type="bibliography">
 	
-           <p></p>   
+           <p/>   
             
             <listBibl type="primary">
     		    <bibl n="B+B">
