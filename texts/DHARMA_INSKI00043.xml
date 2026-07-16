@@ -33,7 +33,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Munich</pubPlace>
-                <idno type="filename">DHARMA_INSKI00043</idno>
+                <idno type="filename">DHARMA_INSKI00043.xml</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
