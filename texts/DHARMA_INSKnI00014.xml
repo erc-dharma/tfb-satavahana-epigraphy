@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>KnI 14. Lower drum slab from the Kanaganahalli stūpa — reign of Māṭharīputta Siri-Puḷumāvi</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vito">
                         <forename>Vincent</forename>
                         <surname>Tournier</surname>

@@ -11,7 +11,7 @@
                 <title>Kanheri Cave 3 Right Pillar Inscription, Time of Sāmisiriyaña Sātakaṇi</title>
                 
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:kema"><!-- Update the id -->
                         <forename>Kelsey</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
@@ -19,7 +19,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp key="creator">Intellectual authorship of edition</resp>
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
                         <surname>Martini</surname>

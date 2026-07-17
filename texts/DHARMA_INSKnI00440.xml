@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Memorial stone, Sannati – reign of Vāseṭṭhīputta Sivasiri-Puḷumāvi</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:anol">
                         <forename>Andrew</forename>
                         <surname>Ollett</surname>

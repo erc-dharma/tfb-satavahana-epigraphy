@@ -11,7 +11,7 @@
                 <title>Kanheri Epitaph Inscription 18</title>
               
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>
@@ -20,7 +20,7 @@
                     
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                   
                     <persName ref="part:kema">
                         <forename>Kelsey</forename>

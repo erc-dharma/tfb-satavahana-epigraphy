@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>(Unknown object) <!-- recheck from ARIE1996-1997 Archaeological Survey of India Annual Report on Indian Epigraphy -->, Sannati</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vito">
                         <forename>Vincent</forename>
                         <surname>Tournier</surname>
